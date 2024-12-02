@@ -7,18 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A228741B2CFE62AD009FD371 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228741A2CFE62AD009FD371 /* CalendarView.swift */; };
+		A228741D2CFE62B6009FD371 /* EventsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228741C2CFE62B6009FD371 /* EventsView.swift */; };
+		A228741F2CFE62C1009FD371 /* TasbeehView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228741E2CFE62C1009FD371 /* TasbeehView.swift */; };
+		A22874222CFE62D1009FD371 /* QiblaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874212CFE62D1009FD371 /* QiblaView.swift */; };
+		A22874242CFE62DC009FD371 /* DonationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874232CFE62DC009FD371 /* DonationsView.swift */; };
 		A2D2687D2CFD1B6F00298AD1 /* HyderiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D2687C2CFD1B6F00298AD1 /* HyderiApp.swift */; };
-		A2D2687F2CFD1B6F00298AD1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D2687E2CFD1B6F00298AD1 /* ContentView.swift */; };
+		A2D2687F2CFD1B6F00298AD1 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D2687E2CFD1B6F00298AD1 /* RootView.swift */; };
 		A2D268812CFD1B7100298AD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D268802CFD1B7100298AD1 /* Assets.xcassets */; };
 		A2D268842CFD1B7100298AD1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D268832CFD1B7100298AD1 /* Preview Assets.xcassets */; };
+		A2D2688B2CFD1ED400298AD1 /* QuranView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D2688A2CFD1ED400298AD1 /* QuranView.swift */; };
+		A2D2688D2CFD1F1000298AD1 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D2688C2CFD1F1000298AD1 /* Extensions.swift */; };
+		A2D268902CFD206C00298AD1 /* Customs.md in Resources */ = {isa = PBXBuildFile; fileRef = A2D2688F2CFD206C00298AD1 /* Customs.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A228741A2CFE62AD009FD371 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		A228741C2CFE62B6009FD371 /* EventsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsView.swift; sourceTree = "<group>"; };
+		A228741E2CFE62C1009FD371 /* TasbeehView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasbeehView.swift; sourceTree = "<group>"; };
+		A22874212CFE62D1009FD371 /* QiblaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QiblaView.swift; sourceTree = "<group>"; };
+		A22874232CFE62DC009FD371 /* DonationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonationsView.swift; sourceTree = "<group>"; };
 		A2D268792CFD1B6F00298AD1 /* Hyderi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hyderi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D2687C2CFD1B6F00298AD1 /* HyderiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HyderiApp.swift; sourceTree = "<group>"; };
-		A2D2687E2CFD1B6F00298AD1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A2D2687E2CFD1B6F00298AD1 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		A2D268802CFD1B7100298AD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2D268832CFD1B7100298AD1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A2D2688A2CFD1ED400298AD1 /* QuranView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuranView.swift; sourceTree = "<group>"; };
+		A2D2688C2CFD1F1000298AD1 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		A2D2688F2CFD206C00298AD1 /* Customs.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Customs.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +68,15 @@
 			isa = PBXGroup;
 			children = (
 				A2D2687C2CFD1B6F00298AD1 /* HyderiApp.swift */,
-				A2D2687E2CFD1B6F00298AD1 /* ContentView.swift */,
+				A2D2687E2CFD1B6F00298AD1 /* RootView.swift */,
+				A2D2688A2CFD1ED400298AD1 /* QuranView.swift */,
+				A228741A2CFE62AD009FD371 /* CalendarView.swift */,
+				A228741C2CFE62B6009FD371 /* EventsView.swift */,
+				A228741E2CFE62C1009FD371 /* TasbeehView.swift */,
+				A22874212CFE62D1009FD371 /* QiblaView.swift */,
+				A22874232CFE62DC009FD371 /* DonationsView.swift */,
+				A2D2688C2CFD1F1000298AD1 /* Extensions.swift */,
+				A2D2688F2CFD206C00298AD1 /* Customs.md */,
 				A2D268802CFD1B7100298AD1 /* Assets.xcassets */,
 				A2D268822CFD1B7100298AD1 /* Preview Content */,
 			);
@@ -127,6 +151,7 @@
 			files = (
 				A2D268842CFD1B7100298AD1 /* Preview Assets.xcassets in Resources */,
 				A2D268812CFD1B7100298AD1 /* Assets.xcassets in Resources */,
+				A2D268902CFD206C00298AD1 /* Customs.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +162,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A2D2687F2CFD1B6F00298AD1 /* ContentView.swift in Sources */,
+				A228741F2CFE62C1009FD371 /* TasbeehView.swift in Sources */,
+				A228741B2CFE62AD009FD371 /* CalendarView.swift in Sources */,
+				A22874242CFE62DC009FD371 /* DonationsView.swift in Sources */,
+				A2D2687F2CFD1B6F00298AD1 /* RootView.swift in Sources */,
 				A2D2687D2CFD1B6F00298AD1 /* HyderiApp.swift in Sources */,
+				A2D2688B2CFD1ED400298AD1 /* QuranView.swift in Sources */,
+				A2D2688D2CFD1F1000298AD1 /* Extensions.swift in Sources */,
+				A22874222CFE62D1009FD371 /* QiblaView.swift in Sources */,
+				A228741D2CFE62B6009FD371 /* EventsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
