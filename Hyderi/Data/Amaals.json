@@ -1,0 +1,468 @@
+[
+    {
+        "id": 1,
+        "title": "Tahajjud Salaat",
+        "subtitle": "Salaatul Layl (Night Prayer)",
+        "description": "Salaatul Layl consists of 11 rakats\n\nThe first 8 in pairs of 2, each with the niyyah of 'Nawafilatul-Layl'\n\nThe next 2 with the niyyah of 'Salaatul Shif'a'\n\nAnd the remaining 1 with the niyyah of 'Salaatul Witr'",
+        "sections": [
+            {
+                "id": 1,
+                "description": "In Salaatul Witr, recite the following surahs:",
+                "details": [
+                    {
+                        "id": "1-1",
+                        "heading": "1x Surah Al-Fatihah (1):",
+                        "surahId": 1,
+                        "url": null,
+                        "body": []
+                    },
+                    {
+                        "id": "1-2",
+                        "heading": "3x Surah Al-Ikhlas (112):",
+                        "surahId": 112,
+                        "url": null,
+                        "body": []
+                    },
+                    {
+                        "id": "1-3",
+                        "heading": "1x Surah Al-Falaq (113):",
+                        "surahId": 113,
+                        "url": null,
+                        "body": []
+                    },
+                    {
+                        "id": "1-4",
+                        "heading": "1x Surah An-Nas (114):",
+                        "surahId": 114,
+                        "url": null,
+                        "body": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "description": "In the qunoot of Salaatul Witr, recite the following du'a:",
+                "details": [
+                    {
+                        "id": "2-1",
+                        "heading": null,
+                        "surahId": null,
+                        "url": null,
+                        "body": [
+                            {
+                                "id": "2-1-1",
+                                "text": "لآ اِلَهَ اِلاَّ اللّهُ الْحَلِيْمُ الْكَرِيْمُ",
+                                "transliteration": "LAA ILAAHA ILLALLAAHUL HALIMUL KARIM",
+                                "translation": "There is none worth worshipping but Allah Who is Forbearing and Generous"
+                            },
+                            {
+                                "id": "2-1-2",
+                                "text": "لآ اِلَهَ اِلاَّ اللّهُ الْعَلِيُّ الْعَظِيْمُ",
+                                "transliteration": "LAA ILAAHA ILLALLAAHUL ‘ALIYYUL ‘AZIM",
+                                "translation": "There is none worth worshipping but Allah Who is Most High and Great"
+                            },
+                            {
+                                "id": "2-1-3",
+                                "text": "سُبْحَانَ اللّهِ رَبِّ السَّمَاوَاتِ السَّبْعِ",
+                                "transliteration": "SUBHAANALLAAHI RABBIS SAMAAWAATIS SAB'",
+                                "translation": "Glory be to Allah, Who is the Sustainer of the seven heavens and of the seven earth"
+                            },
+                            {
+                                "id": "2-1-4",
+                                "text": "و رَبِّ الاَرْضِيْنَ السَّبْعِ",
+                                "transliteration": "WA RABBIL ‘ARZINAS SAB'",
+                                "translation": "And Who is the Sustainer of all the things"
+                            },
+                            {
+                                "id": "2-1-5",
+                                "text": "و مَا فِيْهِنَّ وَ مَا بَيْنَهُنَّ وَ",
+                                "transliteration": "WA MAA FIHINNA WA MAA BAYNAHUNNA",
+                                "translation": "in them, and between them,"
+                            },
+                            {
+                                "id": "2-1-6",
+                                "text": "رَبُّ الْعَرْشِ الْعَظِيْمِ",
+                                "transliteration": "WA RABBUL 'ARSHIL ‘AZIM",
+                                "translation": "And Who is the Lord of the great ‘Arsh (Divine Center of Authority & Power)"
+                            },
+                            {
+                                "id": "2-1-7",
+                                "text": "و الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِيْنَ",
+                                "transliteration": "WAL HAMDUL LILLAAHI RABBIL 'AALAMIN",
+                                "translation": "And all praise for Allah, the Sustainer of the worlds."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "description": "After Salaatul Witr, recite the following istighfar 70 times",
+                "details": [
+                    {
+                        "id": "3-1",
+                        "heading": null,
+                        "surahId": null,
+                        "url": null,
+                        "body": [
+                            {
+                                "id": "3-1-1",
+                                "text": "اَسْتَغْفِرُ اللّهَ رَبِّي وَ اَتُوْبُ اِلَيْهِ",
+                                "transliteration": "ASTAGHFIRULLAAH RABBI WA ATUUBU ILAYH",
+                                "translation": "I seek forgiveness of Allah my Lord and I turn to Him"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "description": "Finally, recite the following 300 times:",
+                "details": [
+                    {
+                        "id": "4-1",
+                        "heading": null,
+                        "surahId": null,
+                        "url": null,
+                        "body": [
+                            {
+                                "id": "4-1-1",
+                                "text": "اَلْعَفْوَ",
+                                "transliteration": "AL-'AFWA",
+                                "translation": "(I ask for) forgiveness"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Amaal e Ashura",
+        "subtitle": "Day of 10th Muharram",
+        "description": "The day of Ashura is a day of mourning, commemorating Imam Hussain (as) and his companions' martydom\n\nDuring this day, focus on the tragedy that took place and avoid business matters, acts of joy and unnecessary discussions\n\nAlso, it is sunnah to fast from Fajr to Asr late afternoon as a way of remembering the thirst of the army of Imam Hussain (as)",
+        "sections": [
+            {
+                "id": 1,
+                "description": "Between Fajr and Zuhr salaah recite the following salaat, which consists of 4 rakats in 2 sets of 2 as follows:",
+                "details": [
+                    {
+                        "id": "1-1",
+                        "heading": "In the first rakat of the first salaat, recite Surah Al-Kafirun (109) after Surah Al-Fatihah (1):",
+                        "surahId": 109,
+                        "url": null,
+                        "body": []
+                    },
+                    {
+                        "id": "1-2",
+                        "heading": "In the second rakat of the first salaat, recite Surah Al-Ikhlas (112) after Surah Al-Fatihah (1):",
+                        "surahId": 112,
+                        "url": null,
+                        "body": []
+                    },
+                    {
+                        "id": "1-3",
+                        "heading": "In the first rakat of the second salaat, recite Surah Al-Ahzab (33) or any other surah after Surah Al-Fatihah (1):",
+                        "surahId": 33,
+                        "url": null,
+                        "body": []
+                    },
+                    {
+                        "id": "1-4",
+                        "heading": "In the second rakat of the second salaat, recite Surah Al-Munafiqun (63) or any other surah after Surah Al-Fatihah (1):",
+                        "surahId": 63,
+                        "url": null,
+                        "body": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "description": "Take a few steps forward and backward 7 times to remember Imam Hussain (as) carrying his 6 month old baby Ali Asghar back and forth, hesitating to hand him over to his mother",
+                "details": [
+                    {
+                        "id": "2-1",
+                        "heading": "Recite the following as you are walking forward:",
+                        "surahId": null,
+                        "url": null,
+                        "body": [
+                            {
+                                "id": "2-1-1",
+                                "text": "اِنَّا لِله وَ اِنَّا اِلَيْهِ رَاجِعُوْنَ",
+                                "transliteration": "INNAA LILLAAHI WA INNAA ILAYHI RAAJI-O ‘ON",
+                                "translation": "Verily we are Allah’s and verily unto Him we return"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2-2",
+                        "heading": "Recite the following as you are walking backward:",
+                        "surahId": null,
+                        "url": null,
+                        "body": [
+                            {
+                                "id": "2-1-1",
+                                "text": "رِضًا بِقَضَاَئِهِ وَ تَسْلِيْمًا لِاَمْرِهِ",
+                                "transliteration": "RIZ’AN BI-QAZ’AAA-IHEEWA TASLEEMAN LI-AMRIH",
+                                "translation": "We are happy with His will and carry out His command"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "description": "Before Asr, listen to the maqtal of Imam Hussain (as)",
+                "details": []
+            },
+            {
+                "id": 4,
+                "description": "At around the time of Asr, open your strike (fast) as this is around the time when Imam Hussain (as) was martyred and his thirst ceased",
+                "details": []
+            },
+            {
+                "id": 5,
+                "description": "In the evening (around the time of Maghrib), listen to Shaam e Ghariban and Salaam e Akhir",
+                "details": [
+                    {
+                        "id": "5-1",
+                        "heading": "Salaam e Akhir:",
+                        "surahId": null,
+                        "url": "https://youtu.be/Fu3BZf163pU?si=QdqLYWz30LPvm2Iv",
+                        "body": [
+                            {
+                                "id": "5-1-1",
+                                "text": null,
+                                "transliteration": "SALAM KHAAK NASHEENO PA SOGWARON KA",
+                                "translation": "Salam from the mourners to those lying on the sand"
+                            },
+                            {
+                                "id": "5-1-2",
+                                "text": null,
+                                "transliteration": "GHAREEB DETE HAI PURSA TUMHARE PYARO KA",
+                                "translation": "The poor offer condolences for your loved ones"
+                            },
+                            {
+                                "id": "5-1-3",
+                                "text": null,
+                                "transliteration": "SALAM UN PA JINHE SHARM KHAAYE JAATI HAI",
+                                "translation": "Salam to those to whom Salam goes out of shame"
+                            },
+                            {
+                                "id": "5-1-4",
+                                "text": null,
+                                "transliteration": "KHULE SARON PE ASEERI KI KHAAK AATI HAI",
+                                "translation": "Uncovered heads are showered with the sands of imprisonment"
+                            },
+                            {
+                                "id": "5-1-5",
+                                "text": null,
+                                "transliteration": "SALAM US PA JO ZAHMAT KASHE SALAASIL HAI",
+                                "translation": "Salam to the one who bears hardships while being chained"
+                            },
+                            {
+                                "id": "5-1-6",
+                                "text": null,
+                                "transliteration": "MUSIBATON MAY IMAMAT KI PEHLI MANZIL HAI",
+                                "translation": "The first milestone of Imamat lies within hardships"
+                            },
+                            {
+                                "id": "5-1-7",
+                                "text": null,
+                                "transliteration": "SALAM BHEJTE HAI APNI SHAHZADI PAR",
+                                "translation": "Salam to the Princess (Zainab SA) to whom we pledge allegiance"
+                            },
+                            {
+                                "id": "5-1-8",
+                                "text": null,
+                                "transliteration": "KE JISKO SAWNP GAYE MARTE WAQT GHAR SARWAR",
+                                "translation": "To whom The King (Hussain AS) handed over the house (of The Prophet SAW)"
+                            },
+                            {
+                                "id": "5-1-9",
+                                "text": null,
+                                "transliteration": "MUSAFIRAT NE JISE BEBASI YE DIKHLAYI",
+                                "translation": "Her travels have taken everything from her"
+                            },
+                            {
+                                "id": "5-1-10",
+                                "text": null,
+                                "transliteration": "NISAR KAR DIYE BACHE NA BACH SAKA BHAI",
+                                "translation": "Her children have been sacrificed, nor was her Brother spared"
+                            },
+                            {
+                                "id": "5-1-11",
+                                "text": null,
+                                "transliteration": "ASEER HO KE JISE SHAAMIYO KE NARGHAY MAY",
+                                "translation": "The lady who was made a prisoner and was cordoned by Damascenes"
+                            },
+                            {
+                                "id": "5-1-12",
+                                "text": null,
+                                "transliteration": "HUSAINIYAT HAI SIKHAANA ALI KE LEHJE MAY",
+                                "translation": "Ali (AS) taught the character of Hussain (AS) through his way of speaking"
+                            },
+                            {
+                                "id": "5-1-13",
+                                "text": null,
+                                "transliteration": "SAKINA BIBI TUMHARE GHULAM HAAZIR HAI",
+                                "translation": "Lady Sakina (SA), your servants are here"
+                            },
+                            {
+                                "id": "5-1-14",
+                                "text": null,
+                                "transliteration": "BUJHE JO PYAS TO ASHKON KE JAAM HAAZIR HAI",
+                                "translation": "We brought you cups of tears for your thirst"
+                            },
+                            {
+                                "id": "5-1-15",
+                                "text": null,
+                                "transliteration": "YE SIN, YE HASHR YE SADMAY NAYE NAYE BIBI",
+                                "translation": "This age, this doomsday, these calamities are all new"
+                            },
+                            {
+                                "id": "5-1-16",
+                                "text": null,
+                                "transliteration": "KAHAN PA BAITHI HO QAIME TO JAL GAYE BIBI",
+                                "translation": "I wonder where are you sitting? All the tents have been burnt"
+                            },
+                            {
+                                "id": "5-1-17",
+                                "text": null,
+                                "transliteration": "PAHAAR RAAT BARI DER HAI SAWERE MAY",
+                                "translation": "The night seems to be mountainous, daybreak is so far away"
+                            },
+                            {
+                                "id": "5-1-18",
+                                "text": null,
+                                "transliteration": "KAHAN HO SHAAM-E-GHAREEBAN KE GHUP ANDHERE MAY",
+                                "translation": "Where are you in the pitch black darkness of the evening of the exiled and destitute?"
+                            },
+                            {
+                                "id": "5-1-19",
+                                "text": null,
+                                "transliteration": "ZAMEEN GARM, YATEEMI KI SAKHTIYAN BIBI",
+                                "translation": "The ground is hot (where you are sleeping), these are the hardships of being an orphan"
+                            },
+                            {
+                                "id": "5-1-20",
+                                "text": null,
+                                "transliteration": "WO SEENA JIS PA KE SOTI THI AB KAHAN BIBI",
+                                "translation": "That chest on which you used to sleep (her dad - Hussain AS) is no more"
+                            },
+                            {
+                                "id": "5-1-21",
+                                "text": null,
+                                "transliteration": "JANAAB-E-MAADAR-E-BAYSHEER KO BHI SAB KA SALAM",
+                                "translation": "Salam to the esteemed mother (Rubab SA) of the infant (Ali Asghar AS)"
+                            },
+                            {
+                                "id": "5-1-22",
+                                "text": null,
+                                "transliteration": "AJEEB WAQT HAI KYA DEIN TASALLIYON KA PAYAM",
+                                "translation": "This is a strange time, how can we send comforting messages?"
+                            },
+                            {
+                                "id": "5-1-23",
+                                "text": null,
+                                "transliteration": "ABHI KALEJE MAY EK AAG SI LAGI HOGI",
+                                "translation": "Right now your liver must be on fire (figuratively)"
+                            },
+                            {
+                                "id": "5-1-24",
+                                "text": null,
+                                "transliteration": "ABHI TO GODH KI GARMI NA KAM HUI HOGI",
+                                "translation": "The warmth of the cradle must not have cooled yet"
+                            },
+                            {
+                                "id": "5-1-25",
+                                "text": null,
+                                "transliteration": "NAHIN ANDHERE MAIN KUCH SOOJHTA KIDHAR DHUNDHEN",
+                                "translation": "In the darkness we can’t see anything, where should we search (for your son: Ali Asghar AS)?"
+                            },
+                            {
+                                "id": "5-1-26",
+                                "text": null,
+                                "transliteration": "TUMHARA CHAAND KAHAN CHHUP GAYA KIDHAR DHUNDHEN",
+                                "translation": "Where is your moon (a term of endearment for an infant child) hiding? Where should we search for him?"
+                            },
+                            {
+                                "id": "5-1-27",
+                                "text": null,
+                                "transliteration": "NA IS TARAH KOI KHETI HARI BHARI UJDI",
+                                "translation": "Never have any offspring been uprooted like this"
+                            },
+                            {
+                                "id": "5-1-28",
+                                "text": null,
+                                "transliteration": "TUMHARI MAANG BHI UJRI HAI GODH BHI UJDI",
+                                "translation": "Your marriage has been uprooted and your cradle has been as well"
+                            },
+                            {
+                                "id": "5-1-29",
+                                "text": null,
+                                "transliteration": "NAHI LAYEENO MAY INSAAN KOI KHUDA HAFIZ",
+                                "translation": "There isn't a single human being amongst the enemies, the enemies deserve to have all of their divine blessings recalled by God, may God keep you The imprisoned family of The Prophet SAW safe"
+                            },
+                            {
+                                "id": "5-1-30",
+                                "text": null,
+                                "transliteration": "DARINDE AUR YE BE-WARISI KHUDA HAFIZ",
+                                "translation": "You (imprisoned family of The Prophet SAW) are captives of carnivorous wild animals (the enemies) and you don't have enough heirs to protect you, may God keep you (imprisoned family of The Prophet SAW) safe"
+                            },
+                            {
+                                "id": "5-1-31",
+                                "text": null,
+                                "transliteration": "SHAREEK-E-HAQ DAROOD-O-SALAM-E-PAYGHAMBAR",
+                                "translation": "To those rightfully included in the darood and Salam of the Prophet SAW:"
+                            },
+                            {
+                                "id": "5-1-32",
+                                "text": null,
+                                "transliteration": "SALAM SAYYID-E-LAWLAAK KE LUTE GHAR PAR",
+                                "translation": "Salam to the looted household of the one for whom the universe was created"
+                            },
+                            {
+                                "id": "5-1-33",
+                                "text": null,
+                                "transliteration": "SALAM MOHSIN-E-ISLAM KHASTA TAN LAASHO",
+                                "translation": "Salam to the benefactors of Islam, the wound riddled corpses"
+                            },
+                            {
+                                "id": "5-1-34",
+                                "text": null,
+                                "transliteration": "SALAM TUM PE SHAEEDON KE BE KAFAN LAASHO",
+                                "translation": "Salam to the martyrs lying on the plains of Karbala unburried and without coffins"
+                            },
+                            {
+                                "id": "5-1-35",
+                                "text": null,
+                                "transliteration": "SALAM TUM PE RASOOL-O-BATOOL KE PYARO",
+                                "translation": "Salam to those who are dear to The Prophet SAW and Bibi Fatima SA"
+                            },
+                            {
+                                "id": "5-1-36",
+                                "text": null,
+                                "transliteration": "SALAM MEHR-E-SHAHADAT KE GIRD SAYYARO",
+                                "translation": "Salam to the exemplary pinnacles of martyrdom"
+                            },
+                            {
+                                "id": "5-1-37",
+                                "text": null,
+                                "transliteration": "BACHE TO AGLE BARAS HAM HAIN AUR YE GHAM PHIR HAI",
+                                "translation": "If we remain then next year we will be here to mourn again"
+                            },
+                            {
+                                "id": "5-1-38",
+                                "text": null,
+                                "transliteration": "JO CHAL BASE TO YE APNA SALAAM-E-AAKHIR HAI",
+                                "translation": "The mourners who will depart between this year and the next, send their final Salam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

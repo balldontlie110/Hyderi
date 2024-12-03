@@ -1,0 +1,3751 @@
+[
+    {
+        "id": 1,
+        "title": "Fajr Du'a",
+        "subtitle": "Morning",
+        "verses": [
+            {
+                "id": 1,
+                "text": "بِسْمِ ٱللَّهِ",
+                "translation": "In the Name of Allah.",
+                "transliteration": "BISMILLAHI",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "وَصَلَّىٰ ٱللَّهُ عَلَىٰ مُحَمَّد وآلِهِ",
+                "translation": "May Allah bless Muhammad and his Household.",
+                "transliteration": "WA SALLA ALLAHU `ALA MUHAMMADIN WA ALIHI",
+                "audio": 12
+            },
+            {
+                "id": 3,
+                "text": "وَأُفَوِّضُ أَمْرِي إِلَىٰ ٱللَّهِ",
+                "translation": "“I confide my cause unto Allah.",
+                "transliteration": "WA UFAWWIDU AMRI ILA ALLAHI",
+                "audio": 22
+            },
+            {
+                "id": 4,
+                "text": "إِنَّ ٱللَّهَ بَصيرٌ بِٱلْعِبَادِ",
+                "translation": "Surely, Allah is Seer of His slaves.",
+                "transliteration": "INNA ALLAHA BASIRUN BIL`IBADI",
+                "audio": 30
+            },
+            {
+                "id": 5,
+                "text": "فَوَقَاهُ ٱللَّهُ سَيِّئَاتِ مَا مَكَرُوا",
+                "translation": "So, Allah warded off from him the evils which they plotted.”",
+                "transliteration": "FAWAQAHU ALLAHU SAYYI'ATI MA MAKARU",
+                "audio": 37
+            },
+            {
+                "id": 6,
+                "text": "لاَ إِلٰهَ إِلاَّ أَنْتَ سُبْحَانَكَ",
+                "translation": "“There is no god save You. Be You Glorified!",
+                "transliteration": "LA ILAHA ILLA ANTA SUBHANAKA",
+                "audio": 46
+            },
+            {
+                "id": 7,
+                "text": "إِنِّي كُنْتُ مِنَ ٱلظَّالِمِيـنَ",
+                "translation": "Lo! I have been a wrongdoer.",
+                "transliteration": "INNI KUNTU MINA ALZZALIMINA",
+                "audio": 56
+            },
+            {
+                "id": 8,
+                "text": "فَٱسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ ٱلغَمِّ",
+                "translation": "Then, We heard his prayer and saved him from the anguish.",
+                "transliteration": "FASTAJABNA LAHU WA NAJJAYNAHU MINA ALGHAMMI",
+                "audio": 62
+            },
+            {
+                "id": 9,
+                "text": "وَكَذٰلِكَ نُنْجِي ٱلْمُؤْمِنينَ",
+                "translation": "Thus do We save the believers.”",
+                "transliteration": "WA KADHALIKA NUNJI ALMU'MININA",
+                "audio": 69
+            },
+            {
+                "id": 10,
+                "text": "حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+                "translation": "“Allah is Sufficient for us! Most Excellent is He in Whom we trust.",
+                "transliteration": "HASBUNA ALLAHU WA NI`MA ALWAKILU",
+                "audio": 75
+            },
+            {
+                "id": 11,
+                "text": "فَٱنَقَلَبُوٱ بِنِعْمَةٍ مِنَ ٱللَّهِ وَفَضْلٍ",
+                "translation": "So, they returned with grace and favor from Allah,",
+                "transliteration": "FANQALABU BINI`MATIN MINA ALLAHI WA FADLIN",
+                "audio": 82
+            },
+            {
+                "id": 12,
+                "text": "لَمْ يَمْسَسْهُمْ سُوءٌ",
+                "translation": "and no harm touched them.”",
+                "transliteration": "LAM YAMSAS-HUM SU'UN",
+                "audio": 88
+            },
+            {
+                "id": 13,
+                "text": "مَا شَاءَ ٱللَّهُ",
+                "translation": "Only that which Allah wills shall come to pass.",
+                "transliteration": "MA SHA'A ALLAHU",
+                "audio": 92
+            },
+            {
+                "id": 14,
+                "text": "لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِٱللَّهِ",
+                "translation": "There is neither strength nor power save with Allah.",
+                "transliteration": "LA HAWLA WA LA QUWWATA ILLA BILLAHI",
+                "audio": 96
+            },
+            {
+                "id": 15,
+                "text": "مَا شَاءَ ٱللَّهُ لاَ مَا شَاءَ ٱلنَّاسُ",
+                "translation": "Only that which Allah, but not people, wills shall come to pass.",
+                "transliteration": "MA SHA'A ALLAHU LA MA SHA'A ALNNASU",
+                "audio": 102
+            },
+            {
+                "id": 16,
+                "text": "مَا شَاءَ ٱللَّهُ وَإِنْ كَرِهَ ٱلنَّاسُ",
+                "translation": "Only that which Allah wills shall come to pass even if people detest it.",
+                "transliteration": "MA SHA'A ALLAHU WA IN KARIHA ALNNASU",
+                "audio": 110
+            },
+            {
+                "id": 17,
+                "text": "حَسْبِيَ ٱلرَّبُّ مِنَ ٱلْمَرْبُوبِيـنَ",
+                "translation": "Sufficient for me is the Lord against the lorded.",
+                "transliteration": "HASBIYA ALRRABBU MINA ALMARBUBINA",
+                "audio": 117
+            },
+            {
+                "id": 18,
+                "text": "حَسْبِيَ ٱلْخَالِقُ مِنَ ٱلْمَخْلُوقِيـنَ",
+                "translation": "Sufficient for me is the Creator against the creatures.",
+                "transliteration": "HASBIYA ALKHALIQU MINA ALMAKHLUQINA",
+                "audio": 123
+            },
+            {
+                "id": 19,
+                "text": "حَسْبِيَ ٱلرَّازِقُ مِنَ ٱلْمَرْزُوقِيـنَ",
+                "translation": "Sufficient for me is the Sustainer against the sustained.",
+                "transliteration": "HASBIYA ALRRAZIQU MINA ALMARZUQINA",
+                "audio": 130
+            },
+            {
+                "id": 20,
+                "text": "حَسْبِيَ ٱللَّهُ رَبُّ ٱلْعَالَمِيـنَ",
+                "translation": "Sufficient for me is Allah, the Lord of the worlds.",
+                "transliteration": "HASBIYA ALLAHU RABBU AL`ALAMINA",
+                "audio": 136
+            },
+            {
+                "id": 21,
+                "text": "حَسْبِي مَنْ هُوَ حَسْبِي",
+                "translation": "Sufficient for me is He Who is sufficient for me.",
+                "transliteration": "HASBI MAN HUWA HASBI",
+                "audio": 142
+            },
+            {
+                "id": 22,
+                "text": "حَسْبِي مَنْ لَمْ يَزَلْ حَسْبِي",
+                "translation": "Sufficient for me is He Who has been always sufficient for me.",
+                "transliteration": "HASBI MAN LAM YAZAL HASBI",
+                "audio": 146
+            },
+            {
+                "id": 23,
+                "text": "حَسْبِي مَنْ كَانَ مُذْ كُنْتُ لَمْ يَزَلْ حَسْبِي",
+                "translation": "Sufficient for me is He Who had been since eternity and still sufficient for me.",
+                "transliteration": "HASBI MAN KANA MUDH KUNTU LAM YAZAL HASBI",
+                "audio": 151
+            },
+            {
+                "id": 24,
+                "text": "حَسْبِيَ ٱللَّهُ لاَ إِلٰهَ إِلاَّ هُوَ",
+                "translation": "“Allah suffices me. There is no god save Him.",
+                "transliteration": "HASBIYA ALLAHU LA ILAHA ILLA HUWA",
+                "audio": 158
+            },
+            {
+                "id": 25,
+                "text": "عَلَيْهِ تَوَكَّلْتُ",
+                "translation": "In Him have I put my trust,",
+                "transliteration": "`ALAYHI TAWAKKALTU",
+                "audio": 165
+            },
+            {
+                "id": 26,
+                "text": "وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+                "translation": "and He is the Lord of the Tremendous Throne.”",
+                "transliteration": "WA HUWA RABBU AL`ARSHI AL`AZIMI",
+                "audio": 167
+            }
+        ],
+        "audio": "Fajr"
+    },
+    {
+        "id": 2,
+        "title": "Zuhr Du'a",
+        "subtitle": "Midday",
+        "verses": [
+            {
+                "id": 1,
+                "text": "لاَ إِلٰهَ إِلاَّ ٱللَّهُ ٱلْعَظِيمُ ٱلْحَلِيمُ",
+                "translation": "There is no god save Allah, the All-great and Most Forbearing.",
+                "transliteration": "LA ILAHA ILLA ALLAHU AL`AZIMU ALHALIMU",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "لاَ إِلٰهَ إِلاَّ ٱللَّهُ رَبُّ ٱلْعَرْشِ ٱلْكَرِيـمِ",
+                "translation": "There is no god save Allah, the Lord of the Throne of Honor.",
+                "transliteration": "LA ILAHA ILLA ALLAHU RABBU AL`ARSHI ALKARIMU",
+                "audio": 20
+            },
+            {
+                "id": 3,
+                "text": "اَلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمينَ",
+                "translation": "All praise be to Allah, the Lord of the worlds.",
+                "transliteration": "ALHAMDU LILLAHI RABBI AL`ALAMINA",
+                "audio": 26
+            },
+            {
+                "id": 4,
+                "text": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ",
+                "translation": "O Allah, I ask You for the motives of Your mercy,",
+                "transliteration": "ALLAHUMMA INNI AS'ALUKA MUJIBATI RAHMATIKA",
+                "audio": 32
+            },
+            {
+                "id": 5,
+                "text": "وَعَزَائِمَ مَغْفِرَتِكَ",
+                "translation": "the determining causes of Your forgiveness,",
+                "transliteration": "WA `AZA'IMA MAGHFIRATIKA",
+                "audio": 38
+            },
+            {
+                "id": 6,
+                "text": "وَٱلْغَنيمَةَ مِنْ كُلِّ بِرٍّ",
+                "translation": "the advantage of each act of kindness,",
+                "transliteration": "WALGHANIMATA MIN KULLI BIRRIN",
+                "audio": 42
+            },
+            {
+                "id": 7,
+                "text": "وَٱلسَّلاَمَةَ مِنْ كُلِّ إِثْمٍ",
+                "translation": "and the safeguarding against each and every sin.",
+                "transliteration": "WALSSALAMATA MIN KULLI ITHMIN",
+                "audio": 46
+            },
+            {
+                "id": 8,
+                "text": "اَللَّهُمَّ لاَ تَدَعْ لِي ذَنْباً إِلاَّ غَفَرْتَهُ",
+                "translation": "O Allah, (please) do not leave any of my offenses unforgiven,",
+                "transliteration": "ALLAHUMMA LA TADA` LI DHANBAN ILLA GHAFARTAHU",
+                "audio": 49
+            },
+            {
+                "id": 9,
+                "text": "وَلاَ هَمّاً إِلاَّ فَرَّجْتَهُ",
+                "translation": "any of my misfortunes unrelieved,",
+                "transliteration": "WA LA HAMMAN ILLA FARRAJTAHU",
+                "audio": 55
+            },
+            {
+                "id": 10,
+                "text": "وَلاَ سُقْماً إِلاَّ شَفَيْتَهُ",
+                "translation": "any of my ailments unhealed,",
+                "transliteration": "WA LA SUQMAN ILLA SHAFAYTAHU",
+                "audio": 59
+            },
+            {
+                "id": 11,
+                "text": "وَلاَ عَيْباً إِلاَّ سَتَرْتَهُ",
+                "translation": "any of my defects uncovered,",
+                "transliteration": "WA LA `AYBAN ILLA SATARTAHU",
+                "audio": 63
+            },
+            {
+                "id": 12,
+                "text": "وَلاَ رِزْقاً إِلاَّ بَسَطْتَهُ",
+                "translation": "any (item of my) sustenance not including (me),",
+                "transliteration": "WA LA RIZQAN ILLA BASATTAHU",
+                "audio": 67
+            },
+            {
+                "id": 13,
+                "text": "وَلاَ خَوْفاً إِلاَّ آمَنْتَهُ",
+                "translation": "any fear (that I experience) unsecured,",
+                "transliteration": "WA LA KHAWFAN ILLA AMANTAHU",
+                "audio": 71
+            },
+            {
+                "id": 14,
+                "text": "وَلاَ سُوءاً إِلاَّ صَرَفْتَهُ",
+                "translation": "any evil (that comes upon me) uncontrollable,",
+                "transliteration": "WA LA SU'AN ILLA SARAFTAHU",
+                "audio": 76
+            },
+            {
+                "id": 15,
+                "text": "وَلاَ حَاجَةً هِيَ لَكَ رِضاً وَلِيَ فيهَا صَلاَحٌ إِلاَّ قَضَيْتَهَا",
+                "translation": "and any need that achieves Your satisfaction and my benefit unanswered.",
+                "transliteration": "WA LA HAJATAN HIYA LAKA RIDAN WA LIYA FIHA SALAHUN ILLA QADAYTAHA",
+                "audio": 80
+            },
+            {
+                "id": 16,
+                "text": "يَا أَرْحَمَ ٱلرَّاحِمينَ",
+                "translation": "O most Merciful of all those who show mercy.",
+                "transliteration": "YA ARHAMA ALRRAHIMINA",
+                "audio": 89
+            },
+            {
+                "id": 17,
+                "text": "آمينَ رَبَّ ٱلْعَالَمينَ",
+                "translation": "(please) Respond, O Lord of the worlds.",
+                "transliteration": "AMINA RABBA AL`ALAMINA",
+                "audio": 94
+            }
+        ],
+        "audio": "Zuhr"
+    },
+    {
+        "id": 3,
+        "title": "Asr Du'a",
+        "subtitle": "Afternoon",
+        "verses": [
+            {
+                "id": 1,
+                "text": "أَسْتَغْفِرُ ٱللَّهَ ٱلَّذِي لاَ إِلٰهَ إِلاَّ هُوَ",
+                "translation": "I pray the forgiveness of Allah; there is no god save Him,",
+                "transliteration": "ASTAGHFIRU ALLAHA ALLADHI LA ILAHA ILLA HUWA",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "ٱلْحَيُّ ٱلْقَيُّومُ",
+                "translation": "the Ever-living, the Self-Subsisting,",
+                "transliteration": "ALHAYYU ALQAYYUMU",
+                "audio": 15
+            },
+            {
+                "id": 3,
+                "text": "ٱلرَّحْمٰنُ ٱلرَّحِيمُ",
+                "translation": "the All-compassionate, the All-merciful,",
+                "transliteration": "ALRRAHMANI ALRRAHIMU",
+                "audio": 19
+            },
+            {
+                "id": 4,
+                "text": "ذُو ٱلْجَلاَلِ وَٱلإِكْرَامِ",
+                "translation": "and the Lord of Majesty and Honor.",
+                "transliteration": "DHU ALJALALI WAL-IKRAMI",
+                "audio": 24
+            },
+            {
+                "id": 5,
+                "text": "وَ أَسْأَلُهُ أَنْ يَتُوبَ عَلَيَّ",
+                "translation": "And I ask Him to accept my repentance,",
+                "transliteration": "WA AS'ALUHU AN YATUBA `ALAYYA",
+                "audio": 31
+            },
+            {
+                "id": 6,
+                "text": "تَوْبَةَ عَبْدٍ ذَلِيلٍ خَاضِعٍ",
+                "translation": "like His acceptance of the repentance of a slave who is submissive, acquiescent,",
+                "transliteration": "TAWBATA `ABDIN DHALILIN KHADI`IN",
+                "audio": 36
+            },
+            {
+                "id": 7,
+                "text": "فَقِيرٍ بَائِسٍ",
+                "translation": "poor, miserable,",
+                "transliteration": "FAQIRIN BA'ISIN",
+                "audio": 45
+            },
+            {
+                "id": 8,
+                "text": "مِسْكِينٍ مُسْتَكِينٍ مُسْتَجِيرٍ",
+                "translation": "despondent, dejected, seeking refuge (with Him),",
+                "transliteration": "MISKININ MUSTAKININ MUSTAJIRIN",
+                "audio": 51
+            },
+            {
+                "id": 9,
+                "text": "لاَ يَمْلِكُ لِنَفْسِهِ نَفْعَاً وَلاَ ضَرّاً",
+                "translation": "not controlling for himself any harm or profit,",
+                "transliteration": "LA YAMLIKU LINAFSIHI NAF`AN WA LA DARRAN",
+                "audio": 60
+            },
+            {
+                "id": 10,
+                "text": "وَلاَ مَوْتاً وَلاَ حَيَاةً وَلاَ نُشُوراً",
+                "translation": "and not controlling death nor life nor raising (the dead) to life.",
+                "transliteration": "WA LA MAWTAN WA LA HAYATAN WA LA NUSHURAN",
+                "audio": 72
+            },
+            {
+                "id": 11,
+                "text": "ا َللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ نَفْسٍ لاَ تَشْبَعُ",
+                "translation": "O Allah, I surely seek Your protection against a self that never has enough,",
+                "transliteration": "ALLAHUMMA INNI A`UDHU BIKA MIN NAFSIN LA TASHBA`U",
+                "audio": 82
+            },
+            {
+                "id": 12,
+                "text": "وَمِنْ قَلْبٍ لاَ يَخْشَعُ",
+                "translation": "a heart that does not feel apprehension,",
+                "transliteration": "WA MIN QALBIN LA YAKHSHA`U",
+                "audio": 91
+            },
+            {
+                "id": 13,
+                "text": "وَمِنْ عِلْمٍ لاَ يَنْفَعُ",
+                "translation": "knowledge that does not avail,",
+                "transliteration": "WA MIN `ILMIN LA YANFA`U",
+                "audio": 95
+            },
+            {
+                "id": 14,
+                "text": "وَمِنْ صَلاَةٍ لاَ تُرْفَعُ",
+                "translation": "a prayer that is not accepted,",
+                "transliteration": "WA MIN SALATIN LA TURFA`U",
+                "audio": 100
+            },
+            {
+                "id": 15,
+                "text": "وَمِنْ دُعَاءٍ لاَ يُسْمَعُ",
+                "translation": "and a supplication that is not responded.",
+                "transliteration": "WA MIN DU`A'IN LA YUSMA`U",
+                "audio": 105
+            },
+            {
+                "id": 16,
+                "text": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ ٱلْيُسْرَ بَعْدَ ٱلْعُسْرِ",
+                "translation": "O Allah, I surely beseech You for easiness after difficulty,",
+                "transliteration": "ALLAHUMMA INNI AS'ALUKA ALYUSRA BA`DA AL`USRI",
+                "audio": 114
+            },
+            {
+                "id": 17,
+                "text": "وَٱلْفَرَجَ بَعْدَ ٱلْكَرْبِ",
+                "translation": "relief after misfortune,",
+                "transliteration": "WALFARAJA BA`DA ALKARBI",
+                "audio": 127
+            },
+            {
+                "id": 18,
+                "text": "وَٱلرَّخَاءَ بَعْدَ ٱلشِّدَّةِ",
+                "translation": "and comfort after hardship.",
+                "transliteration": "WALRRAKHA'A BA`DA ALSHSHIDDATI",
+                "audio": 132
+            },
+            {
+                "id": 19,
+                "text": "اَللَّهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ",
+                "translation": "O Allah, You are certainly the source of each and every favor that covers us.",
+                "transliteration": "ALLAHUMMA MA BINA MIN NI`MATIN FAMINKA",
+                "audio": 138
+            },
+            {
+                "id": 20,
+                "text": "لاَ إِلٰهَ إِلاَّ أَنْتَ",
+                "translation": "There is no god save You.",
+                "transliteration": "LA ILAHA ILLA ANTA",
+                "audio": 146
+            },
+            {
+                "id": 21,
+                "text": "أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ",
+                "translation": "I pray Your forgiveness and repent before You.",
+                "transliteration": "ASTAGHFIRUKA WA ATUBU ILAYKA",
+                "audio": 153
+            }
+        ],
+        "audio": "Asr"
+    },
+    {
+        "id": 4,
+        "title": "Maghrib Du'a",
+        "subtitle": "Evening",
+        "verses": [
+            {
+                "id": 1,
+                "text": "اَللَّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ",
+                "translation": "O Allah! I beseech You for the motives of Your mercy,",
+                "transliteration": "ALLAHUMMA INNI AS'ALUKA MUJIBATI RAHMATIKA",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "وَعَزَائِمِ مَغْفِرَتِكَ",
+                "translation": "the determining causes of Your forgiveness,",
+                "transliteration": "WA `AZA'IMA MAGHFIRATIKA",
+                "audio": 39
+            },
+            {
+                "id": 3,
+                "text": "وَٱلنَّجَاةَ مِنَ ٱلنَّارِ وَمِنْ كُلِّ بِلِيَّةٍ",
+                "translation": "deliverance from Hellfire and all misfortunes,",
+                "transliteration": "WALNNAJATA MINA ALNNARI WA MIN KULLI BALIYYATIN",
+                "audio": 42
+            },
+            {
+                "id": 4,
+                "text": "وَٱلْفَوْزَ بِٱلْجَنَّةِ وَٱلرِّضْوَانِ في دَارِ ٱلسَّلاَمِ",
+                "translation": "winning Paradise, Divine Contentment in the Abode of Peace,",
+                "transliteration": "WALFAWZA BILJANNATI WALRRIDWANI FI DARI ALSSALAMI",
+                "audio": 47
+            },
+            {
+                "id": 5,
+                "text": "وَجَوَارِ نَبِيِّكَ مُحَمَّدٍ عَلَيْهِ وَآلِهِ ٱلسَّلاَمُ",
+                "translation": "and the vicinity of Your Prophet Muhammad—peace be upon him and his Household.",
+                "transliteration": "WA JIWARI NABIYYIKA MUHAMMADIN `ALAYHI WA ALIHI ALSSALAMU",
+                "audio": 51
+            },
+            {
+                "id": 6,
+                "text": "اَللَّهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ",
+                "translation": "O Allah, You are certainly the source of each and every favor that covers us.",
+                "transliteration": "ALLAHUMMA MA BINA MIN NI`MATIN FAMINKA",
+                "audio": 54
+            },
+            {
+                "id": 7,
+                "text": "لاَ إِلٰهَ إِلاَّ أَنْتَ",
+                "translation": "There is no god save You.",
+                "transliteration": "LA ILAHA ILLA ANTA",
+                "audio": 58
+            },
+            {
+                "id": 8,
+                "text": "أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ",
+                "translation": "I pray Your forgiveness and I repent before You.",
+                "transliteration": "ASTAGHFIRUKA WA ATUBU ILAYKA",
+                "audio": 69
+            }
+        ],
+        "audio": "Maghrib"
+    },
+    {
+        "id": 5,
+        "title": "Isha Du'a",
+        "subtitle": "Night",
+        "verses": [
+            {
+                "id": 1,
+                "text": "اَللَّهُمَّ إِنَّهُ لَيْسَ لِي عِلْمٌ بِمَوْضِعِ رِزْقِي",
+                "translation": "O Allah! verily, I lack acquaintance with the place of my sustenance;",
+                "transliteration": "ALLAHUMMA INNAHU LAYSA LI `ILMUN BIMAWADI`I RIZQI",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "وَإِنَّمَا أَطْلُبُهُ بِخَطَرَاتٍ تَخْطُرُ عَلَىٰ قَلْبِي",
+                "translation": "rather, I am seeking it owing to ideas that come upon my mind.",
+                "transliteration": "WA INNMA ATLUBUHU BIKHATARATIN TAKHTURU `ALA QALBI",
+                "audio": 27
+            },
+            {
+                "id": 3,
+                "text": "فَأَجُولُ فِي طَلَبِهِ ٱلْبُلْدَانَ",
+                "translation": "I consequently wander in countries searching for it.",
+                "transliteration": "FA-AJULU FI TALABIHU ALBULDANA",
+                "audio": 42
+            },
+            {
+                "id": 4,
+                "text": "فَأَنَا فِيمَا أَنَا طَالِبٌ كَٱلْحَيْرَانِ",
+                "translation": "By doing such, I am as confused as the confounded,",
+                "transliteration": "FA-ANA FIMA ANA TALIBUN KALHAYRANI",
+                "audio": 53
+            },
+            {
+                "id": 5,
+                "text": "لاَ أَدْرِي أَفِي سَهْلٍ هَوُ أَمْ فِي جَبَلٍ",
+                "translation": "since I do not know whether my sustenance lies in a plain, on a mountain,",
+                "transliteration": "LA ADRI AFI SAHLIN HUWA AM FI JABALIN",
+                "audio": 65
+            },
+            {
+                "id": 6,
+                "text": "أَمْ في أَرْضٍ أَمْ في سَمَاءٍ",
+                "translation": "on the ground, in the air,",
+                "transliteration": "AM FI ARDIN AM FI SAMA'IN",
+                "audio": 74
+            },
+            {
+                "id": 7,
+                "text": "أَمْ فِي بَرٍّ أَمْ فِي بَحْرٍ",
+                "translation": "on lands, in seas,",
+                "transliteration": "AM FI BARRIN AM FI BAHRIN",
+                "audio": 86
+            },
+            {
+                "id": 8,
+                "text": "وَعَلَىٰ يَدَيْ مَنْ",
+                "translation": "at whose hands,",
+                "transliteration": "WA `ALA YADAY MAN",
+                "audio": 93
+            },
+            {
+                "id": 9,
+                "text": "وَمِنْ قِبَلِ مَنْ",
+                "translation": "or who the source of it is.",
+                "transliteration": "WA MIN QIBALI MAN",
+                "audio": 100
+            },
+            {
+                "id": 10,
+                "text": "وَقَدْ عَلِمْتُ أَنَّ عِلْمَهُ عِنْدَكَ",
+                "translation": "I have full knowledge that You know all these,",
+                "transliteration": "WA QAD `ALIMTU ANNA `ILMAHU `INDAKA",
+                "audio": 107
+            },
+            {
+                "id": 11,
+                "text": "وَ أَسْبَابَهُ بِيَدِكَ",
+                "translation": "the causes of them are in Your Hands,",
+                "transliteration": "WA ASBABAHU BIYADIKA",
+                "audio": 115
+            },
+            {
+                "id": 12,
+                "text": "وَ أَنْتَ ٱلَّذي تَقْسِمُهُ بِلُطْفِكَ",
+                "translation": "and it is You Who distribute it out of Your compassion",
+                "transliteration": "WA ANTA ALLADHI TAQSIMUHU BILUTFIKA",
+                "audio": 122
+            },
+            {
+                "id": 13,
+                "text": "وَتُسَبِّبُهُ بِرَحْمَتِكَ",
+                "translation": "and cause it out of Your mercy.",
+                "transliteration": "WA TUSABBIBUHU BIRAHMATIKA",
+                "audio": 131
+            },
+            {
+                "id": 14,
+                "text": "اَللَّهُمَّ فَصَلِّ عَلَىٰ مُحَمَّدٍ وَآلِهِ",
+                "translation": "O Allah, please send blessings to Muhammad and his Household",
+                "transliteration": "ALLAHUMMA FASALLI `ALA MUHAMMADIN WA ALIHI",
+                "audio": 138
+            },
+            {
+                "id": 15,
+                "text": "وَٱجْعَلْ يَا رَبِّ رِزْقَكَ لِي وَاسِعاً",
+                "translation": "and make, O Lord, Your sustenance that is provided (by You) to me expansive,",
+                "transliteration": "WAJ`AL YA RABBI RIZQAKA LI WASI`AN",
+                "audio": 151
+            },
+            {
+                "id": 16,
+                "text": "وَمَطْلَبَهُ سَهْلاً",
+                "translation": "my seeking for it easy for me,",
+                "transliteration": "WA MATLABAHU SAHLAN",
+                "audio": 160
+            },
+            {
+                "id": 17,
+                "text": "وَمَاْخَذَهُ قَرِيباً",
+                "translation": "and its source close to me.",
+                "transliteration": "WA MA'KHADHAHU QARIBAN",
+                "audio": 166
+            },
+            {
+                "id": 18,
+                "text": "وَلاَ تُعَنِّنِي بِطَلَبِ مَا لَمْ تُقَدِّرْ لِي فيهِ رِزْقاً",
+                "translation": "Please, do not fatigue me by seeking that which You have not decided for me to take,",
+                "transliteration": "WA LA TU`ANNINI BITALBI MA LAM TUQADDIRU LI FIHI RIZQAN",
+                "audio": 174
+            },
+            {
+                "id": 19,
+                "text": "فَإِنَّكَ غَنِيٌّ عَنْ عَذَابِي",
+                "translation": "because You are certainly in no need for tormenting me",
+                "transliteration": "FA'INNAKA GHANIYYUN `AN `ADHABI",
+                "audio": 186
+            },
+            {
+                "id": 20,
+                "text": "وَ أَنَا فَقِيـرٌ إِلَىٰ رَحْمَتِكَ",
+                "translation": "while I am in full need for Your mercy.",
+                "transliteration": "WA ANA FAQIRUN ILA RAHMATIKA",
+                "audio": 193
+            },
+            {
+                "id": 21,
+                "text": "فَصَلِّ عَلَىٰ مُحَمَّدٍ وَآلِهِ",
+                "translation": "(Please) Send blessings upon Muhammad and his Household",
+                "transliteration": "FASALLI `ALA MUHAMMADIN WA ALIHI",
+                "audio": 199
+            },
+            {
+                "id": 22,
+                "text": "وَجُدْ عَلَىٰ عَبْدِكَ بِفَضْلِكَ",
+                "translation": "and confer liberally upon me, Your slave, out of Your graciousness.",
+                "transliteration": "WA JUD `ALA `ABDIKA BIFADLIKA",
+                "audio": 207
+            },
+            {
+                "id": 23,
+                "text": "إِنَّكَ ذُو فَضْلٍ عَظيم",
+                "translation": "You are surely the Lord of great favor.",
+                "transliteration": "INNAKA DHU FADLIN `AZIMIN",
+                "audio": 212
+            }
+        ],
+        "audio": "Isha"
+    },
+    {
+        "id": 6,
+        "title": "Du'a Hujjat",
+        "subtitle": "Imam Mahdi (as)",
+        "verses": [
+            {
+                "id": 1,
+                "text": "اللّهُمّ كُنْ لِوَلِيّكَ الحُجّةِ ابْنِ الحَسَنِ",
+                "translation": "O Allah, be, for Your representative, the Hujjat (proof), son of Al ­Hassan,",
+                "transliteration": "ALLAAHUMMA KUN LE-WALIYYEKAL HUJJATIBNIL HASANE",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "صَلَوَاتُكَ عَلَيْهِ وَعَلَى آبَائِهِ",
+                "translation": "Your blessings be on him and his forefathers,",
+                "transliteration": "SALAWAATOKA A'LAYHE WA A'LAA AAABAA-EHI",
+                "audio": 26
+            },
+            {
+                "id": 3,
+                "text": "فِي هذِهِ السَّاعَةِ وَفي كُلّ سَاعَةٍ",
+                "translation": "in this hour and in every hour,",
+                "transliteration": "FEE HAAZEHIS SAA-A'TE WA FEE KULLE SAA-A'TIN",
+                "audio": 35
+            },
+            {
+                "id": 4,
+                "text": "وَلِيّاً وَحَافِظاً",
+                "translation": "a guardian, a protector,",
+                "transliteration": "WALIYYAWN WA HAAFEZAWN",
+                "audio": 46
+            },
+            {
+                "id": 5,
+                "text": "وَقَائِداً وَنَاصِراً",
+                "translation": "a leader, a helper,",
+                "transliteration": "WA QAA-EDAWN WA NAASERAWN",
+                "audio": 51
+            },
+            {
+                "id": 6,
+                "text": "وَدَلِيلاً وَعَيْناً",
+                "translation": "a proof, and an eye,",
+                "transliteration": "WA DALEELAWN WA A'YNAN",
+                "audio": 57
+            },
+            {
+                "id": 7,
+                "text": "حَتَّى تُسْكِنَهُ أَرْضَكَ طَوْعاً",
+                "translation": "Until You make him live on the earth, in obedience (to You),",
+                "transliteration": "HATTAA TUSKENAHU ARZAKA TAW-A'N",
+                "audio": 63
+            },
+            {
+                "id": 8,
+                "text": "وَتُمَتّعَهُ فِيهَا طَوِيلاً",
+                "translation": "and cause him to live in it for a long time",
+                "transliteration": "WA TOMATTE-A'HU FEEHAA TAWEELAA",
+                "audio": 69
+            }
+        ],
+        "audio": "Hujjat"
+    },
+    {
+        "id": 7,
+        "title": "Du'a of Imam Zainul Abideen",
+        "subtitle": "After Jummah Salaat",
+        "verses": [
+            {
+                "id": 1,
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ",
+                "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+                "transliteration": "BISMILLAHI ALRRAHMANI ALRRAHIMI",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "اَلْحَمْدُ لِلَّهِ ٱلْأَوَّلِ قَبْلَ ٱلْإِنْشَاءِ وَٱلْإِحْيَاءِ",
+                "translation": "All praise be to Allah, the First before the bringing forth and the giving of life,",
+                "transliteration": "ALHAMDU LILLAHI AL-AWWALI QABLA AL-INSHA'I WAL-IHYA'I",
+                "audio": 12
+            },
+            {
+                "id": 3,
+                "text": "وَٱلْآخِرِ بَعْدَ فَنَاءِ ٱلْأَشْيَاءِ",
+                "translation": "and the Last after the annihilation of all things,",
+                "transliteration": "WAL-AKHIRI BA`DA FANA'I AL-ASHYA'I",
+                "audio": 19
+            },
+            {
+                "id": 4,
+                "text": "ٱلْعَلِيمِ ٱلَّذِي لاَ يَنْسَىٰ مَنْ ذَكَرَهُ",
+                "translation": "the All-knowing Who forgets not him who remembers Him,",
+                "transliteration": "AL`ALIMI ALLADHI LA YANSA MAN DHAKARAHU",
+                "audio": 26
+            },
+            {
+                "id": 5,
+                "text": "وَلاَ يَنْقُصُ مَنْ شَكَرَهُ",
+                "translation": "decreases not him who thanks Him,",
+                "transliteration": "WA LA YANQUSU MAN SHAKARAHU",
+                "audio": 32
+            },
+            {
+                "id": 6,
+                "text": "وَلاَ يُخَيِّبُ مَنْ دَعَاهُ",
+                "translation": "disappoints not him who supplicates Him,",
+                "transliteration": "WA LA YUKHAYYIBU MAN DA`AHU",
+                "audio": 38
+            },
+            {
+                "id": 7,
+                "text": "وَلاَ يَقْطَعُ رَجَاءَ مَنْ رَجَاهُ",
+                "translation": "and cuts not off the hope of him who hopes in Him!",
+                "transliteration": "WA LA YAQTA`U RAJA'A MAN RAJAHU",
+                "audio": 43
+            },
+            {
+                "id": 8,
+                "text": "اَللَّهُمَّ إِنِّي أُشْهِدُكَ",
+                "translation": "O Allah, I call You to witness",
+                "transliteration": "ALLAHUMMA INNI USH-HIDUKA",
+                "audio": 48
+            },
+            {
+                "id": 9,
+                "text": "وَكَفَىٰ بِكَ شَهيداً",
+                "translation": "and You are sufficient Witness",
+                "transliteration": "WA KAFA BIKA SHAHIDAN",
+                "audio": 51
+            },
+            {
+                "id": 10,
+                "text": "وَأُشْهِدُ جَمِيعَ مَلائِكَتِكَ",
+                "translation": "and I call to witness all Your angels,",
+                "transliteration": "WA USH-HIDU JAMI`A MALA'IKATIKA",
+                "audio": 55
+            },
+            {
+                "id": 11,
+                "text": "وَسُكَّانَ سَموَاتِكَ",
+                "translation": "the inhabitants of Your heavens,",
+                "transliteration": "WA SUKKANA SAMAWATIKA",
+                "audio": 59
+            },
+            {
+                "id": 12,
+                "text": "وَحَمَلَةَ عَرْشِكَ",
+                "translation": "the bearers of Your Throne,",
+                "transliteration": "WA HAMALATA `ARSHIKA",
+                "audio": 62
+            },
+            {
+                "id": 13,
+                "text": "وَمَنْ بَعَثْتَ مِنْ أَنْبيَائِكَ وَرُسُلِكَ",
+                "translation": "Your prophets and Your messengers whom You have sent out,",
+                "transliteration": "WA MAN BA`ATHTA MIN ANBIYA'IKA WA RUSULIKA",
+                "audio": 64
+            },
+            {
+                "id": 14,
+                "text": "وَ أَنْشَاْتَ مِنْ أَصْنَافِ خَلْقِكَ",
+                "translation": "and the various kinds of creatures You have brought forth,",
+                "transliteration": "WA ANSHA'TA MIN ASNAFI KHALQIKA",
+                "audio": 70
+            },
+            {
+                "id": 15,
+                "text": "أَنِّي أَشْهَدُ أَنَّكَ أَنْتَ ٱللَّهُ",
+                "translation": "that I bear witness that You are Allah;",
+                "transliteration": "ANNI ASH-HADU ANNAKA ANTA ALLAHU",
+                "audio": 74
+            },
+            {
+                "id": 16,
+                "text": "لاَ إِلٰهَ إِلاَّ أَنْتَ وَحْدَكَ",
+                "translation": "there is no god but You, You alone,",
+                "transliteration": "LA ILAHA ILLA ANTA WAHDAKA",
+                "audio": 79
+            },
+            {
+                "id": 17,
+                "text": "لاَ شَرِيكَ لَكَ وَلاَ عَدِيلَ",
+                "translation": "Who have no associate nor any equal,",
+                "transliteration": "LA SHARIKA LAKA WA LA `ADILA",
+                "audio": 80
+            },
+            {
+                "id": 18,
+                "text": "وَلاَ خُلْفَ لِقَوْلِكَ وَلاَ تَبْدِيلَ",
+                "translation": "and Your word has no failing, nor any change;",
+                "transliteration": "WA LA KHULFA LIQAWLIKA WA LA TABDILA",
+                "audio": 84
+            },
+            {
+                "id": 19,
+                "text": "وَ أَنَّ مُحَمَّداً صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ عَبْدُكَ وَرَسُولُكَ",
+                "translation": "and that Muhammad, Allah bless him and his Household, is Your servant and Your messenger;",
+                "transliteration": "WA ANNA MUHAMMADAN SALLA ALLAHU `ALAYHI WA ALIHI `ABDUKA WA RASULUKA",
+                "audio": 89
+            },
+            {
+                "id": 20,
+                "text": "أَدَّىٰ مَا حَمَّلْتَهُ إِلَىٰ ٱلْعِبَادِ",
+                "translation": "he delivered to the servants that with which You charged him,",
+                "transliteration": "ADDA MA HAMMALTAHU ILA AL`IBADI",
+                "audio": 97
+            },
+            {
+                "id": 21,
+                "text": "وَجَاهَدَ فِي ٱللَّهِ عَزَّ وَجَلَّ حَقَّ ٱلْجِهَادِ",
+                "translation": "struggled for Allah as is His due,",
+                "transliteration": "WA JAHADA FI ALLAHI `AZZA WA JALLA HAQQA ALJIHADI",
+                "audio": 102
+            },
+            {
+                "id": 22,
+                "text": "وَ أَنَّهُ بَشَّرَ بِما هُوَ حَقُّ مِنَ ٱلثَّوابِ",
+                "translation": "gave the good news of the truth of reward,",
+                "transliteration": "WA ANNAHU BASHSHARA BIMA HUWA HAQQUN MIN ALTHTHAWABI",
+                "audio": 107
+            },
+            {
+                "id": 23,
+                "text": "وَ أَنْذَرَ بِما هُوَ صِدْقٌ مِنَ ٱلعِقَابِ",
+                "translation": "and warned of the veracity of punishment.",
+                "transliteration": "WA ANDHARA BIMA HUWA SIDQUN MIN AL`IQABI",
+                "audio": 112
+            },
+            {
+                "id": 24,
+                "text": "اَللَّهُمَّ ثَبِّتْنِي عَلَىٰ دِينِكَ مَا أَحْيَيْتَنِي",
+                "translation": "O Allah, make me firm in Your religion as long as You keep me alive,",
+                "transliteration": "ALLAHUMMA THABBITNI `ALA DINIKA MA AHYAYTANI",
+                "audio": 116
+            },
+            {
+                "id": 25,
+                "text": "وَلاَ تُزِغْ قَلْبِي بَعْدَ إِذْ هَدَيْتَنِي",
+                "translation": "make not my heart swerve after You have guided me,",
+                "transliteration": "WA LA TUZIGH QALBI BA`DA IDH HADAYTANI",
+                "audio": 123
+            },
+            {
+                "id": 26,
+                "text": "وَهَبْ لِي مِنْ لَدُنْكَ رَحْمَةً",
+                "translation": "and give me mercy from You,",
+                "transliteration": "WA HAB LI MIN LADUNKA RAHMATAN",
+                "audio": 128
+            },
+            {
+                "id": 27,
+                "text": "إِنَّكَ أَنْتَ ٱلْوَهَّابُ",
+                "translation": "surely, You are the All-bestower.",
+                "transliteration": "INNAKA ANTA ALWAHHABU",
+                "audio": 131
+            },
+            {
+                "id": 28,
+                "text": "صَلِّ عَلَىٰ مُحَمَّدٍ وآلِ مُحَمَّدٍ",
+                "translation": "Bless Muhammad and the Household of Muhammad,",
+                "transliteration": "SALLI `ALA MUHAMMADIN WA ALI MUHAMMADIN",
+                "audio": 134
+            },
+            {
+                "id": 29,
+                "text": "وَٱجْعَلْنِي مِنْ أَتْبَاعِهِ وَشِيعَتِهِ",
+                "translation": "make me one of his followers and his partisans,",
+                "transliteration": "WAJ`ALNI MIN ATBA`IHI WA SHI`ATIHI",
+                "audio": 140
+            },
+            {
+                "id": 30,
+                "text": "وَٱحْشُرْنِي فِي زُمْرَتِهِ",
+                "translation": "muster me in his band,",
+                "transliteration": "WAHSHURNI FI ZUMRATIHI",
+                "audio": 144
+            },
+            {
+                "id": 31,
+                "text": "وَوَفِّقْنِي لأَدَاءِ فَرْضِ ٱلْجُمُعَاتِ",
+                "translation": "and give me the success of accomplishing the obligatory observance of Fridays,",
+                "transliteration": "WA WAFFIQNI LI-ADA'I FARDI ALJUMU`ATI",
+                "audio": 148
+            },
+            {
+                "id": 32,
+                "text": "وَمَا أَوْجَبْتَ عَلَيَّ فِيهَا مِنَ ٱلطَّاعَاتِ",
+                "translation": "performing the acts of obedience which You have made incumbent upon me within it,",
+                "transliteration": "WA MA AWJABTA `ALAYYA FIHA MIN ATTA`ATI",
+                "audio": 153
+            },
+            {
+                "id": 33,
+                "text": "وَقَسَمْتَ لأَهْلِهَا مِنَ ٱلعَطَاءِ",
+                "translation": "and receiving the bestowal which You have apportioned for its people",
+                "transliteration": "WA QASAMTA LI-AHLIHA MIN AL`ATA'I",
+                "audio": 158
+            },
+            {
+                "id": 34,
+                "text": "فِي يَوْمِ ٱلْجزَاءِ",
+                "translation": "on the Day of Recompense!",
+                "transliteration": "FI YAWMI ALJAZA'I",
+                "audio": 162
+            },
+            {
+                "id": 35,
+                "text": "إِنَّكَ أَنْتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                "translation": "Surely, You are the Almighty, the All-wise!",
+                "transliteration": "INNAKA ANTA AL`AZIZU ALHAKIMU",
+                "audio": 165
+            }
+        ],
+        "audio": "Jummah"
+    },
+    {
+        "id": 8,
+        "title": "Du'a Kumayl",
+        "subtitle": "Thursday Evening",
+        "verses": [
+            {
+                "id": 1,
+                "text": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+                "translation": "In the Name of Allah, the All-merciful, the All-compassionate",
+                "transliteration": "BIS-MILLAHIR-RAHMANIR-RAHIM",
+                "audio": null
+            },
+            {
+                "id": 2,
+                "text": "اللَّهُمَّ إِنِّي أَسْألُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيٍْء",
+                "translation": "O Allah, I ask You by Your mercy, which embraces all things;",
+                "transliteration": "ALLAHUMMA IN-NI AS-ALUKA BI-RAH-MATIKAL-LATI WASI`AT KUL-LA SHAY",
+                "audio": null
+            },
+            {
+                "id": 3,
+                "text": "وَبِقُوَّتِكَ الَّتِي قَهَرْتَ بِهَا كُلَّ شَيٍْء",
+                "translation": "And by Your strength, through which You dominatest all things,",
+                "transliteration": "WA BI-QU-WATIKAL-LATI QAHAR-TA BIHA KUL-LA SHAY",
+                "audio": null
+            },
+            {
+                "id": 4,
+                "text": "وَخَضَعَ لَهَا كُلُّ شَيٍْء",
+                "translation": "And toward which all things are humble",
+                "transliteration": "WA KHADA`A LAHA KUL-LU SHAY",
+                "audio": null
+            },
+            {
+                "id": 5,
+                "text": "وَذَلَّ لَهَا كُلُّ شَيٍْء",
+                "translation": "And before which all things are lowly;",
+                "transliteration": "WA DHAL-LA LAHA KUL-LU SHAY",
+                "audio": null
+            },
+            {
+                "id": 6,
+                "text": "وَبِجَبرُوتِكَ الَّتِي غَلَبْتَ بِهَا كُلَّ شَيٍْء",
+                "translation": "And by Your invincibility through which You overwhelmest all things,",
+                "transliteration": "WA BI-JABARUTIKAL-LATI GHALAB-TA BIHA KUL-LA SHAY",
+                "audio": null
+            },
+            {
+                "id": 7,
+                "text": "وَبِعِزَّتِكَ الَّتِي لا يَقُومُ لَهَا شَيْءٌ",
+                "translation": "And by Your might, which nothing can resist;",
+                "transliteration": "WA BI`IZZATIKAL-LATI LA YAQUMU LAHA SHAY",
+                "audio": null
+            },
+            {
+                "id": 8,
+                "text": "وَبِعَظَمَتِكَ الَّتِي مَلأَتْ كُلَّ شَيٍْء",
+                "translation": "And by Your tremendousness, which has filled all things;",
+                "transliteration": "WA BI`AZAMATIKAL-LATI MALA-AT KUL-LA SHAY",
+                "audio": null
+            },
+            {
+                "id": 9,
+                "text": "وَبِسُلْطَانِكَ الَّذِي عَلاَ كُلَّ شَيٍْء",
+                "translation": "by Your force, which towers over all things;",
+                "transliteration": "WA BISUL-TANIKAL-LADHI `ALA KUL-LA SHAY",
+                "audio": null
+            },
+            {
+                "id": 10,
+                "text": "وَبِوَجْهِكَ الْبَاقِي بَعْدَ فَنَاءِ كُلِّ شَيٍْء",
+                "translation": "And by Your face, which subsists after the annihilation of all things,",
+                "transliteration": "WA BI-WAJ-HIKAL-BAQI BA`DA FANA-I KUL-LI SHAY",
+                "audio": null
+            },
+            {
+                "id": 11,
+                "text": "وَبِأَسْمَائِكَ الَّتِي مَلأَتْ أَرْكَانَ كُلِّ شَيٍْء",
+                "translation": "And by Your Names, which have filled the foundations of all things;",
+                "transliteration": "WA BI-AS-MA-IKAL-LATI MALAT AR-KANA KUL-LI SHAY",
+                "audio": null
+            },
+            {
+                "id": 12,
+                "text": "وَبِعِلْمِكَ الَّذِي أَحَاطَ بِكُلِّ شَيٍْء",
+                "translation": "And by Your knowledge, which encompasses all things;",
+                "transliteration": "WA BI`IL-MIKAL-LADHI AHATA BIKUL-LI SHAY",
+                "audio": null
+            },
+            {
+                "id": 13,
+                "text": "وَبِنُورِ وَجْهِكَ الَّذِي أَضَاءَ لَهُ كُلُّ شَيٍْء",
+                "translation": "And by the light of Your face, through which all things are illumined!",
+                "transliteration": "WA BI-NURI WAJ-HIKAL-LADHI ADA-A LAHU KUL-LU SHAY",
+                "audio": null
+            },
+            {
+                "id": 14,
+                "text": "يَا نُورُ يَا قُدُّوسُ",
+                "translation": "O Light! O All-holy!",
+                "transliteration": "YA NURU YA QUD-DUS",
+                "audio": null
+            },
+            {
+                "id": 15,
+                "text": "يَا أَوَّلَ الأَوَّلِينَ",
+                "translation": "O First of those who are first",
+                "transliteration": "YA AW-WALAL-AW-WALIN",
+                "audio": null
+            },
+            {
+                "id": 16,
+                "text": "وَيَا آخِرَ الآخِرِينَ",
+                "translation": "And O Last of those who are last!",
+                "transliteration": "WA YA A-KHIRAL-A-KHIRIN",
+                "audio": null
+            },
+            {
+                "id": 17,
+                "text": "اللَّهُمَ اغْفِرْ لِي الذُّنُوبَ الَّتِي تَهتِكُ الْعِصَمَ",
+                "translation": "O Allah, forgive me those sins which tear apart safeguards!",
+                "transliteration": "ALLAHUMMA-IGH-FIR LIYADH-DHUNUBAL-LATI TAH-TIKUL`ISAM",
+                "audio": null
+            },
+            {
+                "id": 18,
+                "text": "اللَّهُمَ اغْفِرْ لِي الذُّنُوبَ الَّتِي تُنْزِلُ النِّقَمَ",
+                "translation": "O Allah, forgive me those sins which draw down adversities!",
+                "transliteration": "ALLAHUMMA-IGH-FIR LIYADH-DHUNUBAL-LATI TUNZILUN-NIQAM",
+                "audio": null
+            },
+            {
+                "id": 19,
+                "text": "اللَّهُمَ اغْفِرْ لِي الذُّنُوبَ الَّتِي تُغيِّرُ النِّعَمَ",
+                "translation": "O Allah, forgive me those sins which alter blessings!",
+                "transliteration": "ALLAHUMMA-IGH-FIR LIYADH-DHUNUBAL-LATI TUGHY-YIRUN-NI`AM",
+                "audio": null
+            },
+            {
+                "id": 20,
+                "text": "اللَّهُمَّ اغْفِرْ لِي الذُّنُوبَ الَّتِي تَحْبِسُ الدُّعَاءَ",
+                "translation": "O Allah forgive me those sins which hold back supplication!",
+                "transliteration": "ALLAHUMMA-IGH-FIR LIYADH-DHUNUBAL-LATI TAH-BISUD-DU’A",
+                "audio": null
+            },
+            {
+                "id": 21,
+                "text": "اللَّهُمَّ اغْفِرْ لِي الذُّنُوبَ الَّتِي تَقْطَعُ الرََّّجَاءَ",
+                "translation": "O Allah forgive me those sins which cut down the hopes!",
+                "transliteration": "ALLAHUMMA-IGH-FIR LIYADH-DHUNUBAL-LATI TAQ-TAU'R-RAJA",
+                "audio": null
+            },
+            {
+                "id": 22,
+                "text": "اللَّهُمَّ اغْفِرْ لِي الذُّنُوبَ الَّتِي تُنْزِلُ البَلاءَ",
+                "translation": "O Allah, forgive me those sins which draw down tribulation!",
+                "transliteration": "ALLAHUMMA-IGH-FIR LIYADH-DHUNUBAL-LATI TUNZILUL-BALA",
+                "audio": null
+            },
+            {
+                "id": 23,
+                "text": "اللَّهُمَّ اغْفِرْ لِي كُلَّ ذَنْبٍ أَذْنَبْتُهُ وَكُلَّ خَطِيئَةٍ أَخْطَأْتُهَا",
+                "translation": "O Allah, forgive me every sin I have committed and every mistake I have made!",
+                "transliteration": "ALLAHUMMA-IGH-FIR LIYA KUL-LA DHAM-BIN ADHNABTUHU WA KUL-LA KHATI-ATIN AKH-TATUHA",
+                "audio": null
+            },
+            {
+                "id": 24,
+                "text": "اللَّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ بِذِكْرِكَ",
+                "translation": "O Allah, verily I seek nearness to You through remembrance of You,",
+                "transliteration": "ALLAHUMMA INNI ATAQARRABU ILAYKA BI-DHIK-RIK",
+                "audio": null
+            },
+            {
+                "id": 25,
+                "text": "وَأَسْتَشْفِعُ بِكَ إِلَي نَفْسِكَ",
+                "translation": "And I seek intercession from You with Yourself,",
+                "transliteration": "WA AS-TASH-FIU' BIKA ILA NAF-SIK",
+                "audio": null
+            },
+            {
+                "id": 26,
+                "text": "وَأَسْألُكَ بِجُودِكَ أَن تُدْنِيَنِي مِن قُرْبِكَ",
+                "translation": "And I ask You through Your munificence to bring me near to Your proximity,",
+                "transliteration": "WA AS-ALUKA BI-JUDIKA AN TUD-NI-YANI MIN QUR-BIK",
+                "audio": null
+            },
+            {
+                "id": 27,
+                "text": "وَأَن تُوزِعَنِي شُكْرَكَ",
+                "translation": "And to provide me with gratitude toward You",
+                "transliteration": "WA AN TUZI`ANI SHUK-RAK",
+                "audio": null
+            },
+            {
+                "id": 28,
+                "text": "وَأَن تُلْهِمَنِي ذِكْرَكَ",
+                "translation": "And to inspire me with Your remembrance.",
+                "transliteration": "WA AN TUL-HIMANI DHIK-RAK",
+                "audio": null
+            },
+            {
+                "id": 29,
+                "text": "اللَّهُمَّ إِنِّي أَسْألُكَ سُؤَالَ خَاضِعٍ مُّتَذَلِّلٍ خَاشِعٍ أَن تُسَامِحَنِي وَتَرْحَمَنِي",
+                "translation": "O Allah, verily I ask You with the asking of a submissive, abased and lowly man to show me forbearance, to have mercy on me",
+                "transliteration": "ALLAHUMMA IN-NI AS-LUKA SUALA KHADII'M-MUTADHAL-LILIN KHA-SHII'N AN TUSAMIHANI WA TAR-HAMANI",
+                "audio": null
+            },
+            {
+                "id": 30,
+                "text": "وَتَجْعلَنِي بِقَسَمِكَ رَاضِياً قَانِعاً، وَفِي جَمِيعِ الأَحْوَاِل مُتَوَاضِعاً",
+                "translation": "And to make me satisfied and content with Your appointment and [make me] humble in every state.",
+                "transliteration": "WA TAJ-`ALANI BI-QASAMIKA RADIYAN QANI`N WA FI JAMII'L-AH-WALI MUTAWADI`AA",
+                "audio": null
+            },
+            {
+                "id": 31,
+                "text": "اللَّهُمَّ وَأَسْألُكَ سُؤَالَ مَنِ اشْتَدَّتْ فَاقَتُهُ",
+                "translation": "O Allah, I ask You the question of one whose indigence is extreme,",
+                "transliteration": "ALLAHUMMA WA AS-ALUKA SUALA MANISH-TAD-DAT FAQATUH",
+                "audio": null
+            },
+            {
+                "id": 32,
+                "text": "وَأَنزَلَ بِكَ عِنْدَ الشَّدَائِدِ حَاجَتَهُ",
+                "translation": "And who has stated to You in difficulties his need",
+                "transliteration": "WA ANZALA BIKA I'NDASH-SHADA-IDI HAJATAHU",
+                "audio": null
+            },
+            {
+                "id": 33,
+                "text": "وَعَظُمَ فِيمَا عِنْدَكَ رَغْبَتُهُ",
+                "translation": "And whose desire for what is with You has become great.",
+                "transliteration": "WA `AZUMA FIMA I'NDAKA RAGH-BATUHU",
+                "audio": null
+            },
+            {
+                "id": 34,
+                "text": "اللَّهُمَّ عَظُمَ سُلْطَانُكَ وَعَلاَ مَكَانُكَ",
+                "translation": "O Allah, Your force is tremendous, Your place is lofty,",
+                "transliteration": "ALLAHUMMA `AZUMA SUL-TANUKA WA `ALA MAKANUK",
+                "audio": null
+            },
+            {
+                "id": 35,
+                "text": "وَخَفِي مَكْرُكَ وَظَهَرَ أَمْرُكَ",
+                "translation": "And Your plan is hidden, Your command is manifest,",
+                "transliteration": "WA KHAFIYA MAK-RUKA WAZAHARA AM-RUK",
+                "audio": null
+            },
+            {
+                "id": 36,
+                "text": "وَغَلَبَ قَهْرُكَ وَجَرَتْ قُدْرَتُكَ",
+                "translation": "And Your domination is overwhelming, Your power is unhindered",
+                "transliteration": "WA GHALABA QAH-RUKA WA JARAT QUD-RATUK",
+                "audio": null
+            },
+            {
+                "id": 37,
+                "text": "وَلا يُمْكِنُ الْفِرَارُ مِنْ حُكُومَتِكَ",
+                "translation": "And escape from Your governance is impossible.",
+                "transliteration": "WA-LA YUM-KINUL-FIRARU MIN HUKU-MATIK",
+                "audio": null
+            },
+            {
+                "id": 38,
+                "text": "اللَّهُمَّ لا أَجِدُ لِذُنُوبِي غَافِراً",
+                "translation": "O Allah, I find no forgiver of my sins,",
+                "transliteration": "ALLAHUMMA LA AJIDU LIDHUNUBI GHAFIRA",
+                "audio": null
+            },
+            {
+                "id": 39,
+                "text": "وَّلا لِقَبَائِحِي سَاتِراً",
+                "translation": "Nor concealer of my ugly acts",
+                "transliteration": "WA-LA LIQABA-IHI SATIRA",
+                "audio": null
+            },
+            {
+                "id": 40,
+                "text": "وَّلا لِشَيٍْء مِّنْ عَمَلِي الْقَبِيحِ بِالْحَسَنِ مُبَدِّلاً غَيْرَكَ",
+                "translation": "Nor transformer of any of my ugly acts into good acts but You",
+                "transliteration": "WA-LA LISHAYIM-MIN `AMALI-YAL-QABIHI BIL-HASANI MUBAD-DILAN GHAYRAK",
+                "audio": null
+            },
+            {
+                "id": 41,
+                "text": "لا إِلَهَ إِلاَّ أَنتَ",
+                "translation": "There is no god but You!",
+                "transliteration": "LA ILAHA IL-LA ANTA",
+                "audio": null
+            },
+            {
+                "id": 42,
+                "text": "سُبْحَانَكَ وَبِحَمْدِكَ",
+                "translation": "Glory be to You, and Thine is the praise!",
+                "transliteration": "SUB-HANAKA WA BIHAM-DIKA",
+                "audio": null
+            },
+            {
+                "id": 43,
+                "text": "ظَلَمْتُ نَفْسِي",
+                "translation": "I have wronged myself,",
+                "transliteration": "ZALAM-TU NAF-SI",
+                "audio": null
+            },
+            {
+                "id": 44,
+                "text": "وَتَجَرَّأْتُ بِجَهْلِي",
+                "translation": "And I have been audacious in my ignorance",
+                "transliteration": "WA TAJAR-RATU BIJAH-LI",
+                "audio": null
+            },
+            {
+                "id": 45,
+                "text": "وَسَكَنتُ إِلَي قَدِيمِ ذِكْرِكَ لِي وَمَنِّكَ عَلَيَّ",
+                "translation": "And I have depended upon Your ancient remembrance of me and Your favour toward me.",
+                "transliteration": "WA SAKAN-TU ILA QADIMI DHIK-RIKA LI WA MAN-NIKA `ALAY",
+                "audio": null
+            },
+            {
+                "id": 46,
+                "text": "اللَّهُمَّ مَوْلايَ",
+                "translation": "O Allah! O my Protector!",
+                "transliteration": "ALLAHUMMA MAW-LAY",
+                "audio": null
+            },
+            {
+                "id": 47,
+                "text": "كَم مِّن قَبِيحٍ سَتَرْتَهُ",
+                "translation": "How many ugly things You hast concealed!",
+                "transliteration": "KAM-MIN QABIHIN SATAR-TAH",
+                "audio": null
+            },
+            {
+                "id": 48,
+                "text": "وَكَم مِّن فَاِدحٍ مِّنَ البَلاءِ أَقَلْتَهُ",
+                "translation": "How many burdensome tribulations You hast abolished!",
+                "transliteration": "WA KAM-MIN FADIHIM-MINAL-BALA-I AQAL-TAH",
+                "audio": null
+            },
+            {
+                "id": 49,
+                "text": "وَكَم مِّنْ عِثَارٍ وَّقَيْتَهُ",
+                "translation": "And how many stumbles You hast prevented!",
+                "transliteration": "WA KAM-MIN I'THARIW-WAQAYTAH",
+                "audio": null
+            },
+            {
+                "id": 50,
+                "text": "وَكَم مِّن مَّكْرُوهٍ دَفَعْتَهُ",
+                "translation": "And how many ordeals You hast repelled!",
+                "transliteration": "WA KAM-MIM-MAK-RUHIN DAFA`TAH",
+                "audio": null
+            },
+            {
+                "id": 51,
+                "text": "وَكَم مِّن ثَنَاٍء جَمِيلٍ لَّسْتُ أَهْلاً لَّهُ نَشَرْتَهُ",
+                "translation": "And how much beautiful praise, for which I was unworthy, You hast spread abroad!",
+                "transliteration": "WA KAM-MIN THANA-IN JAMILIL-LAS-TU AH-LAL-LAHU NASHAR-TAH",
+                "audio": null
+            },
+            {
+                "id": 52,
+                "text": "اللَّهُمَّ عَظُمَ بَلائِي",
+                "translation": "O Allah, my tribulation is tremendous,",
+                "transliteration": "ALLAHUMMA `AZUMA BALAI",
+                "audio": null
+            },
+            {
+                "id": 53,
+                "text": "وَأَفْرَطَ بِي سُوءُ حَاِلي",
+                "translation": "And my bad state is excessive,",
+                "transliteration": "WA AF-RATA BI SUO-U HALI",
+                "audio": null
+            },
+            {
+                "id": 54,
+                "text": "وَقَصُرَتْ بِي أَعْمَاِلي",
+                "translation": "And my acts are inadequate,",
+                "transliteration": "WA QASURAT BI A`MALI",
+                "audio": null
+            },
+            {
+                "id": 55,
+                "text": "وَقَعَدَتْ بِي أَغْلاَلِي",
+                "translation": "And my fetters have tied me down,",
+                "transliteration": "WA QA`ADAT BI AGH-LA-LI",
+                "audio": null
+            },
+            {
+                "id": 56,
+                "text": "وَحَبَسَنِي عَن نَّفْعِي بُعْدُ آمَاِلي",
+                "translation": "And my far-fetched hopes have held me back from my gain",
+                "transliteration": "WA HABASANI `AN-NAF-E'E BU`A-DU A-MA-LI",
+                "audio": null
+            },
+            {
+                "id": 57,
+                "text": "وَخَدَعَتْنِي الدُّنْيَا بِغُرُورِهَا وَنَفْسِي بِجِنَايَتِهَا وَمِطَاِلي",
+                "translation": "And this world with its delusions, my own soul with its offences and my delay have deceived me.",
+                "transliteration": "WA KHADA`AT-NID-DUNYA BI-GHURURI-HA WA NAF-SI BI-JINAYATIHA WA MITA-LI",
+                "audio": null
+            },
+            {
+                "id": 58,
+                "text": "يَا سَيِّدِي فَأَسْألُكَ بِعِزَّتِكَ أَن لا يَحْجُبَ عَنْكَ دُعَائِي سُوءُ عَمَلِي وَفِعَاِلي",
+                "translation": "O my Master! So I ask You by Your might not to let my evil works and acts veil my supplication from You,",
+                "transliteration": "YA SAY-YIDI FA-AS-ALUKA BI-I'Z-ZATIKA AN LA YAH-JUBA `AN-KA DU`AA-I SUO-U `AMALI WA FI`ALI",
+                "audio": null
+            },
+            {
+                "id": 59,
+                "text": "وَلا تَفْضَحَنِي بِخَفِيِّ مَا اطَّلَعْتَ عَلَيْهِ مِنْ سِرِّي",
+                "translation": "And not to disgrace me through the hidden things You knowest of my secrets",
+                "transliteration": "WA-LA TAF-DAH-NI BI-KHAFI-YI MAT-TALA`TA `AILAYHI MIN SIR-RI",
+                "audio": null
+            },
+            {
+                "id": 60,
+                "text": "وَلا تُعَاجِلْنِي بِالْعُقُوبَةِ عَلَى مَا عَمِلْتُهُ فِي خَلَوَاتِي",
+                "translation": "And not to hasten me to punishment for what I have done in private:",
+                "transliteration": "WA-LA TU`AJIL-NI BIL-U'QUBATI `ALA MA `AMIL-TUHU FI KHALAWATI",
+                "audio": null
+            },
+            {
+                "id": 61,
+                "text": "مِنْ سُوءِ فِعْلِي وَإِسَاءَتِي،",
+                "translation": "My evil acts in secrecy and my misdeeds",
+                "transliteration": "MIN SUO-I FI`A-LI WA ISA-ATI",
+                "audio": null
+            },
+            {
+                "id": 62,
+                "text": "وَدَوَامِ تَفْرِيطِي وَجَهَالَتِي",
+                "translation": "And my continuous negligence and my ignorance",
+                "transliteration": "WA DAWAMI TAF-RITI WA JAHALATI",
+                "audio": null
+            },
+            {
+                "id": 63,
+                "text": "وَكَثْرَةِ شَهَوَاتِي وَغَفْلَتِي",
+                "translation": "And my manifold passions and my forgetfulness.",
+                "transliteration": "WA KATH-RATI SHA-HAWATI WA GHAF-LATI",
+                "audio": null
+            },
+            {
+                "id": 64,
+                "text": "وَكُنِ اللَّهُمَّ بِعِزَّتِكَ لِي فِي كُلِّ الأَحْوَاِل رَؤُوفاً",
+                "translation": "And by Your might, O Allah, be kind to me in all states",
+                "transliteration": "WA KUNIL-LAHUMMA BI-I'Z-ZATIKA LI FI KUL-LIL-AH-WALI RA’UFA",
+                "audio": null
+            },
+            {
+                "id": 65,
+                "text": "وَّعَلَيَّ فِي جَمِيعِ الأُمُورِ عَطُوفاً",
+                "translation": "And be gracious to me in all affairs!",
+                "transliteration": "WA `ALAY-YA FI JAMII'L-UMURI `ATUFA",
+                "audio": null
+            },
+            {
+                "id": 66,
+                "text": "إِلَهِي وَرَبِّي مَن لِّي غَيْرُكَ أَسْألُهُ كَشْفَ ضُرِّي وَالْنَّظَرَ فِي أَمْرِي!",
+                "translation": "My God and my Lord! Have I any but You from whom to ask removal of my affliction and regard for my affairs!",
+                "transliteration": "ILAHI WA RAB-BI MAL-LI GHAYRUKA AS-ALUHU KASH-FA DUR-RI WAN-NAZARA FI AM-RI!",
+                "audio": null
+            },
+            {
+                "id": 67,
+                "text": "إِلَهِي وَمَوْلاي أَجْرَيْتَ عَلَيَّ حُكْماً اتَّبَعْتُ فِيهِ هَوَى نَفْسِي،",
+                "translation": "My God and my Protector! You put into effect through me a decree in which I followed the caprice of my own soul",
+                "transliteration": "ILAHI WA MAW-LAYA AJ-RAYTA `ALAY-YA HUK-MANT-TABA`TU FIHI HAWA NAF-SI",
+                "audio": null
+            },
+            {
+                "id": 68,
+                "text": "وَلَمْ أَحْتَرِسْ فِيهِ مِن تَزْيينِ عَدُوِّي،",
+                "translation": "And [I] did not remain wary of adorning my enemy.",
+                "transliteration": "WA LAM AH-TARIS FIHI MIN TAZYINI `ADU-WI",
+                "audio": null
+            },
+            {
+                "id": 69,
+                "text": "فَغَرَّنِي بِمَا أَهْوَى وَأَسْعَدَهُ عَلَى ذَلِكَ القَضَاءُ",
+                "translation": "So he deluded me through my soul's caprice and therein destiny favoured him",
+                "transliteration": "FA-GHAR-RANI BI-MA AH-WA WA AS-`ADAHU `ALA DHA-LIKAL-QADA",
+                "audio": null
+            },
+            {
+                "id": 70,
+                "text": "فَتَجَاوَزْتُ بِمَا جَرَى عَلَيَّ مِنْ ذَلِكَ بَعْضَ حُدُودِكَ",
+                "translation": "So, in what was put into effect through me in that situation, I transgressed some of Your statutes",
+                "transliteration": "FA-TAJA-WAZTU BI-MA JARA `ALAY-YA MIN DHA-LIKA BA`DA HUDUDIK",
+                "audio": null
+            },
+            {
+                "id": 71,
+                "text": "وَخَالَفْتُ بَعْضَ أَوَامِرِكَ",
+                "translation": "And disobeyed some of Your commands.",
+                "transliteration": "WA KHALAF-TU BA`DA AWAMIRIK",
+                "audio": null
+            },
+            {
+                "id": 72,
+                "text": "فَلَكَ الْحُجَّةُ عَلَيَّ فِي جَمِيعِ ذَلِكَ",
+                "translation": "So Thine is the argument against me in all of that",
+                "transliteration": "FALAKAL-HUJ-JATU `ALAY-YA FI JAMII' DHALIK",
+                "audio": null
+            },
+            {
+                "id": 73,
+                "text": "وَلا حُجَّةَ لِي فِيمَا جَرَي عَلَيَّ فِيهِ قَضَاؤُكَ،",
+                "translation": "I have no argument in what Your destiny put into effect through me therein",
+                "transliteration": "WA-LA HUJ-JATA LI FIMA JARA `ALAY-YA FIHI QADAUKA",
+                "audio": null
+            },
+            {
+                "id": 74,
+                "text": "وَأَلْزَمَنِي حُكْمُكَ وَبَلاؤُكَ",
+                "translation": "nor in what Your decree and Your tribulation imposed upon me.",
+                "transliteration": "WA ALZAMANI HUK-MUKA WA BALAUK",
+                "audio": null
+            },
+            {
+                "id": 75,
+                "text": "وَقَدْ أَتَيْتُكَ يَا إِلَهِي بَعْدَ تَقْصِيرِي وَإِسْرَافِي عَلَى نَفْسِي",
+                "translation": "Now I have come to You, My God, after my shortcoming and my immoderation toward myself,",
+                "transliteration": "WA QAD ATAYTUKA YA ILAHI BA`DA TAQ-SIRI WA IS-RAFI `ALA NAF-SI",
+                "audio": null
+            },
+            {
+                "id": 76,
+                "text": "مُعْتَذِراً نَّادِماً،",
+                "translation": "Proffering my excuse, regretful,",
+                "transliteration": "MU`A-TADHIRAN-NADIMAN",
+                "audio": null
+            },
+            {
+                "id": 77,
+                "text": "مُّنْكَسِراً مُّسْتَقِيلاً",
+                "translation": "Broken, apologizing,",
+                "transliteration": "MUN-KASIRAM-MUS-TAQILAMA",
+                "audio": null
+            },
+            {
+                "id": 78,
+                "text": "مُّسْتَغْفِراً مُّنِيباً،",
+                "translation": "Asking forgiveness, repenting,",
+                "transliteration": "MUS-TAGH-FIRAM-MUNIBAN",
+                "audio": null
+            },
+            {
+                "id": 79,
+                "text": "مُّقِرّاً مُّذْعِناً مُّعْتَرِفاً",
+                "translation": "Acknowledging, submissive, confessing.",
+                "transliteration": "MUQIR-RAM-MUDHI'NAM-MU`A-TARIFA",
+                "audio": null
+            },
+            {
+                "id": 80,
+                "text": "لا أَجِدُ مَفَرّاً مِّمَّا كَانَ مِنِّي",
+                "translation": "I find no place to flee from what occurred through me,",
+                "transliteration": "LA AJIDU MAFAR-RAM-MIM-MA KANA MIN-NI",
+                "audio": null
+            },
+            {
+                "id": 81,
+                "text": "وَلا مَفْزَعاً أَتَوَجَّهُ إِلَيْهِ في أَمْرِي",
+                "translation": "Nor any place of escape to which I may turn in my affairs,",
+                "transliteration": "WA-LA MAFZA'AN ATAWAJ-JAHU ILAYHI FI AM-RI",
+                "audio": null
+            },
+            {
+                "id": 82,
+                "text": "غَيْرَ قَبُولِكَ عُذْرِي، وَإِدخَاِلكَ إِيَاي فِي سَعَةٍ مِّن رَّحْمَتِكَ",
+                "translation": "Other than Your acceptance of my excuse and Your entering me into the compass of Your mercy.",
+                "transliteration": "GHAYRA QABULIKA U'DHRI WA ID-KHALIKA I-YAYA FI SA'TIM-MIR-RAH-MATIK",
+                "audio": null
+            },
+            {
+                "id": 83,
+                "text": "اللَّهُمَّ فَاقْبَل عُذْرِي",
+                "translation": "O Allah, so accept my excuse,",
+                "transliteration": "ALLAHUMMA FAQ-BAL U'DHRI",
+                "audio": null
+            },
+            {
+                "id": 84,
+                "text": "وَارْحَمْ شِدَّةَ ضُرِّي",
+                "translation": "Have mercy upon the severity of my affliction",
+                "transliteration": "WAR-HAM SHID-DATA DURI",
+                "audio": null
+            },
+            {
+                "id": 85,
+                "text": "وَفُكَّنِي مِن شَدِّ وَثَاقِي",
+                "translation": "And release me from the tightness of my fetters,",
+                "transliteration": "WA FUK-KANI MIN SHAD-DI WATHAQI",
+                "audio": null
+            },
+            {
+                "id": 86,
+                "text": "يَا رَبِّ ارْحَمْ ضَعْفَ بَدَنِي وَرِقَّةَ جِلْدِي وَدِقَّةَ عَظْمِي",
+                "translation": "My Lord, have mercy upon the weakness of my body, the thinness of my skin and the frailty of my bones.",
+                "transliteration": "YA RAB-BIR-HAM DA`FA BADANI WA RIQ-QATA JIL-DI WA DIQ-QATA `AZMI",
+                "audio": null
+            },
+            {
+                "id": 87,
+                "text": "يَا مَنْ بَدَأَ خَلْقِي وَذِكْرِي وَتَرْبِيَتِي وَبِرِّي وَتَغْذِيَتِي",
+                "translation": "O You who gave rise to my creation, to the remembrance of me, to the nurture of me, to goodness toward me and to nourishment on me,",
+                "transliteration": "YA MAM BADA KHAL-QI WA DHIK-RI WA TAR-BI-YATI WA BIRI WA TAGH-DHI-YATI",
+                "audio": null
+            },
+            {
+                "id": 88,
+                "text": "هَبْنِي لابْتِدَاءِ كَرَمِكَ وَسَاِلفِ بِرِّكَ بِي",
+                "translation": "Bestow upon me for the sake of Your having given rise [to me] with generosity and Your previous goodness to me!",
+                "transliteration": "HAB-NI LB-TIDA-I KARAMIKA WA SALIFI BIR-RIKA BI",
+                "audio": null
+            },
+            {
+                "id": 89,
+                "text": "يَا إِلَهِي وَسَيِّدِي وَرَبِّي",
+                "translation": "O Allah, my Master and my Lord!",
+                "transliteration": "YA ILAHI WA SAY-YIDI WA RAB-BI",
+                "audio": null
+            },
+            {
+                "id": 90,
+                "text": "أَتُرَاكَ مُعَذِّبِي بِنَارِكَ بَعْدَ تَوْحِيدِكَ",
+                "translation": "Canst You see Yourself tormenting me with Your fire after I have professed Your Unity",
+                "transliteration": "ATURAKA MU`ADH-DHIBI BINARIKA BA`DA TAW-HIDIK",
+                "audio": null
+            },
+            {
+                "id": 91,
+                "text": "وَبَعْدَ مَا انْطَوَى عَلَيْهِ قَلْبِي مِن مَّعْرِفَتِكَ",
+                "translation": "And after the knowledge of You my heart has embraced,",
+                "transliteration": "WA BA`DA MAN-TAWA `AILAYHI QAL-BI MIM-MA`RIFATIK",
+                "audio": null
+            },
+            {
+                "id": 92,
+                "text": "وَلَهِجَ بِهِ لِسَانِي مِنْ ذِكْرِكَ",
+                "translation": "And the remembrance of You my tongue has constantly mentioned",
+                "transliteration": "WA LAHIJA BIHI LISANI MIN DHIK-RIK",
+                "audio": null
+            },
+            {
+                "id": 93,
+                "text": "وَاعْتَقَدَهُ ضَمِيرِي مِنْ حُبِّكَ",
+                "translation": "And the love of You to which my mind has clung,",
+                "transliteration": "WA A`TAQADAHU ZAMIRI MIN HUB-BIK",
+                "audio": null
+            },
+            {
+                "id": 94,
+                "text": "وَبَعْدَ صِدْقِ اعْتِرَافِي وَدُعَائِي خَاضِعاً لِّرُبُوبِيَّتِكَ",
+                "translation": "And after the sincerity of my confession and my supplication, humble before Your lordship?",
+                "transliteration": "WA BA`DA SID-QI-`A-TIRAFI WA DU`AA-I KHADI`AAL-LI-RUBUBI-YATIKA",
+                "audio": null
+            },
+            {
+                "id": 95,
+                "text": "هَيْهَاتَ أَنتَ أَكْرَمُ مِنْ أَن تُضَيِّعَ مَن رَّبَّيْتَهُ",
+                "translation": "Far be it from You! You art more generous than that You shouldst squander him whom You hast nurtured,",
+                "transliteration": "HAYHATA ANTA AK-RAMU MIN AN TUDAY-YI`A MAR-RAB-BAYTAH",
+                "audio": null
+            },
+            {
+                "id": 96,
+                "text": "أَوْ تُبْعِدَ مَنْ أَدْنَيْتَهُ",
+                "translation": "Or banish him whom You hast brought nigh,",
+                "transliteration": "AW TUB-I'DA MAN AD-NAYTAH",
+                "audio": null
+            },
+            {
+                "id": 97,
+                "text": "أَوْ تُشَرِّدَ مَنْ آوَيْتَهُ",
+                "translation": "Or drive away him whom You hast given an abode",
+                "transliteration": "AW TUSHAR-RIDA MAN A-AYTAH",
+                "audio": null
+            },
+            {
+                "id": 98,
+                "text": "أَوْ تُسْلِّمَ إِلىَ الْبلاءِ مَن كَفَيْتَهُ وَرَحِمْتَهُ",
+                "translation": "Or submit to tribulation him whom You hast spared and shown mercy.",
+                "transliteration": "AW TUS-S-LIMA ILAL-BALA-I MAN KAFAY-TAHU WA RAHIM-TAH",
+                "audio": null
+            },
+            {
+                "id": 99,
+                "text": "وَلَيْتَ شِعْرِي يَا سَيِّدِي وَإِلَهِي وَمَوْلاي",
+                "translation": "Would that I knew, my Master, My God and my Protector,",
+                "transliteration": "WA LAYTA SHI`A-RI YAY SAY-YIDI WA ILAHI WA MAW-LAY",
+                "audio": null
+            },
+            {
+                "id": 100,
+                "text": "أَتُسَلِّطُ النَّارَ عَلَى وُجُوهٍ خَرَّتْ لِعَظَمَتِكَ سَاجِدَةً",
+                "translation": "Whether You wilt give the Fire dominion over faces fallen down prostrate before Your Tremendousness,",
+                "transliteration": "ATUSAL-LITUN-NARA `ALA WUJUHIN KHAR-RAT LI-`AZAMATIKA SAJIDAH",
+                "audio": null
+            },
+            {
+                "id": 101,
+                "text": "وَّعَلَى أَلْسُنٍ نَّطَقَتْ بِتَوْحِيدِكَ صَادِقَةً وَّبِشُكْرِكَ مَادِحَةً",
+                "translation": "And over tongues voicing sincerely the profession of Your Unity and giving thanks to You in praise,",
+                "transliteration": "WA `ALA AL-SUNIN-NATAQAT BI-TAW-HIDIKA SADIQATAW-WA BISHUK-RIKA MADIHAH",
+                "audio": null
+            },
+            {
+                "id": 102,
+                "text": "وَّعَلَى قُلُوبٍ اعْتَرَفَتْ بِإِلَهِيَّتِكَ مُحَقِّقَةً",
+                "translation": "And over hearts acknowledging Your Divinity through verification,",
+                "transliteration": "WA `ALA QULUBIN-`A-TARAFAT BI-ILHI-YATIKA MUHAQ-QIQAH",
+                "audio": null
+            },
+            {
+                "id": 103,
+                "text": "وَّعَلَى ضَمَائِرَ حَوَتْ مِنَ الْعِلْمِ بِكَ حَتَّى صَارَتْ خَاشِعَةً",
+                "translation": "And over minds encompassing knowledge of You until they have become humble",
+                "transliteration": "WA `ALA DAMA-IRA HAWAT MINAL-I'L-MI BIKA HAT-TA SARAT KHASHI`AH",
+                "audio": null
+            },
+            {
+                "id": 104,
+                "text": "وَّعَلَى جَواِرحَ سَعَتْ إِلَى أَوْطَانِ تَعَبُّدِكَ طَائِعَةً وَّأَشَارَتْ بِاسْتِغْفَارِكَ مُذْعِنَةً",
+                "translation": "And over bodily members speeding to the places of Your worship in obedience and beckoning for Your forgiveness in submission.",
+                "transliteration": "WA `ALA JAWARIHA SA'T ILA AW-TANI TA'B-BUDIKA TA-I`ATAW-WA ASHARAT BIS-TIGH-FARIKA MUDHI'NAH",
+                "audio": null
+            },
+            {
+                "id": 105,
+                "text": "مَّا هَكَذَا الظَّنُّ بِكَ وَلا أُخْبِرْنَا بِفَضْلِكَ عَنكَ",
+                "translation": "No such opinion is held of You! Nor has such been reported - thanks to Your bounty — concerning You,",
+                "transliteration": "MA HKADHAZ-ZAN-NU BIKA WA-LA UKH-BIR-NA BI-FADLIKA `ANKA",
+                "audio": null
+            },
+            {
+                "id": 106,
+                "text": "يَا كَرِيمُ، يَا رَبِّ",
+                "translation": "O All-generous! My Lord,",
+                "transliteration": "YA KARIMU YA RAB",
+                "audio": null
+            },
+            {
+                "id": 107,
+                "text": "وَأَنتَ تَعْلَمُ ضَعْفِي عَن قَلِيلٍ مِّن بَلاءِ الدُّنْيَا وَعُقُوبَاتِهَا،",
+                "translation": "And You knowest my weakness before a little of this world's tribulations and punishments,",
+                "transliteration": "WA ANTA TA`LAMU DA`FI `AN QALILIM-MIN BALA-ID-DUN-YA WA U'QUBATIHA",
+                "audio": null
+            },
+            {
+                "id": 108,
+                "text": "وَمَا يَجْرِي فِيهَا مِنَ الْمَكَارِهِ عَلَى أَهْلِهَا",
+                "translation": "And before those ordeals which befall its inhabitants,",
+                "transliteration": "WA MA YAJ-RI FIHA MINAL-MAKARIHI `ALA AH-LIHA",
+                "audio": null
+            },
+            {
+                "id": 109,
+                "text": "عَلَى أَنَّ ذَلِكَ بَلاءٌ وَّمَكْرُوهٌ، قَلِيلٌ مَّكْثُهُ، يَسِيرٌ بَقَاؤُهُ، قَصِيرٌ مُّدَّتُهُ",
+                "translation": "Even though it is a tribulation and ordeal whose stay is short, whose subsistence is but little and, whose period is but fleeting.",
+                "transliteration": "`ALA AN-NA DHA-LIKA BALA-UW-WA MAK-RUHUN, QALILUM-MAK-THUHU, YASIRUM BAQA-UHU, QASIRUM-MUD-DATUH",
+                "audio": null
+            },
+            {
+                "id": 110,
+                "text": "فَكَيْفَ احْتِمَاِلي لِبَلاءِ الآخِرَةِ وَجَلِيلِ وُقُوعِ الْمَكَارِهِ فِيهَا!",
+                "translation": "So how can I endure the tribulations of the next world and the great ordeals that occur within it?",
+                "transliteration": "FA-KAYFAH-TIMALI LI-BALA-IL-AKHIRATI WA JALILI WUQUI'L-MAKARIHI FIHA!",
+                "audio": null
+            },
+            {
+                "id": 111,
+                "text": "وَهُوَ بَلاءٌ تَطُولُ مُدَّتُهُ، وَيَدُومُ مَقَامُهُ، وَلا يُخَفَّفُ عَنْ أَهْلِهِ",
+                "translation": "For it is a tribulation whose period is long, whose station endures and whose sufferers are given no respite,",
+                "transliteration": "WA HUWA BALA-UN TATULU MUD-DATUHU, WA YADUMU MAQAMUHU, WA-LA YUKHAF-FAFU `AN AH-LIH",
+                "audio": null
+            },
+            {
+                "id": 112,
+                "text": "لأَنَّهُ لا يَكُونُ إِلاَّ عَنْ غَضَبِكَ وَانتِقَامِكَ وَسَخَطِكَ",
+                "translation": "Since it only occurs as a result of Your wrath, Your vengeance and Your anger,",
+                "transliteration": "LI-AN-NAHU LA YAKUNU IL-LA `AN GHADABIKA WAN-TIQAMIKA WA SAKHATIK",
+                "audio": null
+            },
+            {
+                "id": 113,
+                "text": "وَهَذَا مَا لا تَقُومُ لَهُ السَّمَاوَاتُ وَالأَرْضُ",
+                "translation": "And these cannot be withstood by the heavens and the earth.",
+                "transliteration": "WA HADHA MA LA TAQUMU LAHUS-SAMAWATU WAL-ARDU",
+                "audio": null
+            },
+            {
+                "id": 114,
+                "text": "يَا سَيِّدِي فَكَيْفَ بِي",
+                "translation": "O Master, so what about me?!",
+                "transliteration": "YA SAY-YIDI FAKAYFA BI",
+                "audio": null
+            },
+            {
+                "id": 115,
+                "text": "وَأَنَا عَبْدُكَ الضَّعِيفُ الذَّلِيلُ الْحَقِيرُ الْمِسْكِينُ الْمُسْتَكِينُ",
+                "translation": "For I am Your weak, lowly, base, wretched and miserable slave.",
+                "transliteration": "WA ANA `ABUKAD-DAE'EFUDH-DHALILUL-HAQIRUL-MIS-KINUL-MUS-TAKIN",
+                "audio": null
+            },
+            {
+                "id": 116,
+                "text": "يَا إِلَهِي وَرَبِّي وَسَيِّدِي وَمَوْلاي",
+                "translation": "My God! My Lord! My Master! My Protector!",
+                "transliteration": "YA ILAHI WA RAB-BI WA SAY-YIDI WA MAW-LAY",
+                "audio": null
+            },
+            {
+                "id": 117,
+                "text": "لأَيِّ الأُمُورِ إِلَيْكَ أَشْكُو",
+                "translation": "For which things would I complain to You?",
+                "transliteration": "LI-AY-YIL-UMURI ILAYKA ASH-KU",
+                "audio": null
+            },
+            {
+                "id": 118,
+                "text": "وَلِمَا مِنْهَا أَضِجُّ وَأَبْكِي",
+                "translation": "And for which of them would I lament and weep?",
+                "transliteration": "WA LIMA MINHA ADIJ-JU WA AB-KI",
+                "audio": null
+            },
+            {
+                "id": 119,
+                "text": "لأَلِيمِ الْعَذَابِ وَشِدَّتِهِ!",
+                "translation": "For the pain and severity of chastisement?",
+                "transliteration": "LI-ALIMIL-`ADHABI WA SHID-DATIH",
+                "audio": null
+            },
+            {
+                "id": 120,
+                "text": "أَمْ لِطُولِ الْبَلاءِ وَمُدَّتِهِ!",
+                "translation": "Or for the length and period of tribulation?",
+                "transliteration": "AM LITULIL-BALA-I WA MUD-DATIH",
+                "audio": null
+            },
+            {
+                "id": 121,
+                "text": "فَلَئِن صَيَّرْتَنِي لِلْعُقُوبَاتِ مَعَ أَعْدَائِكَ",
+                "translation": "So if You takest me to the punishments with Your enemies,",
+                "transliteration": "FA-LA-IN SAY-YAR-TANI LIL-U'QUBATI MA' A`DA-IK",
+                "audio": null
+            },
+            {
+                "id": 122,
+                "text": "وَجَمَعْتَ بَيْنِي وَبَيْنَ أَهْلِ بَلائِكَ",
+                "translation": "And gatherest me with the people of Your tribulation",
+                "transliteration": "WA JAMA`TA BAYNI WA BAYNA AHLI BALA-IK",
+                "audio": null
+            },
+            {
+                "id": 123,
+                "text": "وَفَرَّقْتَ بَيْنِي وَبَيْنَ أَحِبَّائِكَ وَأَوْلِيَائِكَ",
+                "translation": "And separatest me from Your friends and saints,",
+                "transliteration": "WA FAR-RAQ-TA BAY-NI WA BAY-NA AHIB-BA-IKA WA AW-LI-YA-IK",
+                "audio": null
+            },
+            {
+                "id": 124,
+                "text": "فَهَبْنِي يَا إِلَهِي وَسَيِّدِي وَمَوْلاي وَرَبِّي صَبَرْتُ عَلَى عَذَابِكَ،",
+                "translation": "Then suppose, My God, my Master, my Protector and my Lord that I am able to endure Your chastisement,",
+                "transliteration": "FA-HAB-NI YA ILAHI WASAY-YIDI WA MAWLAYA WA RAB-BI SABAR-TU `ALA `ADHABIKA",
+                "audio": null
+            },
+            {
+                "id": 125,
+                "text": "فَكَيْفَ أَصْبِرُ عَلَى فِرَاقِكَ",
+                "translation": "How can I endure separation from You?",
+                "transliteration": "FAKAYFA AS-BIRU `ALA FIRAQIKA",
+                "audio": null
+            },
+            {
+                "id": 126,
+                "text": "وَهَبْنِي صَبَرْتُ عَلَى حَرِّ نَارِكَ،",
+                "translation": "And suppose that I am able to endure the heat of Your fire,",
+                "transliteration": "WA HAB-NI SABAR-TU `ALA HAR-RI NARIKA",
+                "audio": null
+            },
+            {
+                "id": 127,
+                "text": "فَكَيْفَ أَصْبِرُ عَنِ النَّظَرِ إِلَى كَرَامَتِكَ",
+                "translation": "How can I endure not gazing upon Your generosity?",
+                "transliteration": "FAKAYFA AS-BIRU `AN-NAZARI ILA KARAMATIK",
+                "audio": null
+            },
+            {
+                "id": 128,
+                "text": "أَمْ كَيْفَ أَسْكُنُ فِي النَّارِ وَرَجَائِي عَفْوُكَ",
+                "translation": "Or how can I dwell in the Fire while my hope is Your pardon?",
+                "transliteration": "AM KAYFA AS-KUNU FIN-NARI WA RAJA-I `AF-WUK",
+                "audio": null
+            },
+            {
+                "id": 129,
+                "text": "فَبِعِزَّتِكَ يَا سَيِّدِي وَمَوْلاي أُقْسِمُ صَادِقاً، لَئِن تَرَكْتَنِي نَاطِقاً",
+                "translation": "So by Your might, my Master and my protector, I swear sincerely, if You leavest me with speech,",
+                "transliteration": "FABI-I'Z-ZATIKA YA SAY-YIDI WA MAWLAYA UQ-SIMU SADIQAL-LA-IN TARAK-TANI NATIQAN",
+                "audio": null
+            },
+            {
+                "id": 130,
+                "text": "لأَضِجَّنَّ إِلَيْكَ بَيْنَ أَهْلِهَا ضَجِيجَ الآمِلِينَ",
+                "translation": "I will lament to You from the midst of the Fire's inhabitants with lamentation of the hopeful;",
+                "transliteration": "LADIJ-JAN-NA ILAYKA BAYNA AH-LIHA DAJIJAL-AMILIN",
+                "audio": null
+            },
+            {
+                "id": 131,
+                "text": "وَلأَصْرُخَنَّ إِلَيكَ صُرَاخَ المُسْتَصْرِخِينَ",
+                "translation": "I will cry to You with the cry of those crying for help;",
+                "transliteration": "WA LASRUKHAN-NA ILAYKA SURAKHAL-MUS-TAS-RIKHIN",
+                "audio": null
+            },
+            {
+                "id": 132,
+                "text": "وَلأَبْكِيَنَّ عَلَيْكَ بُكَاءَ الفَاقِدِينَ",
+                "translation": "I will weep to You with the weeping of the bereft;",
+                "transliteration": "WA-LA-AB-KI-YAN-NA `AILAYKA BUKA-AL-FAQIDIN",
+                "audio": null
+            },
+            {
+                "id": 133,
+                "text": "وَلأُنَادِيَنَّكَ أَيْنَ كُنتَ يَا وَلِيَّ الْمُؤْمِنِينَ",
+                "translation": "And I will call to You, Where art You, O Sponsor of the believers,",
+                "transliteration": "WA LA-UNADI-YAN-NAKA AY-NA KUN-TA YA WALI-YAL-MU-MININ",
+                "audio": null
+            },
+            {
+                "id": 134,
+                "text": "يَا غَايَةَ آمَاِل العَارِفِينَ",
+                "translation": "O Goal of the hopes of Your knowers,",
+                "transliteration": "YA GHAYATA A-MALIL-`ARIFIN",
+                "audio": null
+            },
+            {
+                "id": 135,
+                "text": "يَا غِيَاثَ المُسْتَغِيثِينَ",
+                "translation": "O Aid of those who seek assistance,",
+                "transliteration": "YA GHIYATHAL-MUS-TAGHITHIN",
+                "audio": null
+            },
+            {
+                "id": 136,
+                "text": "يَا حَبِيبَ قُلُوبِ الصَّادِقِينَ",
+                "translation": "O Friend of the hearts of the sincere",
+                "transliteration": "YA HABIBA QULUBIS-SADIQIN",
+                "audio": null
+            },
+            {
+                "id": 137,
+                "text": "وَيَا إِلَهَ العَالَمِينَ",
+                "translation": "And O God of all the world's inhabitants!",
+                "transliteration": "WA YA ILHAL-`ALAMIN",
+                "audio": null
+            },
+            {
+                "id": 138,
+                "text": "أَفَتُرَاكَ، سُبْحَانَكَ يَا إِلَهِي وَبِحَمْدِكَ، تَسْمَعُ فِيهَا صَوْتَ عَبْدٍ مُّسْلِمٍ",
+                "translation": "Canst You see Yourself — Glory be to You My God, and Thine is the praised — hearing within the Fire the voice of a slave surrendered to You,",
+                "transliteration": "AFATURAKA SUB-HANAKA YA ILAHI WA BIHAM-DIKA TAS-MAU' FIHA SAW-TA `AB-DIM-MUS-LIMIN",
+                "audio": null
+            },
+            {
+                "id": 139,
+                "text": "سُجِنَ فِيهَا بِمُخَالَفَتِهِ",
+                "translation": "Imprisoned there because of his violations,",
+                "transliteration": "SUJINA FIHA BI-MUKHALAFATIH",
+                "audio": null
+            },
+            {
+                "id": 140,
+                "text": "وَذَاقَ طَعْمَ عَذَابِهَا بِمَعْصِيَتِهِ",
+                "translation": "Tasting the favour of its torment because of his disobedience,",
+                "transliteration": "WA DHAQA TA`MA `ADHABIHA BI-MA`SI-YATIH",
+                "audio": null
+            },
+            {
+                "id": 141,
+                "text": "وَحُبِسَ بَيْنَ أَطْبَاقِهَا بِجُرْمِهِ وَجَرِيرَتِهِ",
+                "translation": "And confined within its levels because of his sin and crime,",
+                "transliteration": "WA HUBISA BAYNA AT-BAQIHA BIJUR-MIH WA JARIRATIH",
+                "audio": null
+            },
+            {
+                "id": 142,
+                "text": "وَهُوَ يَضِجُّ إلَيْكَ ضَجِيجَ مُؤَمِّلٍ لِّرَحْمَتِكَ",
+                "translation": "While he laments to You with the lament of one hopeful for Your mercy,",
+                "transliteration": "WA HUWA YADIJ-JU ILAYKA DAJIJA MUAMMILIL-LIRAH-MAT-K",
+                "audio": null
+            },
+            {
+                "id": 143,
+                "text": "وَيُنَادِيكَ بِلِسَانِ أَهْلِ تَوْحِيدِكَ",
+                "translation": "And calls to You with the tongue of those who profess Your Unity",
+                "transliteration": "WA YUNADIKA BI-LISANI AHLI TAW-HIDIK",
+                "audio": null
+            },
+            {
+                "id": 144,
+                "text": "وَيَتَوَسَّلُ إلَيْكَ بِرُبُوبِيَّتِكَ",
+                "translation": "And entreats You by Your lordship!",
+                "transliteration": "WA YATAWAS-SALU ILAYKA BI-RUBUBI-YATIK",
+                "audio": null
+            },
+            {
+                "id": 145,
+                "text": "يَا مَوْلاي فَكَيْفَ يَبقَى فِي الْعَذَابِ وَهُوَ يَرْجُو مَا سَلَفَ مِنْ حِلْمِكَ",
+                "translation": "My Protector, so how should he remain in the chastisement, while he has hope for Your previous clemency?",
+                "transliteration": "YA MAWLAY FA-KAYFA YABQA FIL-`ADHABI WA HUWA YAR-JU MA SALAFA MIN HIL-MIK",
+                "audio": null
+            },
+            {
+                "id": 146,
+                "text": "أَمْ كَيْفَ تُؤْلِمُهُ النَّارُ وَهُوَ يَامَلُ فَضْلَكَ وَرَحْمَتَكَ",
+                "translation": "Or how should the Fire cause him pain while he expects Your bounty and mercy?",
+                "transliteration": "AM KAYFA TU-LIMUHUN-NARU WA HUWA YA-MALU FADLAKA WA RAH-MATAKA",
+                "audio": null
+            },
+            {
+                "id": 147,
+                "text": "أَمْ كَيْفَ يُحْرِقُهُ لَهِيبُهَا وَأَنتَ تَسْمَعُ صَوْتَهُ وَتَرَى مَكَانَهُ",
+                "translation": "Or how should its flames burn him, while You hearest his voice and seest his place?",
+                "transliteration": "AM KAYFA YUH-RIQUHU LAHIBUHA WA ANTA TAS-MAU' SAW-TAHU WA TARA MAKANAH",
+                "audio": null
+            },
+            {
+                "id": 148,
+                "text": "أَمْ كَيْفَ يَشْتَمِلُ عَلَيْهِ زَفِيرُهَا وَأَنتَ تَعْلَمُ ضَعْفَهُ",
+                "translation": "Or how should its groaning encompass him, while You knowest his weakness?",
+                "transliteration": "AM KAYFA YASH-TAMILU `AILAYHI ZAFIRUHA WA ANTA TA`LAMU DA`FAH",
+                "audio": null
+            },
+            {
+                "id": 149,
+                "text": "أَمْ كَيْفَ يَتَقَلْقَلُ بَيْنَ أَطْبَاقِهَا وَأَنتَ تَعْلَمُ صِدْقَهُ",
+                "translation": "Or how should he be convulsed among its levels, while You knowest his sincerity?",
+                "transliteration": "AM KAYFA YATAQALQALU BAYNA AT-BAQIHA WA ANTA TA`LAMU SID-QAH",
+                "audio": null
+            },
+            {
+                "id": 150,
+                "text": "أَمْ كَيْفَ تَزْجُرُهُ زَبَانِيَتُهَا وَهُوَ يُنَادِيكَ يَا رَبَّهُ",
+                "translation": "Or how should its keepers torture him while he calls out to You, O Lord?",
+                "transliteration": "AM KAYFA TAZJURUHU ZABANI-YATUHA WA HUWA YUNADIKA YA RAB-BAH",
+                "audio": null
+            },
+            {
+                "id": 151,
+                "text": "أَمْ كَيْفَ يَرْجُو فَضْلَكَ فِي عِتْقِهِ مِنْهَا فَتَتْرُكُهُ فِيهَا",
+                "translation": "Or how should he have hope of Your bounty in freeing him from it, while You abandonest him within it?",
+                "transliteration": "AM KAYFA YAR-JU FADLAKA FI I'T-QIHI MINHA FATAT-RUKUHU FIHA",
+                "audio": null
+            },
+            {
+                "id": 152,
+                "text": "هَيهَاتَ مَا ذَلِكَ الظَّنُّ بِكَ",
+                "translation": "Far be it from You! That is not what is expected of You,",
+                "transliteration": "HAYHAT MA DHALIKAZ-ZAN-NU BIK",
+                "audio": null
+            },
+            {
+                "id": 153,
+                "text": "وَلا الْمَعْرُوفُ مِن فَضْلِكَ",
+                "translation": "Nor what is well-known of Your bounty,",
+                "transliteration": "WA-LAL-MA`RUFU MIN FADLIK",
+                "audio": null
+            },
+            {
+                "id": 154,
+                "text": "وَلا مُشْبِهٌ لِمَا عَامَلْتَ بِهِ الْمُوَحِّدِينَ مِنْ بِرِّكَ وَإِحْسَانِكَ",
+                "translation": "Nor it is similar to the goodness and kindness You hast shown to those who profess Your Unity.",
+                "transliteration": "WA-LA MUSH-BIHA LIMA `AMAL-TA BIHIL-MUAH-HIDINA MIM BIR-RIKA WA IH-SANIK",
+                "audio": null
+            },
+            {
+                "id": 155,
+                "text": "فَبِالْيَقِينِ أَقْطَعُ لَوْلا مَا حَكَمْتَ بِهِ مِن تَعْذِيبِ جَاحِدِيكَ",
+                "translation": "So I declare with certainty that were it not for what You hast decreed concerning the chastisement of Your deniers",
+                "transliteration": "FA-BIAL-YAQINI AQ-TAU' LAW-LA MA HAKAM-TA BIHI MIN TA`DHIBI JAHIDIK",
+                "audio": null
+            },
+            {
+                "id": 156,
+                "text": "وَقَضَيْتَ بِهِ مِنْ إِخْلاَدِ مُعَانِدِيكَ",
+                "translation": "And what You hast foreordained concerning the everlasting home of those who stubbornly resist,",
+                "transliteration": "WA QADAYTA BIHI MIN IKH-LAYDI MU`ANIDIK",
+                "audio": null
+            },
+            {
+                "id": 157,
+                "text": "لَجَعَلْتَ النَّارَ كُلَّهَا بَرْداً وَّسَلاَماً،",
+                "translation": "You wouldst make the Fire, all of it, coolness and safety,",
+                "transliteration": "LAJA'L-TAN-NARA KUL-LAHA BAR-DAW-WA SALAMA",
+                "audio": null
+            },
+            {
+                "id": 158,
+                "text": "وَمَا كَانَ لأَحَدٍ فِيهَا مَقَرّاً وَّلا مُقَاماً",
+                "translation": "And no one would have a place of rest or abode within it.",
+                "transliteration": "WA MA KANA LI-AHADIN FIHA MAQAR-RAW-WA-LA MUQAMA",
+                "audio": null
+            },
+            {
+                "id": 159,
+                "text": "لَّكِنَّكَ تَقَدَّسَتْ أَسْمَاؤُكَ أَقْسَمْتَ أَنْ تَمْلأَهَا مِنَ الْكَافِرِينَ،",
+                "translation": "But You—holy are Your Names—hast sworn that You wilt fill it with the unbelievers,",
+                "transliteration": "LAKIN-NAKA TAQAD-DASAT AS-MA-UKA AQ-SAM-TA AN TAM-LAHA MINAL-KAFIRINA;",
+                "audio": null
+            },
+            {
+                "id": 160,
+                "text": "مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ",
+                "translation": "Both Jinn and men together,",
+                "transliteration": "MINAL-JIN-NATI WAN-NASI AJ-M`AIN",
+                "audio": null
+            },
+            {
+                "id": 161,
+                "text": "وَأَن تُخَلِّدَ فِيهَا الْمُعَانِدِينَ",
+                "translation": "And that You wilt place those who stubbornly resist therein forever.",
+                "transliteration": "WA-AN TUKHAL-LIDA FIHAL-MU`ANIDIN",
+                "audio": null
+            },
+            {
+                "id": 162,
+                "text": "وَأَنتَ جَلَّ ثَنَاؤُكَ قُلْتَ مُبْتَدَئاً، وَّتَطَوَّلْتَ بِالإِنْعَامِ مُتَكَرِّماً:",
+                "translation": "And You— majestic is Your eulogy— said at the beginning and wernt gracious through kindness as a favour,",
+                "transliteration": "WA ANTA JAL-LA THANA-UKA QUL-TA MUB-TADIWAW-WA TATAW-WAL-TA BIL-IN-`AMI MUTAKAR-RIMA",
+                "audio": null
+            },
+            {
+                "id": 163,
+                "text": "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُونَ",
+                "translation": "(What? Is he who has been believer like unto him who has been ungodly? They are not equal)",
+                "transliteration": "AFAMAN KANA MUMINAN KAMAN KANA FASIQAL-LA YAS-TAWUN",
+                "audio": null
+            },
+            {
+                "id": 164,
+                "text": "إِلَهِي وَسَيِّدِي فَأَسْألُكَ بِالْقُدْرَةِ الَّتِي قَدَّرْتَهَا",
+                "translation": "My God and my Master! So I ask You by the power You hast apportioned",
+                "transliteration": "ILAHI WA SAY-YIDI FA-AS-ALUKA BIAL-QUD-RATIL-LATI QAD-DARTAHA",
+                "audio": null
+            },
+            {
+                "id": 165,
+                "text": "وَبِالْقَضِيَّةِ الَّتِي حَتَمْتَهَا وَحَكَمْتَهَا وَغَلَبْتَ مَنْ عَلَيْهِ أَجْرَيْتَهَا",
+                "translation": "And by the decision which You hast determined and imposed and through which You hast overcome him toward whom it has been put into effect,",
+                "transliteration": "WA BIL-QADI-YATIL-LATI HATAM-TAHA WA HAKAM-TAHA WA GHALAB-TA MAN `AILAYHI AJ-RAYTAHA",
+                "audio": null
+            },
+            {
+                "id": 166,
+                "text": "أَن تَهَبَ لِي، فِي هذِهِ اللَّيْلَةِ، وَفِي هَذِهِ السَّاعَةِ",
+                "translation": "That You forgivest me in this night and at this hour",
+                "transliteration": "AN TAHABA LI FI HADHIHIL-LAYLATI WA FI HADHIHIS-SA'AH",
+                "audio": null
+            },
+            {
+                "id": 167,
+                "text": "كُلَّ جُرْمٍ أَجْرَمْتُهُ",
+                "translation": "Every offence I have committed,",
+                "transliteration": "KUL-LA JUR-MIN AJ-RAM-TUH",
+                "audio": null
+            },
+            {
+                "id": 168,
+                "text": "وَكُلَّ ذَنْبٍ أَذْنَبْتُهُ",
+                "translation": "And every sin I have performed,",
+                "transliteration": "WA KUL-LA DHAM-BIN ADHNAB-TUH",
+                "audio": null
+            },
+            {
+                "id": 169,
+                "text": "وَكُلَّ قَبِيحٍ أَسْرَرْتُهُ",
+                "translation": "And every ugly thing I have concealed",
+                "transliteration": "WA KUL-LA QABIHIN AS-RAR-TUH",
+                "audio": null
+            },
+            {
+                "id": 170,
+                "text": "وَكُلَّ جَهْلٍ عَمِلْتُهُ،",
+                "translation": "And every folly I have enacted",
+                "transliteration": "WA KUL-LA JAH-LIN `AMIL-TUHU,",
+                "audio": null
+            },
+            {
+                "id": 171,
+                "text": "كَتَمْتُهُ أَوْ أَعْلَنتُهُ،",
+                "translation": "Whether I have hidden or announced it,",
+                "transliteration": "KATAM-TUHUO AW A`LAN-TUHU,",
+                "audio": null
+            },
+            {
+                "id": 172,
+                "text": "أَخفَيْتُهُ أَوْ أَظْهَرْتُهُ",
+                "translation": "Or I have concealed it or manifested it",
+                "transliteration": "AKHFAYTUHUO AW AZHAR-TUH",
+                "audio": null
+            },
+            {
+                "id": 173,
+                "text": "وَكُلَّ سَيِّئَةٍ أَمَرْتَ بِإِثْبَاتِهَا الْكِرَامَ الكَاتِبِينَ",
+                "translation": "And every evil act which You hast commanded the Noble Writers to record,",
+                "transliteration": "WA KUL-LA SAY-YI-ATIN AMARTA BI-ITH-BATIHAYAL-KIRAMAL-KATIBIN",
+                "audio": null
+            },
+            {
+                "id": 174,
+                "text": "الَّذِينَ وَكَّلْتَهُم بِحِفْظِ مَا يَكُونُ مِنِّي",
+                "translation": "Those whom You hast appointed to watch over what appears from me",
+                "transliteration": "AL-LADHINA WAK-KAL-TAHUM BI-HIF-ZI MA YAKUNU MIN-NI",
+                "audio": null
+            },
+            {
+                "id": 175,
+                "text": "وَجَعَلْتَهُمْ شُهُوداً عَلَيَّ مَعَ جَوَارِحِي،",
+                "translation": "And whom You hast made, along with my bodily members, witness against me.",
+                "transliteration": "WA JA'L-TAHUM SHUHUDAN `ALAY-YA MA' JAWARIHI",
+                "audio": null
+            },
+            {
+                "id": 176,
+                "text": "وَكُنتَ أَنتَ الرَّقِيبَ عَلَيَّ مِن وَّرَائِهِمْ،",
+                "translation": "And You wast Yourself the Watcher over me from behind them,",
+                "transliteration": "WA KUNTA ANTAR-RAQIBA `ALAY-YA MIW-WARA-IHIM",
+                "audio": null
+            },
+            {
+                "id": 177,
+                "text": "وَالشَّاهِدَ لِمَا خَفِي عَنْهُمْ،",
+                "translation": "And the Witness of what is hidden from them",
+                "transliteration": "WASH-SHAHIDA LIMA KHAFIYA `AN-HUM",
+                "audio": null
+            },
+            {
+                "id": 178,
+                "text": "وَبِرَحْمَتِكَ أَخْفَيْتَهُ،",
+                "translation": "But through Your mercy You concealed it",
+                "transliteration": "WA BI-RAH-MATIKA AKH-FAYTAHU",
+                "audio": null
+            },
+            {
+                "id": 179,
+                "text": "وَبفَضْلِكَ سَتَرْتَهُ",
+                "translation": "And through Your bounty You veiled it.",
+                "transliteration": "WA BIFADLIKA SATAR-TAH",
+                "audio": null
+            },
+            {
+                "id": 180,
+                "text": "وَأَن تُوَفِّرَ حَظِّي مِن كُلِّ خَيْرٍ تُنْزِلُهُ،",
+                "translation": "[And I ask You] that You bestowest upon me an abundant share of every good You sendest down,",
+                "transliteration": "WA AN TUWF-FIRA HAZ-ZI MIN KUL-LI KHAYRIN TUNZILUH",
+                "audio": null
+            },
+            {
+                "id": 181,
+                "text": "أَوْ إِحْسَانٍ تُفْضِلُهُ",
+                "translation": "Or kindness You conferrest,",
+                "transliteration": "AW IH-SANIN TUF-DILUH",
+                "audio": null
+            },
+            {
+                "id": 182,
+                "text": "أَوْ بِرٍّ تَنْشِرُهُ،",
+                "translation": "Or goodness You unfoldest,",
+                "transliteration": "AW BIR-RIN TAN-SHIRUHU",
+                "audio": null
+            },
+            {
+                "id": 183,
+                "text": "أَوْ رِزْقٍ تَبْسُطُهُ",
+                "translation": "Or provision You spreadest out,",
+                "transliteration": "AW RIZQIN TAB-SUTUH",
+                "audio": null
+            },
+            {
+                "id": 184,
+                "text": "أَوْ ذَنْبٍ تَغْفِرُهُ",
+                "translation": "Or sin You forgivest,",
+                "transliteration": "AW DHAM-BIN TAGH-FIRUYHU",
+                "audio": null
+            },
+            {
+                "id": 185,
+                "text": "أَوْ خَطَأٍ تَسْتُرُهُ",
+                "translation": "Or error You coverest.",
+                "transliteration": "AW KHATAIN TAS-TURUHU",
+                "audio": null
+            },
+            {
+                "id": 186,
+                "text": "يَا رَبِّ يَا رَبِّ يَا رَبِّ",
+                "translation": "My Lord! My Lord! My Lord!",
+                "transliteration": "YA RAB-BI YA RAB-BI YA RABB",
+                "audio": null
+            },
+            {
+                "id": 187,
+                "text": "يَا إِلَهِي وَسَيِّدِي وَمَوْلاي وَمَاِلكَ رِقِّي",
+                "translation": "My God! My Master! My Protector! Owner of my bondage!",
+                "transliteration": "YA ILAHI WA SAY-YIDI WA MAW-LAYA WA MALIKA RIQ-QI",
+                "audio": null
+            },
+            {
+                "id": 188,
+                "text": "يَا مَنْ بِيَدِهِ نَاصِيَتِي",
+                "translation": "O He in whose hand is my forelock!",
+                "transliteration": "YA MAM BI-YADIHI NASI-YATI",
+                "audio": null
+            },
+            {
+                "id": 189,
+                "text": "يَا عَلِيماً بِضُرِّي وَمَسْكَنَتِي",
+                "translation": "O He who knows my affliction and my misery!",
+                "transliteration": "YA `ALIMAM BIDURI WA MAS-KANATI",
+                "audio": null
+            },
+            {
+                "id": 190,
+                "text": "يَا خَبِيراً بِفَقْرِي وَفَاقَتِي",
+                "translation": "O He who is aware of my poverty and indigence!",
+                "transliteration": "YA KHABIRAM BI-FAQ-RI WA FAQATI",
+                "audio": null
+            },
+            {
+                "id": 191,
+                "text": "يَا رَبِّ يَا رَبِّ يَا رَبِّ",
+                "translation": "My Lord! My Lord! My Lord!",
+                "transliteration": "YA RAB-BI YA YA RAB-BI YA RABB",
+                "audio": null
+            },
+            {
+                "id": 192,
+                "text": "أَسْألُكَ بِحَقِّكَ وَقُدْسِكَ",
+                "translation": "I ask You by Your Truth and Your Holiness",
+                "transliteration": "AS-ALUKA BI-HAQ-QIKA WA QUD-SIK",
+                "audio": null
+            },
+            {
+                "id": 193,
+                "text": "وَأَعْظَمِ صِفَاتِكَ وَأَسْمَائِكَ",
+                "translation": "And the greatest of Your Attributes and Names,",
+                "transliteration": "WA A`ZAMI SIFATIKA WA AS-MA-IKA",
+                "audio": null
+            },
+            {
+                "id": 194,
+                "text": "أن تَجْعَلَ أَوْقَاتِي فِي اللَّيلِ وَالنَّهَارِ بِذِكْرِكَ مَعْمُورَةً،",
+                "translation": "That You makest my times in the night and the day inhabited by Your remembrance,",
+                "transliteration": "AN TAJ-`ALA AW-QATI FIL-LAYLI WAN-NAHARI BI-DHIK-RIKA MA`MURAH",
+                "audio": null
+            },
+            {
+                "id": 195,
+                "text": "وَبِخِدْمَتِكَ مَوْصُولَةً،",
+                "translation": "And joined to Your service",
+                "transliteration": "WA BIKHID-MATIKA MAW-SULAH",
+                "audio": null
+            },
+            {
+                "id": 196,
+                "text": "وَّأَعْمَاِلي عِنْدَكَ مَقْبُولَةً،",
+                "translation": "And my works acceptable to You,",
+                "transliteration": "WA A`MALI I'NDAKA MAQ-BULAH",
+                "audio": null
+            },
+            {
+                "id": 197,
+                "text": "حَتَّى تَكُونَ أَعْمَاِلي وَأَوْرَادِي كُلُّهَا وِرْداً وَّاحِداً،",
+                "translation": "So that my works and my litanies may all be a single litany",
+                "transliteration": "HAT-TA TAKUNA A`MALI WA AW-RADI KUL-LUHA WIR-DAW-WAHIDAN",
+                "audio": null
+            },
+            {
+                "id": 198,
+                "text": "وَّحَاِلي فِي خِدْمَتِكَ سَرْمَداً",
+                "translation": "And my occupation with Your service everlasting.",
+                "transliteration": "WA HALI FI KHID-MATIKA SAR-MADA",
+                "audio": null
+            },
+            {
+                "id": 199,
+                "text": "يَا سَيِّدِي، يَا مَنْ عَلَيْهِ مُعَوَّلِي",
+                "translation": "My Master! O He upon whom I depend!",
+                "transliteration": "YA SAY-YIDI YA MAN `AILAYHI MU`AW-WALI",
+                "audio": null
+            },
+            {
+                "id": 200,
+                "text": "يَا مَنْ إلَيْهِ شَكَوْتُ أَحْوَاِلي",
+                "translation": "O He to whom I complain about my states!",
+                "transliteration": "YA MAN ILAYHI SHAKAW-TU AH-WALI",
+                "audio": null
+            },
+            {
+                "id": 201,
+                "text": "يَا رَبِّ يَا رَبِّ يَا رَبِّ",
+                "translation": "My Lord! My Lord! My Lord!",
+                "transliteration": "YA RAB-BI YA RAB-BI YA RABB",
+                "audio": null
+            },
+            {
+                "id": 202,
+                "text": "قَوِّ عَلَى خِدْمَتِكَ جَوَارِحِي",
+                "translation": "Strengthen my bodily members in Your service,",
+                "transliteration": "QAW-WI `ALA KHID-MATIKA JAWARIHI",
+                "audio": null
+            },
+            {
+                "id": 203,
+                "text": "وَاشْدُدْ عَلىَ الْعَزِيمَةِ جَوَانِحِي",
+                "translation": "And fortify my ribs in determination",
+                "transliteration": "WASH-DUD `ALAL-`AZIMATI JAWANIHI",
+                "audio": null
+            },
+            {
+                "id": 204,
+                "text": "وَهَبْ لِي الْجِدَّ فِي خَشْيَتِكَ",
+                "translation": "And bestow upon me earnestness in my fear of You",
+                "transliteration": "WA HAB LIYAL-JID-DA FI KHASH-YATIK",
+                "audio": null
+            },
+            {
+                "id": 205,
+                "text": "وَالدَّوَامَ فِي الإتِّصَاِل بِخِدْمَتِكَ",
+                "translation": "And continuity in my being joined to Your service",
+                "transliteration": "WAD-DAWAMA FIL-AT-ITISALI BIKHID-MATIK",
+                "audio": null
+            },
+            {
+                "id": 206,
+                "text": "حَتَّى أَسْرَحَ إِلَيكَ فِي مَيَادِينِ السَّابِقِينَ",
+                "translation": "So that I may move easily toward You in the battlefields of the foremost",
+                "transliteration": "HAT-TA AS-RAHA ILAYKA FI MAYA-DINIS-SABIQIN",
+                "audio": null
+            },
+            {
+                "id": 207,
+                "text": "وَأُسْرِعَ إلَيْكَ فِي الْمبُادِرِينَ",
+                "translation": "And hurry to You among the prominent",
+                "transliteration": "WA US-RI`A ILAYKA FIL-MUBADIRIN",
+                "audio": null
+            },
+            {
+                "id": 208,
+                "text": "وَأَشْتَاقَ إلىَ قُرْبِكَ فِي الْمُشْتَاقِينَ",
+                "translation": "And desire fervently Your proximity among the fervently desirous",
+                "transliteration": "WA ASH-TAQA ILA QUR-BIKA FIL-MUSH-TAQIN",
+                "audio": null
+            },
+            {
+                "id": 209,
+                "text": "وَأَدْنُوَ مِنْكَ دُنُوَّ الْمُخْلِصِينَ",
+                "translation": "And move nearer to You with the nearness of the sincere",
+                "transliteration": "WA AD-NUA MINKA DUNU-WAL-MUKH-LISIN",
+                "audio": null
+            },
+            {
+                "id": 210,
+                "text": "وَأَخَافَكَ مَخَافَةَ الْمُوقِنِينَ",
+                "translation": "And fear You with the fear of those who have certitude",
+                "transliteration": "WA AKHAFAKA MAKHAFATAL-MUQININ",
+                "audio": null
+            },
+            {
+                "id": 211,
+                "text": "وَأَجْتَمِعَ فِي جِوَارِكَ مَعَ الْمُؤْمنِينَ",
+                "translation": "And gather with the believers in Your vicinity.",
+                "transliteration": "WA AJ-TAMI`A FI JIWARIKA MA'L-MU-MNIN",
+                "audio": null
+            },
+            {
+                "id": 212,
+                "text": "اللَّهُمَّ وَمَنْ أَرَادَنِي بِسُوٍء فَأَرِدْهُ",
+                "translation": "O Allah, whoever desires evil for me, desire [it] for him!",
+                "transliteration": "ALLAHUMMA WA MAN ARADANI BISUO-IN FARID-HU",
+                "audio": null
+            },
+            {
+                "id": 213,
+                "text": "وَمَن كَادَنِي فَكِدْهُ",
+                "translation": "whoever deceives me-deceive him!",
+                "transliteration": "WA MAN KADANI FAKID-HU",
+                "audio": null
+            },
+            {
+                "id": 214,
+                "text": "وَاجْعَلْنِي مِنْ أَحَسَنِ عَبِيدِكَ نَصِيباً عِنْدَكَ",
+                "translation": "And make me one of the most excellent of Your slaves in Portion from You,",
+                "transliteration": "WAJ-`ALNI MIN AHASANI `ABIDIKA NASIBAN I'NDAKA",
+                "audio": null
+            },
+            {
+                "id": 215,
+                "text": "وَأَقْرَبِهِم مَّنْزِلَةً مِّنْكَ",
+                "translation": "And the nearest of them in station to You",
+                "transliteration": "WA AQ-RABIHIM-MANZILATAM-MINK",
+                "audio": null
+            },
+            {
+                "id": 216,
+                "text": "وَأَخَصِّهِمْ زُلْفَةً لَّديْكَ",
+                "translation": "And the most elected of them in proximity to You.",
+                "transliteration": "WA AKHAS-SIHIM ZUL-FATAL-LADAYK",
+                "audio": null
+            },
+            {
+                "id": 217,
+                "text": "فَإِنَّهُ لا يُنَالُ ذَلِكَ إِلاَّ بِفَضْلِكَ",
+                "translation": "For that cannot be attained except by Your bounty.",
+                "transliteration": "FA-IN-NAHU LA YUNALU DHA-LIKA IL-LA BI-FADLIK",
+                "audio": null
+            },
+            {
+                "id": 218,
+                "text": "وَجُدْ لِي بِجُودِكَ",
+                "translation": "And grant generously to me through Your munificence,",
+                "transliteration": "WA JUD LI BIJUDIK",
+                "audio": null
+            },
+            {
+                "id": 219,
+                "text": "وَاعْطِفْ عَلَيَّ بِمَجْدِكَ",
+                "translation": "And incline toward me with Your splendour",
+                "transliteration": "W`A-TIF `ALAY-YA BI-MAJ-DIK",
+                "audio": null
+            },
+            {
+                "id": 220,
+                "text": "وَاحْفَظْنِي بِرَحْمَتِكَ",
+                "translation": "And protect me with Your mercy!",
+                "transliteration": "WAH-FAZNI BIRAH-MATIK",
+                "audio": null
+            },
+            {
+                "id": 221,
+                "text": "وَاجْعَل لِّسَانِي بِذِكْرِكَ لَهِجاً",
+                "translation": "And make my tongue remember You without ceasing",
+                "transliteration": "WAJ-`AL-LISANI BIDHIK-RIKA LAHIJA",
+                "audio": null
+            },
+            {
+                "id": 222,
+                "text": "وَّقَلْبِي بِحُبِّكَ مُتَيَّماً",
+                "translation": "And my heart enthralled by Your love!",
+                "transliteration": "WA QAL-BI BI-HUB-BIKA MUTAY-YAMA",
+                "audio": null
+            },
+            {
+                "id": 223,
+                "text": "وَّمُنَّ عَلَيَّ بِحُسْنِ إِجَابَتِكَ",
+                "translation": "And be gracious to me by answering me favourably,",
+                "transliteration": "WA MUN-NA `ALAY-YA BIHUS-NI IJABATIK",
+                "audio": null
+            },
+            {
+                "id": 224,
+                "text": "وَأَقِلْنِي عَثْرَتِي",
+                "translation": "And nullify my slips",
+                "transliteration": "WA AQIL-NI `ATH-RATI",
+                "audio": null
+            },
+            {
+                "id": 225,
+                "text": "وَاغْفِرْ زَلَّتِي",
+                "translation": "And forgive my lapses!",
+                "transliteration": "WAGH-FIR ZAL-LATI",
+                "audio": null
+            },
+            {
+                "id": 226,
+                "text": "فَإِنَّكَ قَضَيْتَ عَلَى عِبَادِكَ بِعِبَادَتِكَ",
+                "translation": "For You hast decreed Your worship for Your servants",
+                "transliteration": "FA-IN-NAKA QADAYTA `ALA I'BADIKA BI-I'BADATIK",
+                "audio": null
+            },
+            {
+                "id": 227,
+                "text": "وَأَمَرْتَهُم بِدُعَائِكَ",
+                "translation": "And commanded them to supplicate You",
+                "transliteration": "WA AMAR-TAHUM BIDU`AA-IKA",
+                "audio": null
+            },
+            {
+                "id": 228,
+                "text": "وَضَمِنتَ لَهُمُ الإِجَابَةَ",
+                "translation": "And assured them that they would be answered.",
+                "transliteration": "WA DAMINTA LAHUMUL-IJABAH",
+                "audio": null
+            },
+            {
+                "id": 229,
+                "text": "فَإِلَيْكَ يَا رَبِّ نَصَبْتُ وَجْهِي",
+                "translation": "So toward You, my Lord, I have turned my face",
+                "transliteration": "FA-ILAYKA YA RAB-BI NASAB-TU WAJ-HI",
+                "audio": null
+            },
+            {
+                "id": 230,
+                "text": "وَإلَيْكَ يَا رَبِّ مَدَدتُّ يَدِي",
+                "translation": "And toward You, my Lord, I have extended my hand.",
+                "transliteration": "WA ILAYKA YA RAB-BI MADAD-TU YADI",
+                "audio": null
+            },
+            {
+                "id": 231,
+                "text": "فَبِعِزَّتِكَ اسْتَجِبْ لِي دُعَائِي",
+                "translation": "So by Your might, comply with my supplication",
+                "transliteration": "FA-BI-I'Z-ZATIKAS-TAJIB LI DU`AA-I",
+                "audio": null
+            },
+            {
+                "id": 232,
+                "text": "وَبَلِّغْنِي مُنَاي",
+                "translation": "And make me attain my desires!",
+                "transliteration": "WA BAL-LIGH-NI MUNAY",
+                "audio": null
+            },
+            {
+                "id": 233,
+                "text": "وَلا تَقْطَعْ مِن فَضْلِكَ رَجَائِي",
+                "translation": "Do not severe my hoping for Your Favours",
+                "transliteration": "WA-LA TAQ-TA' MIN FADLIKA RAJA-I",
+                "audio": null
+            },
+            {
+                "id": 234,
+                "text": "وَاكْفِنِي شَرَّ الْجِنِّ وَالإِنْسِ مِنْ أَعْدَائِي",
+                "translation": "And spare me the evil of my enemies from among the jinn and men!",
+                "transliteration": "WAK-FINI SHAR-RAL-JIN-NI WAL-IN-SI MIN A`DA-I",
+                "audio": null
+            },
+            {
+                "id": 235,
+                "text": "يَا سَرِيعَ الرِّضَا",
+                "translation": "O He, whose pleasure is quickly achieved!",
+                "transliteration": "YA SARI-Y`AR-RIDA",
+                "audio": null
+            },
+            {
+                "id": 236,
+                "text": "اغْفِرْ لِمَن لا يَمْلِكُ إِلاَّ الدُّعَاءَ",
+                "translation": "Forgive him who owns nothing but supplication",
+                "transliteration": "IGH-FIR LIMAN-LA YAM-LIKU IL-LAD-DU`AA",
+                "audio": null
+            },
+            {
+                "id": 237,
+                "text": "فَإِنَّكَ فَعَّالٌ لِّمَا تَشَاءُ",
+                "translation": "For You dost what You wilt.",
+                "transliteration": "FA-IN-NAKA FA`ALUL-LIMA TASHA",
+                "audio": null
+            },
+            {
+                "id": 238,
+                "text": "يَا مَنْ اسْمُهُ دَوَاءٌ",
+                "translation": "O He whose Name is a remedy,",
+                "transliteration": "YA MANIS-MUHU DAWA-UN",
+                "audio": null
+            },
+            {
+                "id": 239,
+                "text": "وَذِكْرُهُ شِفَاءٌ",
+                "translation": "And whose remembrance is a cure,",
+                "transliteration": "WA DHIK-RUHU SHIFA-UN",
+                "audio": null
+            },
+            {
+                "id": 240,
+                "text": "وَطَاعَتُهُ غِنًى",
+                "translation": "And whose obedience is wealth!",
+                "transliteration": "WA TA'TUHU GHINAN",
+                "audio": null
+            },
+            {
+                "id": 241,
+                "text": "ارْحَم مَّن رَّأْسُ مَاِلهِ الرَّجَاءُ",
+                "translation": "Have mercy upon him whose capital is hope",
+                "transliteration": "IR-HAM-MAR-RA-SU MALIHIR-RAJA",
+                "audio": null
+            },
+            {
+                "id": 242,
+                "text": "وَسِلاَحُهُ الْبُكَاءُ",
+                "translation": "And whose weapon is tears!",
+                "transliteration": "WA SILAHUHUL-BUKA-U",
+                "audio": null
+            },
+            {
+                "id": 243,
+                "text": "يَا سَاِبغَ النِّعَمِ",
+                "translation": "O Ample in blessings!",
+                "transliteration": "YA SABIGHAN-NI`AM",
+                "audio": null
+            },
+            {
+                "id": 244,
+                "text": "يَا دَافِعَ النِّقَمِ",
+                "translation": "O Repeller of adversities!",
+                "transliteration": "YA DAFI`AN-NIQAM",
+                "audio": null
+            },
+            {
+                "id": 245,
+                "text": "يَا نُورَ الْمُسْتَوْحِشِينَ فِي الظُّلَمِ",
+                "translation": "O Light of those who are lonely in the darkness!",
+                "transliteration": "YA NURAL-MUS-TAW-HISHINA FIZ-ZULAMI",
+                "audio": null
+            },
+            {
+                "id": 246,
+                "text": "يَا عَالِماً لا يُعَلَّمُ",
+                "translation": "O Knower who was never taught!",
+                "transliteration": "YA `ALIMAL-LA YU`AL-LAM",
+                "audio": null
+            },
+            {
+                "id": 247,
+                "text": "صَلِّ عَلَى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ",
+                "translation": "Bless Muhammad and Muhammad's household!",
+                "transliteration": "SAL-LI `ALA MUHAMMAD WA A-LI MUHAMMADIN",
+                "audio": null
+            },
+            {
+                "id": 248,
+                "text": "وافْعَلْ بِي مَا أَنتَ أَهْلُهُ",
+                "translation": "And do with me what is worthy of You!",
+                "transliteration": "WAF-`AL BI MA ANTA AH-LUH",
+                "audio": null
+            },
+            {
+                "id": 249,
+                "text": "وَصَلَّى اللَّهُ عَلَى رَسُولِهِ وَالأَئِمَّةِ الْمَيَامِينَ مِنْ آلِهِ",
+                "translation": "And Allah bless His messenger and the holy Imams of his household",
+                "transliteration": "WA SAL-LALLAHU `ALA RASULIHI WAL-AIMMATIL-MAYAMINA MIN A-LIHI",
+                "audio": null
+            },
+            {
+                "id": 250,
+                "text": "وَسَلَّمَ تَسْلِيماً كَثِيراً",
+                "translation": "And give them abundant peace!",
+                "transliteration": "WA SAL-LAMA TAS-LIMAN KATHIRA",
+                "audio": null
+            }
+        ],
+        "audio": "Kumayl"
+    },
+    {
+        "id": 9,
+        "title": "Safar Du'a",
+        "subtitle": "Daily during month of Safar",
+        "verses": [
+            {
+                "id": 1,
+                "text": "يَا شَدِيدَ ٱلْقُوَىٰ",
+                "translation": "O Lord of mighty prowess!",
+                "transliteration": "YA SHADIDA ALQUWA",
+                "audio": 0
+            },
+            {
+                "id": 2,
+                "text": "وَيَا شَدِيدَ ٱلْمِحَالِ",
+                "translation": "O Lord of mighty power!",
+                "transliteration": "WA YA SHADIDA ALMIHALI",
+                "audio": 16
+            },
+            {
+                "id": 3,
+                "text": "يَا عَزِيزُ يَا عَزِيزُ يَا عَزِيزُ",
+                "translation": "O Exalted in might! O Exalted in might! O Exalted in might!",
+                "transliteration": "YA `AZIZU YA `AZIZU YA `AZIZU",
+                "audio": 21
+            },
+            {
+                "id": 4,
+                "text": "ذَلَّتْ بِعَظَمَتِكَ جَمِيعُ خَلْقِكَ",
+                "translation": "Submissive to Your Almightiness are all of Your creatures;",
+                "transliteration": "DHALLAT BI`AZAMATIKA JAMI`U KHALQIKA",
+                "audio": 27
+            },
+            {
+                "id": 5,
+                "text": "فَاكْفِنِي شَرَّ خَلْقِكَ",
+                "translation": "so, (please) save me from the evil of Your creatures.",
+                "transliteration": "FAKFINI SHARRA KHALQIKA",
+                "audio": 32
+            },
+            {
+                "id": 6,
+                "text": "يَا مُحْسِنُ يَا مُجْمِلُ",
+                "translation": "O All-liberal! O All-bountiful!",
+                "transliteration": "YA MUHSINU YA MUJMILU",
+                "audio": 35
+            },
+            {
+                "id": 7,
+                "text": "يَا مُنْعِمُ يَا مُفْضِلُ",
+                "translation": "O Source of all bounties! O Doer of favors!",
+                "transliteration": "YA MUN`IMU YA MUFDILU",
+                "audio": 40
+            },
+            {
+                "id": 8,
+                "text": "يَا لاَ إِلٰهَ إِلاَّ انْتَ سُبْحَانَكَ",
+                "translation": "O He save Whom there is no god! All glory be to You!",
+                "transliteration": "YA LA ILAHA ILLA ANTA SUBHANAKA",
+                "audio": 45
+            },
+            {
+                "id": 9,
+                "text": "إِنِّي كُنْتُ مِنَ ٱلظَّالِمِينَ",
+                "translation": "Verily, I have been a wrongdoer.",
+                "transliteration": "INNI KUNTU MIN ALZZALIMINA",
+                "audio": 53
+            },
+            {
+                "id": 10,
+                "text": "فَٱسْتَجَبْنَا لَهُ وَنَجّيْنَاهُ مِنَ ٱلْغَمِّ",
+                "translation": "So We heard his prayer and saved him from the anguish.",
+                "transliteration": "FASTAJABNA LAHU WA NAJJAYNAHU MIN ALGHAMMI",
+                "audio": 58
+            },
+            {
+                "id": 11,
+                "text": "وَكَذلِكَ نُنْجِي ٱلْمُؤْمِنِينَ",
+                "translation": "Thus do We save the believers.",
+                "transliteration": "WA KADHALIKA NUNJI ALMU'MININA",
+                "audio": 65
+            },
+            {
+                "id": 12,
+                "text": "وَصَلَّىٰ ٱللَّهُ عَلَىٰ مُحَمَّدٍ وَآلِهِ ٱلطَّيِّبِينَ ٱلطَّاهِرِينَ",
+                "translation": "May Allah send blessings to Muhammad and his Household, the pure and immaculate.",
+                "transliteration": "WA SALLA ALLAHU `ALA MUHAMMADIN WA ALIHI ALTTAYYIBINA ALTTAHIRINA",
+                "audio": 70
+            }
+        ],
+        "audio": "Safar"
+    },
+    {
+        "id": 10,
+        "title": "Hadith Kisa",
+        "subtitle": "Tradition of the Cloak",
+        "verses": [
+            {
+                "id": 1,
+                "text": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+                "translation": "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+                "transliteration": "ALLAHUMMA SALLI ALA MUHAMMADIN WA ALI MUHAMMAD",
+                "audio": null
+            },
+            {
+                "id": 2,
+                "text": "بِسْمِ ٱللَّـهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+                "translation": "In the Name of Allāh,the All-beneficent, the All-merciful.",
+                "transliteration": "BISMI ALLAHI ALRRAHMINI ALRRAHIMI",
+                "audio": null
+            },
+            {
+                "id": 3,
+                "text": "عَنْ فاطِمَةَ الزَّهْراءِ عَلَيْهَا اَلسلام بِنْتِ رَسُول ِاللّه صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَنَّها قالَتْ :",
+                "translation": "Fatimatuz-Zahra, the daughter of the Prophet (s), peace be on them, is to have thus related ( an event ) :",
+                "transliteration": "AN FAAT'IMATAZ-ZAH-RAAA-I (ALAYHAS-SALAAM) BINTI RASOOLIL-LAAHI (S) QAALAT :",
+                "audio": null
+            },
+            {
+                "id": 4,
+                "text": "دَخَلَ عَلَيَّ أَبِي رَسُولُ اللّهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي بَعْضِ الاْيَّامِ فَقالَ:",
+                "translation": "My father, the Prophet (s) of Allah, came to my house one day and said to me:",
+                "transliteration": "DAKHALA A'LAY-YA ABEE RASOOLUL-LAAHI (S) FEE BAA'-Z'IL AY-YAAMI FAQAALA :",
+                "audio": null
+            },
+            {
+                "id": 5,
+                "text": "السَّلامُ عَلَيْكِ يَا فاطِمَةُ",
+                "translation": "\"Peace be on you, Fatimah\"",
+                "transliteration": "AS-SALAAMU A'LAY-KI YAA FAAT'IMAH",
+                "audio": null
+            },
+            {
+                "id": 6,
+                "text": "فَقُلْتُ: عَلَيْكَ السَّلامُ",
+                "translation": "I replied : \"And upon you be peace\"",
+                "transliteration": "FAQUL-TU : A'LAY-KAS-SALAAM",
+                "audio": null
+            },
+            {
+                "id": 7,
+                "text": "قالَ: إِنِّي أَجِدُ فِي بَدَنِي ضُعْفا",
+                "translation": "Then he said : \"I feel weakness in my body\"",
+                "transliteration": "QAALA : IN-NEEE AJIDU FEE BADANEE Z'UA'-FAAN'",
+                "audio": null
+            },
+            {
+                "id": 8,
+                "text": "فَقُلْتُ لَهُ: أُعِيذُكَ بِاللّهِ يَا أَبَتاهُ مِنَ الضُّعْفِ",
+                "translation": "I said : \"May Allah protect you from weakness, father\"",
+                "transliteration": "FAQUL-TU LAHOOO : UE'ED'UKA BIL-LAAHI YAA ABATAAHOO MANAZ'-Z'UA'FI",
+                "audio": null
+            },
+            {
+                "id": 9,
+                "text": "فَقَالَ: ”يَا فَاطِمَةُ! ٱئْتِينِي بِٱلْكِسَاءِ ٱلْيَمَانِيِّ فَغَطِّينِي بِهِ.",
+                "translation": "He said : \"Fatimah, please bring the Yemeni cloak and cover me with it\"",
+                "transliteration": "FAQAALA : YAA FAAT'IMATU EE-TEENEE BIL-KASAAA-IL-YAMAANEE FAGHAT-TEENEE BIHI",
+                "audio": null
+            },
+            {
+                "id": 10,
+                "text": "فَأَتَيْتُهُ بالْكِساءِ الْـيَمانِي فَغَطَّيْتُهُ بِهِ",
+                "translation": "So, I brought the Yemeni cloak and covered him with it.",
+                "transliteration": "FA ATAY-TUHOO BIL-KISAAA-IL-YAMAANEE FAGHAT-TAY-TUHOO BIHI",
+                "audio": null
+            },
+            {
+                "id": 11,
+                "text": "وَصرْتُ أَنْظُرُ إِلَيْهِ وَإِذا وَجْهُهُ يَتَلَأَلَؤُ",
+                "translation": "Then, I looked at him and saw that his face was shining",
+                "transliteration": "WA S'UR-TU ANZ'URU ILAY-HEE WA ID'AA WAJ-HAHOO YATAL-LAU",
+                "audio": null
+            },
+            {
+                "id": 12,
+                "text": "كَأَنَّهُ الْبَدْرُ فِي لَيْلَة تَمامِهِ وَكَمالِهِ",
+                "translation": "like a full moon with its glory and splendor",
+                "transliteration": "KAAN-NAHUL-BAD-RU FEE LAY-LATI TAMAAMIHEE WA KAMAALIH",
+                "audio": null
+            },
+            {
+                "id": 13,
+                "text": "فَمَا كانَتْ إِلاّ ساعَةً وَإِذا بِوَلَدِيَ الْحَسَنِ عليه السلام قَدْ أَقْبَلَ",
+                "translation": "After a while, my son Hasan came in",
+                "transliteration": "FAMAA KAANAT IL-LAA SAAA'TAW-WA ID'AA BIWALADIYAL-H'ASANI (ALAYHIS-SALAAM) QAD AQ-BALA",
+                "audio": null
+            },
+            {
+                "id": 14,
+                "text": "وَقالَ: السَّلامُ عَلَيْكِ يَا أُمَّاهُ",
+                "translation": "and said : \"Peace be on you, mother\"",
+                "transliteration": "WA QAALA : AS-SALAAMU A'LAY-KI YAAA UM-MAAH",
+                "audio": null
+            },
+            {
+                "id": 15,
+                "text": "فَقُلتُ: وَعَلَيْكَ السَّلامُ يَا قُرَّةَ عَيْنِي وَثَمَرَةَ فُؤَادِي",
+                "translation": "I replied : \"And upon you be peace, O light of my eyes, and the delight of my heart\"",
+                "transliteration": "FAQUL-TU : WA A'LAY-KAS-SALAAMU YAA QUR-RATA A'Y-NEE WA THAMARATA FUAADEE",
+                "audio": null
+            },
+            {
+                "id": 16,
+                "text": "فَقَالَ: يَا أُمَّاهُ إِنِّي أَشَمُّ عِنْدَكِ رائِحَةً طَيِّبَةً",
+                "translation": "He then said : \"O Mother! I smell a fragrance so sweet",
+                "transliteration": "FAQAALA : YAA UM-MAAHOO IN-NEE ASHUM-MU I'NDAKI RAAA-IH'ATIN TAY-YIBATIN",
+                "audio": null
+            },
+            {
+                "id": 17,
+                "text": "كَأَنَّها رائِحَةُ جَدِّي رَسُولِ اللّه صَلَّى اللهُ عَلَيْهِ وَآلِهِ",
+                "translation": "and so pure as that of my grandfather, the Prophet (s) of Allah\"",
+                "transliteration": "KAAN-NAHAA RAAA-IH'ATU JAD-DEE RASOOLIL-LAAH",
+                "audio": null
+            },
+            {
+                "id": 18,
+                "text": "فَقُلْتُ: نَعَمْ إِنَّ جَدَّكَ تَحْتَ الْكِساءِ",
+                "translation": "I replied : \"Yes. Your grandfather is underneath the cloak\"",
+                "transliteration": "FAQUL-TU : NAA'M IN-NA JAD-DAKA TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 19,
+                "text": "فَأَقْبَلَ الْحَسَنُ نَحْوَ الْكِساءِ وَقالَ: السَّلامُ عَلَيْكَ يَا جَدَّاهُ يَا رَسُولَ اللّهِ",
+                "translation": "Hasan went near the cloak and said : \"Peace be on you, my grandfather, the Prophet (s) of Allah;",
+                "transliteration": "FA AQ-BALAL-H'ASANU NAH'-WAL-KISAAA-I WA QAALA : AS-SALAAMU A'LAY-KA YAA JAD-DAAHOO YAA RASOOLAL-LAAHI",
+                "audio": null
+            },
+            {
+                "id": 20,
+                "text": "أَتَأْذَنُ لِي أَنْ أَدْخُلَ مَعَكَ تَحْتَ الْكِساءِ",
+                "translation": "May I enter the cloak with you?\"",
+                "transliteration": "ATA-D'ANU LEEE AN AD-KHULA MAA'KA TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 21,
+                "text": "فَقالَ: وَعَلَيْكَ السَّلامُ يَا وَلَدِي وَيَا صاحِبَ حَوْضِي",
+                "translation": "He replied : \"And upon you be peace, my son and the master of my fountain (Kauthar),",
+                "transliteration": "QAALA : WA A'LAY-KAS-SALAAMU YAA WALADEE WA YAA S'AAH'IBA H'AWZ'EE",
+                "audio": null
+            },
+            {
+                "id": 22,
+                "text": "قَدْ أَذِنْتُ لَكَ ِ",
+                "translation": "you are given the permission to enter\"",
+                "transliteration": "QAD AD'INTU LAKA",
+                "audio": null
+            },
+            {
+                "id": 23,
+                "text": "فَدَخَلَ مَعَهُ تَحْتَ الْكِساء",
+                "translation": "So, Hasan entered the cloak with him",
+                "transliteration": "FA DAKHALA MAA'HOO TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 24,
+                "text": "فَمَا كانَتْ إِلاَّ ساعَةً وَإِذا بِوَلَدِيَ الْحُسَيْنِ قَدْ أَقْبَلَ وَقالَ",
+                "translation": "After a while, my Husain came in and said :",
+                "transliteration": "FAMAA KAANAT IL-LAA SAAA'TAW-WA ID'AA BIWALADIAL-H'USAY-NI QAD AQ-BALA WA QAALA :",
+                "audio": null
+            },
+            {
+                "id": 25,
+                "text": "السَّلامُ عَلَيْكِ يَا أُمَّاهُ.",
+                "translation": "\"Peace be on you, mother\"",
+                "transliteration": "AS-SALAAMU A'LAY-KI YAA UM-MAAH",
+                "audio": null
+            },
+            {
+                "id": 26,
+                "text": "فَقُلْتُ: وَعَلَيْكَ السَّلامُ يَا وَلَدِي وَيَا قُرَّةَ عَيْنِي وَثَمَرَةَ فُؤَادِي.",
+                "translation": "I replied : \"And upon you be peace, O light of my eyes, and the delight of my heart\"",
+                "transliteration": "FAQUL-TU : WA A'LAY-KAS-SALAAMU YAA WALADEE WA YAA QUR-RATA A'Y-NEE WA THAMARATA FUAADEE",
+                "audio": null
+            },
+            {
+                "id": 27,
+                "text": "فَقَالَ لِي: يَا أُمَّاهُ إِنِّي أَشَمُّ عِنْدَكِ رائِحَةً طَيِّبَةً",
+                "translation": "He then said : \"O Mother! I smell a fragrance so sweet",
+                "transliteration": "FAQAALA LEE : YAAA UM-MAAHOO IN-NEE SHUMMU I'NDAKI RAAA-IH'ATIN TAY-YIBATAN",
+                "audio": null
+            },
+            {
+                "id": 28,
+                "text": "كَأَنَّها رائِحَةُ جَدِّي رَسُولِ اللّهُ صَلَّى اللهُ عَلَيْهِ وَآلِهِ.",
+                "translation": "and so pure as that of my grandfather, the Prophet (s) of Allah\"",
+                "transliteration": "KAAN-NAHAA RAAA-IH'ATU JAD-DEE RASOOLIL-LAAH",
+                "audio": null
+            },
+            {
+                "id": 29,
+                "text": "فَقُلْتُ: نَعَمْ إِنَّ جَدَّكَ وَأَخاكَ تَحْتَ الْكِساءِ.",
+                "translation": "I replied : \"Yes. Your grandfather and your brother are underneath the cloak\"",
+                "transliteration": "FAQUL-TU : NAA'M IN-NA JAD-DAKA WA AKHAAKA TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 30,
+                "text": "فَدَنَا الْحُسَيْنُ نَحْوَ الْكِساءِ",
+                "translation": "Husain stepped towards the cloak",
+                "transliteration": "FADANAL-H'USAY-NU NAH'-WAL-KISAAA-I",
+                "audio": null
+            },
+            {
+                "id": 31,
+                "text": "وَقالَ: السَّلامُ عَلَيْكَ يَا جَدَّاهُ السَّلامُ عَلَيْكَ يَا مَنِ اخْتارَهُ اللّهُ",
+                "translation": "and said : \"Peace be on you, my grandfather, the Chosen of Allah;",
+                "transliteration": "WA QAALA : AS-SALAAMU A'LAY-KA YAA JAD-DAHOOS-SALAAMU A'LAY-KA YAA MANIKH-TAARAHUL-LAHOO",
+                "audio": null
+            },
+            {
+                "id": 32,
+                "text": "أَتَأْذَنُ لِي أَنْ أَكُونَ مَعَكُما تَحْتَ الْكِساءِ",
+                "translation": "May I enter the cloak with you?\"",
+                "transliteration": "ATA-D'ANU LEEE AN AD-KHULA MAA'KUMAA TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 33,
+                "text": "فَقالَ: وَعَلَيْكَ السَّلامُ يَا وَلَدِي",
+                "translation": "He replied : \"And upon you be peace, my son",
+                "transliteration": "FAQAALA : WA A'LAY-KAS-SALAAMU YAA WALADEE",
+                "audio": null
+            },
+            {
+                "id": 34,
+                "text": "وَيَا شافِعَ أُمَّتِي قَدْ أَذِنْتُ لَكَ.",
+                "translation": "and interceder of my followers, you are given the permission to enter\"",
+                "transliteration": "WA YAA SHAAFIA'A UM-MATEE QAD AD'-INTU LAK",
+                "audio": null
+            },
+            {
+                "id": 35,
+                "text": "فَدَخَلَ مَعَهُما تَحْتَ الْكِساء",
+                "translation": "So, Husain entered the cloak with them.",
+                "transliteration": "FADAKHALA MAA'HUMAA TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 36,
+                "text": "فَأَ قْبَلَ عِنْدَ ذلِكَ أَبُو الْحَسَنِ عَلِيُّ بْنُ أَبِي طالِبٍ",
+                "translation": "After a while, Abul Hasan, Ali bin Abi Talib came in",
+                "transliteration": "FAAQ-BALA I'NDA D'AALIKA ABUL-H'ASANI A'LEE-YUB-NU ABEE T'AALIBIW-",
+                "audio": null
+            },
+            {
+                "id": 37,
+                "text": "وَقالَ: السَّلامُ عَلَيْكِ يَا بِنْتَ رَسُولِ اللّهِ.",
+                "translation": "and said : \"Peace be on you, O daughter of the Prophet (s) of Allah\"",
+                "transliteration": "WA QAALA : AS-SALAAMU A'LAY-KI YAA BINTA RASOOLIL-LAAH",
+                "audio": null
+            },
+            {
+                "id": 38,
+                "text": "فَقُلْتُ: وَعَلَيْكَ السَّلامُ يَا أَبَا الْحَسَنِ وَيَا أَمِيرَ الْمُؤْمِنِينَ.",
+                "translation": "I replied : \"And upon you be peace, O father of Hasan, and the Commander of the faithful\"",
+                "transliteration": "FAQUL-TU WA A'LAY-KAS-SALAAMU YAA ABAL-H'ASANI WA YAAA AMEERAL-MUMINEEN",
+                "audio": null
+            },
+            {
+                "id": 39,
+                "text": "فَقالَ: يَا فاطِمَةُ إِنِّي أَشَمُّ عِنْدَكِ رائِحَةً طَيِّبَةً",
+                "translation": "He then said : \"O Fatima! I smell a fragrance so sweet and so pure",
+                "transliteration": "FAQAALA YAA FAAT'IMATU IN-NEE ASHUM-MU I'NDAKI RAAA-IH'ATAN TAY-YIBATAN",
+                "audio": null
+            },
+            {
+                "id": 40,
+                "text": "كَانَّهَا رائِحَةُ أَخِي وَابْنِ عَمِّي رَسُولِ اللّه صَلَّى اللهُ عَلَيْهِ وَآلِهِ.",
+                "translation": "as that of my brother and my cousin, the Prophet (s) of Allah\"",
+                "transliteration": "KAAN-NAHAA RAAA-IH'ATU AKHEE WAB-NI A'M-MEE RASOOLIL-LAAH SALLALLAHU ALAIHI WA ALIHI WASALLAM",
+                "audio": null
+            },
+            {
+                "id": 41,
+                "text": "فَقُلْتُ: نَعَمْ هَا هُوَ مَعَ وَلَدَيْكَ تَحْتَ الْكِساءِ",
+                "translation": "I replied: \"Yes. He is underneath the cloak with your two sons\"",
+                "transliteration": "FAQUL-TU NAA'M HAA HOOA MAA' WALADAY-KA TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 42,
+                "text": "فَأَقْبَلَ عَلِيٌّ نَحْوَ الْكِساءِ",
+                "translation": "So, Ali went near the cloak",
+                "transliteration": "FAAQ-BALA A'LEE-YUN NAH'-WAL-KISAAA-I",
+                "audio": null
+            },
+            {
+                "id": 43,
+                "text": "وَقالَ: السَّلامُ عَلَيْكَ يَا رَسُولَ اللّهِ",
+                "translation": "and said : \"Peace be on you, Prophet (s) of Allah;",
+                "transliteration": "WA QAALA : ASSALAAMU A'LAY-KA YAA RASOOLAL-LAAHI",
+                "audio": null
+            },
+            {
+                "id": 44,
+                "text": "وأَتَأْذَنُ لِي أَنْ أَكُونَ مَعَكُمْ تَحْتَ الْكِساءِ",
+                "translation": "May I enter the cloak with you?\"",
+                "transliteration": "ATA-D'ANU LEEE AN AKOO-NA MAA'KUM TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 45,
+                "text": "قالَ لَهُ: وَعَلَيْكَ السَّلامُ يَا أَخِي ويَا وَصِيِّي",
+                "translation": "He replied : \"And upon you be peace, my brother, my successor,",
+                "transliteration": "QAALA LAHU : WA A'LAY-KAS-SALAAMU YAAA AKHEE WA YAA WAS'EE",
+                "audio": null
+            },
+            {
+                "id": 46,
+                "text": "وَخَلِيفَتِي وَصاحِبَ لِوَائِي قَدْ أَذِنْتُ لَكَ",
+                "translation": "my successor, and my standard bearer, you are given the permission to enter\"",
+                "transliteration": "WA KHALEE-FATEE WA S'AAH'IBA LIWAAA-EE QAD AD'INTU LAK",
+                "audio": null
+            },
+            {
+                "id": 47,
+                "text": "فَدَخَلَ عَلِيٌّ تَحْتَ الْكِساءِ",
+                "translation": "So, Ali entered the cloak with them.",
+                "transliteration": "FADAKHALA A'LEE-YUN TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 48,
+                "text": "ثُمَّ أَتَيْتُ نَحْوَ الْكِساءِ",
+                "translation": "Then I stepped forward",
+                "transliteration": "THUM-MA ATAY-TU NAH'-WAL-KISAAA-I",
+                "audio": null
+            },
+            {
+                "id": 49,
+                "text": "وَقُلْتُ: السَّلامُ عَلَيْكَ يَا أَبَتاهُ يَا رَسُولَ اللّهِ",
+                "translation": "and said : \"Peace be on you, my father, O Prophet (s) of Allah;",
+                "transliteration": "WA QUL-TU : AS-SALAAMU A'LAY-KA YAAA ABATAAH YAA RASOOLAL-LAAHI",
+                "audio": null
+            },
+            {
+                "id": 50,
+                "text": "أَتَأْذَنُ لِي أَنْ أَكُونَ مَعَكُمْ تَحْتَ الْكِساءِ",
+                "translation": "May I enter the cloak with you?\"",
+                "transliteration": "ATA-D'ANU LEEE AN AKOO-NA MAA'KUM TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 51,
+                "text": "قالَ: وَعَلَيْكِ السَّلامُ يَا بِنْتِي وَيَا بِضْعَتِي قَدْ أَذِنْتُ لَكِ",
+                "translation": "He replied : \"And upon you be peace, my daughter, O part of myself; you are given the permission to enter\"",
+                "transliteration": "QAALA : WA A'LAY-KIS-SALAAMU YAA BINTEE YAA BAZ'-ATEE QAD AD'INTU LAKI",
+                "audio": null
+            },
+            {
+                "id": 52,
+                "text": "فَدَخَلْتُ تَحْتَ الْكِساءِ",
+                "translation": "So, I entered the cloak with them.",
+                "transliteration": "FADAKHAL-TU TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 53,
+                "text": "فَلَمَّا اكْتَمَلْنا جَمِيعاً تَحْتَ الْكِساءِ أَخَذَ أَبِي رَسُولُ اللّه بِطَرَفَي الْكِساءِ",
+                "translation": "Getting together underneath the cloak, my father, the Prophet (s) of Allah, held the two ends of the cloak",
+                "transliteration": "FAL-LAMAK-TAMAL-NAA JAMEE-A'N TAH'-TAL-KISAAA-I AKHAD'A ABEE RASOOLUL-LAAHI BITARAFAYIL-KISAAA-I",
+                "audio": null
+            },
+            {
+                "id": 54,
+                "text": "وَأَوْمَأَ بِيَدِهِ ٱلْيُمْـنٰى إِلَى السَّماءِ وَقالَ:",
+                "translation": "and raised his right hand towards the heavens and prayed :",
+                "transliteration": "WA AW-MAA BIYADIHIL-YUM-NAA ILAS-SAMAAA-I WA QAALA :",
+                "audio": null
+            },
+            {
+                "id": 55,
+                "text": "اللّهُمَّ إِنَّ هَؤُلاءِ أَهْلُ بَيْتِي وَخاصَّتِي وَحامَّتِي",
+                "translation": "\"O Allah, these are the people of my Household (Ahlul-Bayt). They are my confidants and my supporters.",
+                "transliteration": "AL-LAAHUM-MA IN-NA HAA-ULAAA-I AH-LU BAY-TEE WA KHAAAS'-S'ATEE WA H'AAAM-MATEE",
+                "audio": null
+            },
+            {
+                "id": 56,
+                "text": "لَحْمُهُمْ لَحْمِي وَدَمُهُمْ دَمِي",
+                "translation": "Their flesh is my flesh and their blood is my blood.",
+                "transliteration": "LAH'-MUHUM LAH'-MEE WA DAMUHUM DAMEE",
+                "audio": null
+            },
+            {
+                "id": 57,
+                "text": "يُؤْلِمُنِي مَا يُؤْلِمُهُمْ",
+                "translation": "Whoever hurts them, hurts me too.",
+                "transliteration": "YU-LIMUNEE MAA YU-LIMUHUM",
+                "audio": null
+            },
+            {
+                "id": 58,
+                "text": "وَيَحْزُنُنِي مَا يَحْزُنُهُمْ",
+                "translation": "Whoever displeases them, displeases me too.",
+                "transliteration": "WA YAH'-ZUNUNEE MAA YAH'-ZUNUHUM",
+                "audio": null
+            },
+            {
+                "id": 59,
+                "text": "أَنَا حَرْبٌ لِمَنْ حارَبَهُمْ",
+                "translation": "I am at war with those who are at war with them.",
+                "transliteration": "ANA H'AR-BUL-LIMAN H'AARABAHUM",
+                "audio": null
+            },
+            {
+                "id": 60,
+                "text": "وَسِلْمٌ لِمَنْ سالَمَهُمْ",
+                "translation": "I am at peace with those who are at peace with them.",
+                "transliteration": "WA SIL-MUL-LIMAN SAALAMAHUM",
+                "audio": null
+            },
+            {
+                "id": 61,
+                "text": "وَعَدُوٌّ لِمَنْ عَاداهُمْ",
+                "translation": "I am the enemy of their enemies",
+                "transliteration": "WA A'DOO-WUL-LIMAN A'ADAAHUM",
+                "audio": null
+            },
+            {
+                "id": 62,
+                "text": "وَمُحِبٌّ لِمَنْ أَحَبَّهُمْ",
+                "translation": "and I am the friend of their friends.",
+                "transliteration": "WA MUH'IB-BUL-LIMAN AH'AB-BAHUM",
+                "audio": null
+            },
+            {
+                "id": 63,
+                "text": "إِنَّهُمْ مِنِّي وَأَنَا مِنْهُمْ",
+                "translation": "They are from me and I am from them.",
+                "transliteration": "IN-NAHUM-MIN-NEE WA ANA MIN-HUM",
+                "audio": null
+            },
+            {
+                "id": 64,
+                "text": "فَاجْعَلْ صَلَواتِكَ وَبَرَكاتِكَ وَرَحْمَتَكَ",
+                "translation": "O Allah! Bestow Your Blessings, Benevolence,",
+                "transliteration": "FAJ-A'L S'ALAWAATIKA WA BARAKAATIKA WA RAH'-MATIKA",
+                "audio": null
+            },
+            {
+                "id": 65,
+                "text": "وَغُفْرانَكَ وَرِضْوانَكَ عَلَيَّ",
+                "translation": "Forgiveness and Your pleasure upon me and upon them.",
+                "transliteration": "WA GHUF-RAANIKA WA RIZ'-WAANIKA A'LAY-YA",
+                "audio": null
+            },
+            {
+                "id": 66,
+                "text": "وَعَلَيْهِمْ وَأَذْهِبْ عَنْهُمُ الرِّجْسَ وَطَهِّرْهُمْ تَطْهِيراً.",
+                "translation": "And keep them away from impurity (and flaws) and keep them thoroughly purified\"",
+                "transliteration": "WA A'LAY-HIM WA AD'-HIB A'N-HUMUR-RIJ-SA WA TAH-HIRUHUM TAT-HEERA",
+                "audio": null
+            },
+            {
+                "id": 67,
+                "text": "فَقالَ اللّهُ عَزَّ وَجَلَّ:",
+                "translation": "Then the Lord, Almighty Allah said :",
+                "transliteration": "FAQAALAL-LAAHOO AZ'-ZA WA JAL-LA :",
+                "audio": null
+            },
+            {
+                "id": 68,
+                "text": "يَا مَلائِكَتِي وَيَا سُكَّانَ سَمَاواتِي",
+                "translation": "\"O My angels! O Residents of My Heavens,",
+                "transliteration": "YAA MALAAA-IKATEE WA YAA SUK-KAANA SAMAAWAATEEE",
+                "audio": null
+            },
+            {
+                "id": 69,
+                "text": "إِنِّي إمَا خَلَقْتُ سَماءً مَبْنِيَّةً وَلاَ أَرْضاً مَدْحِيَّةً وَلاَ قَمَراً مُنِيراً",
+                "translation": "verily, I have not created the erected Sky, the stretched earth, the illuminated moon,",
+                "transliteration": "IN-NEE MAA KHALAQ-TU SAMAA-AM-MAB-NEE-YATAW-WA LAA AR-Z'AM-MAD-H'EE-YATAW-WA LAA QAMARAM-MUNEERAW-",
+                "audio": null
+            },
+            {
+                "id": 70,
+                "text": "وَلاَ شَمْساً مُضِيئَةً وَلاَ فَلَكاً يَدُورُ وَلاَ بَحْراً يَجْرِي وَلاَ فُلْكاً يَسْرِي",
+                "translation": "the bright sun, the rotating planets, the flowing seas and the sailing ships,",
+                "transliteration": "WA LAA SHAM-SAM-MUZ'EEE-ATAW-WA LAA FALAKAY-YADOO-RU WA LAA BAH'-RAY-YAJ-REEE WA LAA FULKAL YASREE",
+                "audio": null
+            },
+            {
+                "id": 71,
+                "text": "إِلاَّ فِي مَحَبَّةِ هَؤلاءِ الْخَمْسَةِ الَّذِينَ هُمْ تَحْتَ الْكِساءِ.",
+                "translation": "but for the love of these Five underneath the cloak\"",
+                "transliteration": "IL-LAA FEE MAH'AB-BATI HAA-ULAAA-IL-KHAM-SATIL-LAD'EE-NA HUM TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 72,
+                "text": "فَقالَ الاْمِينُ جَبْرائِيلُ: يَارَبِّ وَمَنْ تَحْتَ الْكِساءِ",
+                "translation": "Gabriel, the trusted angel, asked : \"Who are under the cloak?\"",
+                "transliteration": "FAQAALAL-AMEENU JIB-RAAA-EE-LU : YAA RAB-BI WA MAN TAH'-TAL-KISAAA",
+                "audio": null
+            },
+            {
+                "id": 73,
+                "text": "فَقالَ عَزَّ وَجَلَّ:",
+                "translation": "The Almighty answered :",
+                "transliteration": "FAQAALA A'Z-ZA WA JAL-LA :",
+                "audio": null
+            },
+            {
+                "id": 74,
+                "text": "هُمْ أَهْلُ بَيْتِ النُّبُوَّةِ وَمَعْدِنُ الرِّسالَةِ",
+                "translation": "\"They are the Household of the Prophet (s) and the assets of Prophet hood.",
+                "transliteration": "HUM AH-LA BAY-TIN-NUBOOW-WATI WA MAA'-DINUR-RISAALATI",
+                "audio": null
+            },
+            {
+                "id": 75,
+                "text": "هُمْ فاطِمَةُ وَأَبُوها وَبَعْلُها وَبَنُوها.",
+                "translation": "They are : Fatimah, her father, her husband and her two sons\"",
+                "transliteration": "HUM : FAAT'IMATU WA ABOOHAA WA BAA'-LUHAA WA BANOO-HAA",
+                "audio": null
+            },
+            {
+                "id": 76,
+                "text": "فَقالَ جَبْرائِيلُ: يَارَبِّ أَتَأْذَنُ لِي أَنْ أَهْبِطَ إِلَى الاْرْضِ",
+                "translation": "Gabriel said : \"O Lord, May I fly to earth",
+                "transliteration": "FAQAALA JIB-RAAA-EE-LU : YAA RAB-BI ATA-D'ANU LEEE AN AH-BITA ILAL-AR-Z'I",
+                "audio": null
+            },
+            {
+                "id": 77,
+                "text": "لأِكُونَ مَعَهُمْ سادِساً",
+                "translation": "to be the sixth of them?\"",
+                "transliteration": "LI-AKOO-NA MAA'HUM SAADISAA",
+                "audio": null
+            },
+            {
+                "id": 78,
+                "text": "فَقالَ اللّهُ: نَعَمْ قَدْ أَذِنْتُ لَكَ.",
+                "translation": "Allah replied: \"Yes. You are given the permission\"",
+                "transliteration": "FAQAALA-LAAHU : NAA'M QAD AD'INTU LAK",
+                "audio": null
+            },
+            {
+                "id": 79,
+                "text": "فَهَبَطَ الاْمِينُ جَبْرائِيلُ وَقالَ: السَّلامُ عَلَيْكَ يَا رَسُولَ اللّهِ",
+                "translation": "Gabriel, the trusted, landed near them and said : \"Peace be on you, O Prophet (s) of Allah.",
+                "transliteration": "FAHABATALAMEENU JIB-RAAA-EE-LU WA QAALA : AS-SALAAMU A'LAY-KA YAA RASOOLAL-LAAHIL-",
+                "audio": null
+            },
+            {
+                "id": 80,
+                "text": "الْعَلِيُّ الاْعْلى يُقْرِئُكَ السَّلام َوَيَخُصُّكَ بِالتَّحِيَّةِ وَالاْكْرامِ",
+                "translation": "The All-Highest conveys His peace on you and His greetings",
+                "transliteration": "A'LEE-YUL-AA'-LAA YUQ-RIUKAS-SALAAMU WA YAKHUS'-S'UKA BIL-TAH'EEY-YATI WA LIK-RAAM",
+                "audio": null
+            },
+            {
+                "id": 81,
+                "text": "وَيَقُوْلُ لَكَ :وَعِزَّتِي وَجَلالِي",
+                "translation": "and says: \"By My Honor and Glory, O My angels! O Residents of My Heavens,",
+                "transliteration": "WA YAQOO-LU LAKA : WA IZ'-ZATEE WA JALAALEE",
+                "audio": null
+            },
+            {
+                "id": 82,
+                "text": "إِنِّي مَا خَلَقْتُ سَماءً مَبْنِيَّةً",
+                "translation": "verily, I have not created the erected Sky,",
+                "transliteration": "IN-NEE MAA KHALAQ-TU SAMAAAM-MAB-NEE- YATAW-",
+                "audio": null
+            },
+            {
+                "id": 83,
+                "text": "وَلاَ أَرْضاً مَدْحِيَّةً وَلاَ قَمَراً مُنِيراً وَلاَ شَمْساً مُضِيئَةً",
+                "translation": "the stretched earth, the illuminated moon, the bright sun,",
+                "transliteration": "WA LAA AR-Z'AM-MAD-H'EE-YATAW-WA LAA QAMARAM-MUNEERAN WA LAA SHAM-SAM-MUZ'EEEATAW-",
+                "audio": null
+            },
+            {
+                "id": 84,
+                "text": "وَلاَ فَلَكاً يَدُورُ وَلاَ بَحْراً يَجْرِي وَلاَ فُلْكاً يَسْرِي",
+                "translation": "the rotating planets, the flowing seas and the sailing ships,",
+                "transliteration": "WA LAA FALKAL YADUR WA LAA BAH'-RAY-YAJ-REE WA LAA FUL-KAY-YAS-REEE",
+                "audio": null
+            },
+            {
+                "id": 85,
+                "text": "إِلاَّ لاِجْلِكُمْ وَمَحَبَّتِكُمْ",
+                "translation": "but for your sake and love\"",
+                "transliteration": "IL-LAA LI-AJLIKUM WA MAH'AB-BATIKUM",
+                "audio": null
+            },
+            {
+                "id": 86,
+                "text": "وَقَدْ أَذِنَ لِي أَنْ أَدْخُلَ مَعَكُمْ",
+                "translation": "and Allah has given me permission to enter the cloak with you.",
+                "transliteration": "WA QAD AD'INA LEEE AN AD-KHULA MAA'KUM",
+                "audio": null
+            },
+            {
+                "id": 87,
+                "text": "فَهَلْ تَأْذَنُ لِي يَا رَسُولَ اللّه",
+                "translation": "May I join you, O Prophet (s) of Allah?\"",
+                "transliteration": "FAHAL TA-D'ANU LEE YAA RASOOLAL-LAAHI",
+                "audio": null
+            },
+            {
+                "id": 88,
+                "text": "فَقالَ رَسُولُ اللّه: وَعَلَيْكَ السَّلامُ يَا أَمِينَ وَحْي اللّهِ",
+                "translation": "The Prophet (s) replied : \"And peace be on you, O trusted bearer of Allah's Revelations!",
+                "transliteration": "FAQAALA RASOOLUL-LAAHI : WA A'LAY-KAS-SALAAMU YAA AMEE-NA WAH'-YIL-LAAHI",
+                "audio": null
+            },
+            {
+                "id": 89,
+                "text": "فإِنَّهُ نَعَمْ قَدْ أَذِنْتُ لَكَ.",
+                "translation": "you are granted the permission\"",
+                "transliteration": "NAA'M QAD AD'INTU LAK",
+                "audio": null
+            },
+            {
+                "id": 90,
+                "text": "فَدَخَلَ جَبْرائِيلُ مَعَنا تَحْتَ الْكِساءِ",
+                "translation": "So, Gabriel entered the cloak with us",
+                "transliteration": "FADAKHALA JIB-RAAA-EE-LU MAA'NAA TAH'-TAL-KISAAA-I",
+                "audio": null
+            },
+            {
+                "id": 91,
+                "text": "فَقالَ لاِبِي: إِنَّ اللّهَ قَدْ أَوْحَى إِلَيْكُمْ يَقُولُ:",
+                "translation": "and said to my father : Allah sends His Revelations to you;",
+                "transliteration": "FAQAALA LI-ABEE : IN-NAL-LAAHA QAD AW-H'AAA ILAY-KUM YAQOOLU :",
+                "audio": null
+            },
+            {
+                "id": 92,
+                "text": "إِنَّمَا يُرِيدُ اللّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ",
+                "translation": "\"Verily Allah's desire is to keep you away from impurity (and flaws),",
+                "transliteration": "IN-NAMAA YUREE-DUL-LAAHOO LI-YUD'-HIBA A'NKUMUR-RIJ-SA",
+                "audio": null
+            },
+            {
+                "id": 93,
+                "text": "أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً.",
+                "translation": "O People of Household (Ahlul-Bayt) and keep you thoroughly purified\"",
+                "transliteration": "AH-LAL-BAY-TI WA YUTAH-HIRAKUM TAT-HEERA",
+                "audio": null
+            },
+            {
+                "id": 94,
+                "text": "فَقالَ عَلِيٌّ لاِبِي: يَا رَسُولَ اللّه أَخْبِرْنِي مَا لِجُلُوسِنا",
+                "translation": "Then Ali said to my father : \"O Prophet (s) of Allah, tell me",
+                "transliteration": "FAQAALA A'LEE-YUL LI-ABEE : YAA RASOOLAL-LAAHI AKH-BIR-NEE MAA LIJULOOSINAA",
+                "audio": null
+            },
+            {
+                "id": 95,
+                "text": "هذَا تَحْتَ الْكِساءِ مِنَ الْفَضْلِ عِنْدَ اللّهُ",
+                "translation": "what significance has Allah given for getting together underneath this cloak ?\"",
+                "transliteration": "HAAD'AA TAH'-TAL-KISAAA-I MINAL-FAZ'-LI I'NDAL-LAAH",
+                "audio": null
+            },
+            {
+                "id": 96,
+                "text": "فَقالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ:",
+                "translation": "The Prophet (s) replied :",
+                "transliteration": "FAQAALAN-NABEE-YU S'AL-LAL-LAAHO A'LAY-HI WA AAALIHI:",
+                "audio": null
+            },
+            {
+                "id": 97,
+                "text": "وَالَّذِي بَعَثَنِي بِالْحَقِّ نَبِيَّاً",
+                "translation": "\"By Him who rightfully appointed me a Prophet (s)",
+                "transliteration": "WAL-LAD'EE BAA'THANEE BI-H'AQ-QI NABEE-",
+                "audio": null
+            },
+            {
+                "id": 98,
+                "text": "وَاصْطَفانِي بِالرِّسالَةِ نَجِيّاً",
+                "translation": "and chose me a Messenger for the salvation of the mankind.",
+                "transliteration": "YAW-WAS'-TAFAANEE BIR-RISAALATI NAJ-JEEA",
+                "audio": null
+            },
+            {
+                "id": 99,
+                "text": "مَا ذُكِرَ خَبَرُنا هذَا فِي مَحْفِلٍ مِنْ مَحافِلِ",
+                "translation": "whenever and wherever an assembly",
+                "transliteration": "MAA D'UKIRA KHABARUNAA HAAD'AA FEE MAH'-FALIM-MIM-MAH'AAFILI",
+                "audio": null
+            },
+            {
+                "id": 100,
+                "text": "أَهْلِ الاْرْضِ وَفِيهِ جَمْعٌ مِنْ شِيعَتِنا وَمُحِّبِينا",
+                "translation": "of our followers and friends mention this event,",
+                "transliteration": "AH-LIL-AR-Z'I WA FEE-HI JAM-U'M-MIN SHEE-A'TINAA WA MUH'-IB-BEE-NAA",
+                "audio": null
+            },
+            {
+                "id": 101,
+                "text": "إِلاَّ وَنَزَلَتْ عَلَيْهِمُ الرَّحْمَةُ",
+                "translation": "Allah will bestow on them His Blessings and Mercy;",
+                "transliteration": "IL-LAA WA NAZALAT A'LAY-HIMUR-RAH'-MAH",
+                "audio": null
+            },
+            {
+                "id": 102,
+                "text": "وَحَفَّتْ بِهِمُ الْمَلائِكَةُ وَاسْتَغْفَرَتْ لَهُمْ إِلى أَنْ يَتَفَرَّقُوا.",
+                "translation": "angels will encircle them asking Allah the remission of their sins until the assembly disperses",
+                "transliteration": "WA H'AF-FAT BIHIMU LAMALAAA-IKAH WAS-TAGH-FARAT LAHUM ILAAA AY-YATAFAR-RAQOO",
+                "audio": null
+            },
+            {
+                "id": 103,
+                "text": "فَقالَ عَلِيٌّ عَلَيْهِ السَّلامُ: إِذنْ وَاللّهِ فُزْنَا وَفازَ شِيعَتُنا وَرَبِّ الْكَعْبَةِ.",
+                "translation": "So Ali said : \"Verily, by the Lord of Kabaa! we and our followers are the winners\"",
+                "transliteration": "FAQAALA A'LEE-YUN A'LAY-HIS-SALAAMU : ID'AW-WAL-LAAHI FUZ-NAA WA FAAZA SHEE-A'TUNAA WA RAB-BIL-KAA'-BAH",
+                "audio": null
+            },
+            {
+                "id": 104,
+                "text": "فَقالَ أَبِي رَسُولُ اللّهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ:",
+                "translation": "Then my father replied :",
+                "transliteration": "FAQAALA ABEE RASOOLUL-LAAHI S'AL-LAL-LAAHO A'LAY-HI WA AAALIHI:",
+                "audio": null
+            },
+            {
+                "id": 105,
+                "text": "يَا عَلِيُّ وَالَّذِي بَعَثَنِي بِالْحَقِّ نَبِيّاً",
+                "translation": "\"By Him who rightfully appointed me a Prophet",
+                "transliteration": "YAA A'LEE-YU WAL-LAD'EE BAA'THANEE BIL-H'AQ-QI NABEE-YAW",
+                "audio": null
+            },
+            {
+                "id": 106,
+                "text": "وَاصْطَفَانِي بِالرِّسالَةِ نَجِيّاً",
+                "translation": "and chose me a Messenger for the salvation of the mankind,",
+                "transliteration": "WAS'-TAFAANEE BIR-RISAALATI NAJEE-YA",
+                "audio": null
+            },
+            {
+                "id": 107,
+                "text": "مَا ذُكِرَ خَبَرُنا هذَا فِي مَحْفِلٍ مِنْ مَحَافِلِ أَهْلِ الاْرْضِ",
+                "translation": "whenever and wherever an assembly",
+                "transliteration": "MA D'UKIRA KHABARUNAA HAAD'AA FEE MAH'-FALIM-MIM-MAH'AAFILI AH-LIL AR-Z'I",
+                "audio": null
+            },
+            {
+                "id": 108,
+                "text": "وَفِيهِ جَمْعٌ مِنْ شِيعَتِنا وَمُحِبِّينا",
+                "translation": "our followers and friends mentions this event,",
+                "transliteration": "WA FEE-HI JAM-U'M-MIN SHEE-A'TINAA WA MUH'IB-BEE-NAA",
+                "audio": null
+            },
+            {
+                "id": 109,
+                "text": "وَفِيهِمْ مَهْمُومٌ إِلاَّ وَفَرَّجَ اللّهُ هَمَّهُ",
+                "translation": "there shall remain none grieved but Allah will remove his grief,",
+                "transliteration": "WA FEE-HIM MAH-MOO-MUN IL-LAA WA FAR-RAJAL-LAAHO HAM-MAHOO",
+                "audio": null
+            },
+            {
+                "id": 110,
+                "text": "وَلاَ مَغْمُومٌ إِلاَّ وَكَشَفَ اللّهُ غَمَّهُ",
+                "translation": "there shall remain none distressed but Allah will dispel his distress,",
+                "transliteration": "WALAA MAGH-MOO-MUN IL-LAA WA KASHAFAL-LAAHO GHAM-MAHOO",
+                "audio": null
+            },
+            {
+                "id": 111,
+                "text": "وَلاَ طالِبُ حاجَةٍ إِلاَّ وَقَضَى اللّهُ حاجَتَهُ.",
+                "translation": "there shall remain none wish-seeker but Allah will grant his wish.\"",
+                "transliteration": "WA LAA T'AALIBU H'AAJATIN IL-LAA WA QAZ'AL-LAAHO H'AAJATAH",
+                "audio": null
+            },
+            {
+                "id": 112,
+                "text": "فَقالَ عَلِيٌّ عَلَيْهِ السَّلامُ: إِذن وَاللّه فُزْنا وَسُعِدْنا وَكَذلِكَ شِيعَتُنا",
+                "translation": "`Ali, peace be upon him, said, \"Then, we have won and attained pleasure. I swear it by Allah. So have our adherents;",
+                "transliteration": "FAQAALA A'LEE-YUN A'LAY-HIS-SALAAMU ID'AAW-WAL-LAAHI FUZ-NAA WA SUI'D-NAA WA KAD'AALIKA SHEE-ATUNAA",
+                "audio": null
+            },
+            {
+                "id": 113,
+                "text": "فازُوا وَسُعِدُوا فِي الدُّنْيا وَالاْخِرَةِ وَرَبِّ الْكَعْبَةِ.",
+                "translation": "they have won and attained pleasure in this world and in the Hereafter. I swear it by the Lord of the Ka`bah.\"",
+                "transliteration": "FAAZOO WA SUI'DOO FID-DUNYAA WAL AAAKHIRATI WA RAB-BIL-KAA'-BAH",
+                "audio": null
+            },
+            {
+                "id": 114,
+                "text": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+                "translation": "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+                "transliteration": "ALLAHUMMA SALLI ALA MUHAMMADIN WA ALI MUHAMMAD",
+                "audio": null
+            }
+        ],
+        "audio": "Kisa"
+    },
+    {
+        "id": 11,
+        "title": "Du'a before exams",
+        "subtitle": null,
+        "verses": [
+            {
+                "id": 1,
+                "text": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي",
+                "translation": "Oh Allah! Make useful for me what You have taught me and teach me knowledge that will be useful to me.",
+                "transliteration": "ALLAHUMMA INFA'NII BIMAA 'ALLAMTANII WA'ALLIMNII MAA YANFA'UUNII",
+                "audio": null
+            },
+            {
+                "id": 2,
+                "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ فَهْمَ النَّبِيِّينَ وَحِفْظَ الْمُرْسَلِينَ وَالْمُقَرَّبِينَ",
+                "translation": "Oh Allah! I ask You for the understanding of the prophets and the memory of the messengers, and those nearest to You.",
+                "transliteration": "ALLAHUMMA INII AS'ALUKA FAHMAL-NABIYYEN WA HIFTHAL MURSALEEN AL-MUQARRABEEN",
+                "audio": null
+            },
+            {
+                "id": 3,
+                "text": "اللَّهُمَّ اجْعَلْ لِسَانِي عَامِرًا بِذِكْرِكَ وَقَلْبِي بِخَشْيَتِكَ",
+                "translation": "Oh Allah! Make my tongue full of Your remembrance and my heart with consciousness of You.",
+                "transliteration": "ALLAHUMMA IJ'AL LISANEE 'AMIRAN BI DHIKRIKA WA QALBI BI KHASHYATIKA",
+                "audio": null
+            },
+            {
+                "id": 4,
+                "text": "إِنَّكَ عَلَىٰ مَا تَشَاءُ قَدِيرٌ وَأَنْتَ حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+                "translation": "Oh Allah! You do whatever You wish, and You are my Availer and Protector and the best of aid.",
+                "transliteration": "INNAKA 'ALA MA-TASHA'U QADEER WA ANTA HASBUNA-ALLAHU WA NI'MAL WAKEEL",
+                "audio": null
+            },
+            {
+                "id": 5,
+                "text": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا",
+                "translation": "Oh Allah! Nothing is easy except what You have made easy.",
+                "transliteration": "ALLAHUMMA LA SAHLA ILLAMA JA-‘ALTAHU SAHLA",
+                "audio": null
+            },
+            {
+                "id": 6,
+                "text": "تَجْعَلُ الْحَزَنَ إِذَا شِئْتَ سَهْلًا",
+                "translation": "If You wish, You can make the difficult easy.",
+                "transliteration": "TAJ‘ALU AL HAZANA ETHA MA SHI’TA SAHLA",
+                "audio": null
+            },
+            {
+                "id": 7,
+                "text": "اللَّهُمَّ إِنِّي أَسْتَوْدِعُكَ مَا قَرَأْتُ وَمَا حَفِظْتُ",
+                "translation": "Oh Allah! I entrust You with what I have read and I have studied.",
+                "transliteration": "ALLAHUMMA INNI ASTAODI'UKA MA QARA'TU WAMA HAFATH-TU",
+                "audio": null
+            },
+            {
+                "id": 8,
+                "text": "فَرُدَّهُ إِلَيَّ عِنْدَ حَاجَتِي إِلَيْهِ",
+                "translation": "Oh Allah! Bring it back to me when I am in need of it.",
+                "transliteration": "FARUDDAHU 'ALLAYA INDA HAJATI ILAYHI",
+                "audio": null
+            },
+            {
+                "id": 9,
+                "text": "إِنَّكَ عَلَىٰ مَا تَشَاءُ قَدِيرٌ وَأَنْتَ حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+                "translation": "Oh Allah! You do whatever You wish, You are my Availer and Protector and the best of aid.",
+                "transliteration": "INNAKA 'ALA MA-TASHA'-U QADEER WA ANTA HASBUNA ALLAH WA NI'MAL WAKEEL",
+                "audio": null
+            }
+        ],
+        "audio": null
+    }
+]

@@ -12,6 +12,38 @@
 		A228741F2CFE62C1009FD371 /* TasbeehView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228741E2CFE62C1009FD371 /* TasbeehView.swift */; };
 		A22874222CFE62D1009FD371 /* QiblaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874212CFE62D1009FD371 /* QiblaView.swift */; };
 		A22874242CFE62DC009FD371 /* DonationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874232CFE62DC009FD371 /* DonationsView.swift */; };
+		A22874272CFE636B009FD371 /* QuranModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874262CFE636B009FD371 /* QuranModel.swift */; };
+		A228742D2CFE6419009FD371 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A228742A2CFE6419009FD371 /* LICENSE */; };
+		A228742E2CFE6419009FD371 /* Translators.json in Resources */ = {isa = PBXBuildFile; fileRef = A228742C2CFE6419009FD371 /* Translators.json */; };
+		A228742F2CFE6419009FD371 /* Quran.json in Resources */ = {isa = PBXBuildFile; fileRef = A228742B2CFE6419009FD371 /* Quran.json */; };
+		A22874322CFE6449009FD371 /* Quran.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874312CFE6449009FD371 /* Quran.swift */; };
+		A22874352CFE6C57009FD371 /* SurahView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874342CFE6C57009FD371 /* SurahView.swift */; };
+		A22874372CFE6CC0009FD371 /* TranslationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874362CFE6CC0009FD371 /* TranslationView.swift */; };
+		A22874392CFE6CC6009FD371 /* ReadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874382CFE6CC6009FD371 /* ReadingView.swift */; };
+		A228743E2CFF9408009FD371 /* KFGQPC-Uthmanic-Script-HAFS-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = A228743D2CFF9408009FD371 /* KFGQPC-Uthmanic-Script-HAFS-Regular.otf */; };
+		A228744C2CFF9F9A009FD371 /* Safar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A228744A2CFF9F9A009FD371 /* Safar.mp3 */; };
+		A228744D2CFF9F9A009FD371 /* Jummah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874472CFF9F9A009FD371 /* Jummah.mp3 */; };
+		A228744E2CFF9F9A009FD371 /* Fajr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874412CFF9F9A009FD371 /* Fajr.mp3 */; };
+		A228744F2CFF9F9A009FD371 /* Kisa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874492CFF9F9A009FD371 /* Kisa.mp3 */; };
+		A22874502CFF9F9A009FD371 /* Duas.json in Resources */ = {isa = PBXBuildFile; fileRef = A22874402CFF9F9A009FD371 /* Duas.json */; };
+		A22874512CFF9F9A009FD371 /* Hujjat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874462CFF9F9A009FD371 /* Hujjat.mp3 */; };
+		A22874522CFF9F9A009FD371 /* Maghrib.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874442CFF9F9A009FD371 /* Maghrib.mp3 */; };
+		A22874532CFF9F9A009FD371 /* Asr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874432CFF9F9A009FD371 /* Asr.mp3 */; };
+		A22874542CFF9F9A009FD371 /* Zuhr.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874422CFF9F9A009FD371 /* Zuhr.mp3 */; };
+		A22874552CFF9F9A009FD371 /* Isha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874452CFF9F9A009FD371 /* Isha.mp3 */; };
+		A22874562CFF9F9A009FD371 /* Kumayl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A22874482CFF9F9A009FD371 /* Kumayl.mp3 */; };
+		A228745D2CFFA02C009FD371 /* DuaModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228745C2CFFA02C009FD371 /* DuaModel.swift */; };
+		A228745F2CFFA037009FD371 /* Dua.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228745E2CFFA037009FD371 /* Dua.swift */; };
+		A22874622CFFA1B0009FD371 /* IbadatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874612CFFA1B0009FD371 /* IbadatView.swift */; };
+		A22874642CFFA1B7009FD371 /* DuaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874632CFFA1B7009FD371 /* DuaView.swift */; };
+		A22874662CFFA4EA009FD371 /* ZiyaratView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874652CFFA4EA009FD371 /* ZiyaratView.swift */; };
+		A22874682CFFA4F1009FD371 /* AmaalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874672CFFA4F1009FD371 /* AmaalView.swift */; };
+		A228746A2CFFA51D009FD371 /* Ziyarat.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22874692CFFA51D009FD371 /* Ziyarat.swift */; };
+		A228746C2CFFA52B009FD371 /* Amaal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228746B2CFFA52B009FD371 /* Amaal.swift */; };
+		A228746E2CFFA8B9009FD371 /* ZiyaratModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228746D2CFFA8B9009FD371 /* ZiyaratModel.swift */; };
+		A22874702CFFA8F0009FD371 /* AmaalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A228746F2CFFA8F0009FD371 /* AmaalModel.swift */; };
+		A22874732CFFA943009FD371 /* Ziaraah.json in Resources */ = {isa = PBXBuildFile; fileRef = A22874712CFFA943009FD371 /* Ziaraah.json */; };
+		A22874742CFFA943009FD371 /* Amaals.json in Resources */ = {isa = PBXBuildFile; fileRef = A22874722CFFA943009FD371 /* Amaals.json */; };
 		A2D2687D2CFD1B6F00298AD1 /* HyderiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D2687C2CFD1B6F00298AD1 /* HyderiApp.swift */; };
 		A2D2687F2CFD1B6F00298AD1 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D2687E2CFD1B6F00298AD1 /* RootView.swift */; };
 		A2D268812CFD1B7100298AD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D268802CFD1B7100298AD1 /* Assets.xcassets */; };
@@ -27,6 +59,39 @@
 		A228741E2CFE62C1009FD371 /* TasbeehView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasbeehView.swift; sourceTree = "<group>"; };
 		A22874212CFE62D1009FD371 /* QiblaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QiblaView.swift; sourceTree = "<group>"; };
 		A22874232CFE62DC009FD371 /* DonationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonationsView.swift; sourceTree = "<group>"; };
+		A22874262CFE636B009FD371 /* QuranModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuranModel.swift; sourceTree = "<group>"; };
+		A228742A2CFE6419009FD371 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		A228742B2CFE6419009FD371 /* Quran.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Quran.json; sourceTree = "<group>"; };
+		A228742C2CFE6419009FD371 /* Translators.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Translators.json; sourceTree = "<group>"; };
+		A22874312CFE6449009FD371 /* Quran.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quran.swift; sourceTree = "<group>"; };
+		A22874342CFE6C57009FD371 /* SurahView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurahView.swift; sourceTree = "<group>"; };
+		A22874362CFE6CC0009FD371 /* TranslationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationView.swift; sourceTree = "<group>"; };
+		A22874382CFE6CC6009FD371 /* ReadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingView.swift; sourceTree = "<group>"; };
+		A228743D2CFF9408009FD371 /* KFGQPC-Uthmanic-Script-HAFS-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "KFGQPC-Uthmanic-Script-HAFS-Regular.otf"; sourceTree = "<group>"; };
+		A228743F2CFF9425009FD371 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		A22874402CFF9F9A009FD371 /* Duas.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Duas.json; sourceTree = "<group>"; };
+		A22874412CFF9F9A009FD371 /* Fajr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fajr.mp3; sourceTree = "<group>"; };
+		A22874422CFF9F9A009FD371 /* Zuhr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Zuhr.mp3; sourceTree = "<group>"; };
+		A22874432CFF9F9A009FD371 /* Asr.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Asr.mp3; sourceTree = "<group>"; };
+		A22874442CFF9F9A009FD371 /* Maghrib.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Maghrib.mp3; sourceTree = "<group>"; };
+		A22874452CFF9F9A009FD371 /* Isha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Isha.mp3; sourceTree = "<group>"; };
+		A22874462CFF9F9A009FD371 /* Hujjat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hujjat.mp3; sourceTree = "<group>"; };
+		A22874472CFF9F9A009FD371 /* Jummah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Jummah.mp3; sourceTree = "<group>"; };
+		A22874482CFF9F9A009FD371 /* Kumayl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kumayl.mp3; sourceTree = "<group>"; };
+		A22874492CFF9F9A009FD371 /* Kisa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Kisa.mp3; sourceTree = "<group>"; };
+		A228744A2CFF9F9A009FD371 /* Safar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Safar.mp3; sourceTree = "<group>"; };
+		A228745C2CFFA02C009FD371 /* DuaModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaModel.swift; sourceTree = "<group>"; };
+		A228745E2CFFA037009FD371 /* Dua.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dua.swift; sourceTree = "<group>"; };
+		A22874612CFFA1B0009FD371 /* IbadatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IbadatView.swift; sourceTree = "<group>"; };
+		A22874632CFFA1B7009FD371 /* DuaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaView.swift; sourceTree = "<group>"; };
+		A22874652CFFA4EA009FD371 /* ZiyaratView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZiyaratView.swift; sourceTree = "<group>"; };
+		A22874672CFFA4F1009FD371 /* AmaalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmaalView.swift; sourceTree = "<group>"; };
+		A22874692CFFA51D009FD371 /* Ziyarat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ziyarat.swift; sourceTree = "<group>"; };
+		A228746B2CFFA52B009FD371 /* Amaal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amaal.swift; sourceTree = "<group>"; };
+		A228746D2CFFA8B9009FD371 /* ZiyaratModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZiyaratModel.swift; sourceTree = "<group>"; };
+		A228746F2CFFA8F0009FD371 /* AmaalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmaalModel.swift; sourceTree = "<group>"; };
+		A22874712CFFA943009FD371 /* Ziaraah.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Ziaraah.json; sourceTree = "<group>"; };
+		A22874722CFFA943009FD371 /* Amaals.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Amaals.json; sourceTree = "<group>"; };
 		A2D268792CFD1B6F00298AD1 /* Hyderi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hyderi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D2687C2CFD1B6F00298AD1 /* HyderiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HyderiApp.swift; sourceTree = "<group>"; };
 		A2D2687E2CFD1B6F00298AD1 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
@@ -48,6 +113,113 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A22874252CFE6359009FD371 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A2D2687E2CFD1B6F00298AD1 /* RootView.swift */,
+				A22874332CFE6C4B009FD371 /* Quran */,
+				A228741A2CFE62AD009FD371 /* CalendarView.swift */,
+				A228741C2CFE62B6009FD371 /* EventsView.swift */,
+				A22874602CFFA196009FD371 /* Ibadat */,
+				A228741E2CFE62C1009FD371 /* TasbeehView.swift */,
+				A22874212CFE62D1009FD371 /* QiblaView.swift */,
+				A22874232CFE62DC009FD371 /* DonationsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A22874282CFE636F009FD371 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				A22874262CFE636B009FD371 /* QuranModel.swift */,
+				A228745C2CFFA02C009FD371 /* DuaModel.swift */,
+				A228746D2CFFA8B9009FD371 /* ZiyaratModel.swift */,
+				A228746F2CFFA8F0009FD371 /* AmaalModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		A22874292CFE640F009FD371 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				A22874572CFF9FA0009FD371 /* Quran */,
+				A228744B2CFF9F9A009FD371 /* Duas */,
+				A22874712CFFA943009FD371 /* Ziaraah.json */,
+				A22874722CFFA943009FD371 /* Amaals.json */,
+				A22874582CFF9FBE009FD371 /* Fonts */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		A22874302CFE643C009FD371 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A22874312CFE6449009FD371 /* Quran.swift */,
+				A228745E2CFFA037009FD371 /* Dua.swift */,
+				A22874692CFFA51D009FD371 /* Ziyarat.swift */,
+				A228746B2CFFA52B009FD371 /* Amaal.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A22874332CFE6C4B009FD371 /* Quran */ = {
+			isa = PBXGroup;
+			children = (
+				A2D2688A2CFD1ED400298AD1 /* QuranView.swift */,
+				A22874342CFE6C57009FD371 /* SurahView.swift */,
+				A22874362CFE6CC0009FD371 /* TranslationView.swift */,
+				A22874382CFE6CC6009FD371 /* ReadingView.swift */,
+			);
+			path = Quran;
+			sourceTree = "<group>";
+		};
+		A228744B2CFF9F9A009FD371 /* Duas */ = {
+			isa = PBXGroup;
+			children = (
+				A22874402CFF9F9A009FD371 /* Duas.json */,
+				A22874412CFF9F9A009FD371 /* Fajr.mp3 */,
+				A22874422CFF9F9A009FD371 /* Zuhr.mp3 */,
+				A22874432CFF9F9A009FD371 /* Asr.mp3 */,
+				A22874442CFF9F9A009FD371 /* Maghrib.mp3 */,
+				A22874452CFF9F9A009FD371 /* Isha.mp3 */,
+				A22874462CFF9F9A009FD371 /* Hujjat.mp3 */,
+				A22874472CFF9F9A009FD371 /* Jummah.mp3 */,
+				A22874482CFF9F9A009FD371 /* Kumayl.mp3 */,
+				A22874492CFF9F9A009FD371 /* Kisa.mp3 */,
+				A228744A2CFF9F9A009FD371 /* Safar.mp3 */,
+			);
+			path = Duas;
+			sourceTree = "<group>";
+		};
+		A22874572CFF9FA0009FD371 /* Quran */ = {
+			isa = PBXGroup;
+			children = (
+				A228742B2CFE6419009FD371 /* Quran.json */,
+				A228742A2CFE6419009FD371 /* LICENSE */,
+				A228742C2CFE6419009FD371 /* Translators.json */,
+			);
+			path = Quran;
+			sourceTree = "<group>";
+		};
+		A22874582CFF9FBE009FD371 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				A228743D2CFF9408009FD371 /* KFGQPC-Uthmanic-Script-HAFS-Regular.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		A22874602CFFA196009FD371 /* Ibadat */ = {
+			isa = PBXGroup;
+			children = (
+				A22874612CFFA1B0009FD371 /* IbadatView.swift */,
+				A22874632CFFA1B7009FD371 /* DuaView.swift */,
+				A22874652CFFA4EA009FD371 /* ZiyaratView.swift */,
+				A22874672CFFA4F1009FD371 /* AmaalView.swift */,
+			);
+			path = Ibadat;
+			sourceTree = "<group>";
+		};
 		A2D268702CFD1B6F00298AD1 = {
 			isa = PBXGroup;
 			children = (
@@ -67,14 +239,12 @@
 		A2D2687B2CFD1B6F00298AD1 /* Hyderi */ = {
 			isa = PBXGroup;
 			children = (
+				A228743F2CFF9425009FD371 /* Info.plist */,
 				A2D2687C2CFD1B6F00298AD1 /* HyderiApp.swift */,
-				A2D2687E2CFD1B6F00298AD1 /* RootView.swift */,
-				A2D2688A2CFD1ED400298AD1 /* QuranView.swift */,
-				A228741A2CFE62AD009FD371 /* CalendarView.swift */,
-				A228741C2CFE62B6009FD371 /* EventsView.swift */,
-				A228741E2CFE62C1009FD371 /* TasbeehView.swift */,
-				A22874212CFE62D1009FD371 /* QiblaView.swift */,
-				A22874232CFE62DC009FD371 /* DonationsView.swift */,
+				A22874252CFE6359009FD371 /* Views */,
+				A22874282CFE636F009FD371 /* ViewModels */,
+				A22874302CFE643C009FD371 /* Models */,
+				A22874292CFE640F009FD371 /* Data */,
 				A2D2688C2CFD1F1000298AD1 /* Extensions.swift */,
 				A2D2688F2CFD206C00298AD1 /* Customs.md */,
 				A2D268802CFD1B7100298AD1 /* Assets.xcassets */,
@@ -107,6 +277,8 @@
 			dependencies = (
 			);
 			name = Hyderi;
+			packageProductDependencies = (
+			);
 			productName = Hyderi;
 			productReference = A2D268792CFD1B6F00298AD1 /* Hyderi.app */;
 			productType = "com.apple.product-type.application";
@@ -135,6 +307,8 @@
 				Base,
 			);
 			mainGroup = A2D268702CFD1B6F00298AD1;
+			packageReferences = (
+			);
 			productRefGroup = A2D2687A2CFD1B6F00298AD1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -149,7 +323,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A228742D2CFE6419009FD371 /* LICENSE in Resources */,
+				A228742E2CFE6419009FD371 /* Translators.json in Resources */,
+				A228742F2CFE6419009FD371 /* Quran.json in Resources */,
 				A2D268842CFD1B7100298AD1 /* Preview Assets.xcassets in Resources */,
+				A228744C2CFF9F9A009FD371 /* Safar.mp3 in Resources */,
+				A228744D2CFF9F9A009FD371 /* Jummah.mp3 in Resources */,
+				A228744E2CFF9F9A009FD371 /* Fajr.mp3 in Resources */,
+				A228744F2CFF9F9A009FD371 /* Kisa.mp3 in Resources */,
+				A22874502CFF9F9A009FD371 /* Duas.json in Resources */,
+				A22874512CFF9F9A009FD371 /* Hujjat.mp3 in Resources */,
+				A22874732CFFA943009FD371 /* Ziaraah.json in Resources */,
+				A22874742CFFA943009FD371 /* Amaals.json in Resources */,
+				A22874522CFF9F9A009FD371 /* Maghrib.mp3 in Resources */,
+				A22874532CFF9F9A009FD371 /* Asr.mp3 in Resources */,
+				A22874542CFF9F9A009FD371 /* Zuhr.mp3 in Resources */,
+				A22874552CFF9F9A009FD371 /* Isha.mp3 in Resources */,
+				A22874562CFF9F9A009FD371 /* Kumayl.mp3 in Resources */,
+				A228743E2CFF9408009FD371 /* KFGQPC-Uthmanic-Script-HAFS-Regular.otf in Resources */,
 				A2D268812CFD1B7100298AD1 /* Assets.xcassets in Resources */,
 				A2D268902CFD206C00298AD1 /* Customs.md in Resources */,
 			);
@@ -162,15 +353,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A22874702CFFA8F0009FD371 /* AmaalModel.swift in Sources */,
 				A228741F2CFE62C1009FD371 /* TasbeehView.swift in Sources */,
+				A22874662CFFA4EA009FD371 /* ZiyaratView.swift in Sources */,
 				A228741B2CFE62AD009FD371 /* CalendarView.swift in Sources */,
 				A22874242CFE62DC009FD371 /* DonationsView.swift in Sources */,
+				A22874322CFE6449009FD371 /* Quran.swift in Sources */,
+				A22874352CFE6C57009FD371 /* SurahView.swift in Sources */,
+				A228746A2CFFA51D009FD371 /* Ziyarat.swift in Sources */,
+				A228746E2CFFA8B9009FD371 /* ZiyaratModel.swift in Sources */,
+				A22874392CFE6CC6009FD371 /* ReadingView.swift in Sources */,
 				A2D2687F2CFD1B6F00298AD1 /* RootView.swift in Sources */,
+				A228745D2CFFA02C009FD371 /* DuaModel.swift in Sources */,
 				A2D2687D2CFD1B6F00298AD1 /* HyderiApp.swift in Sources */,
+				A22874622CFFA1B0009FD371 /* IbadatView.swift in Sources */,
 				A2D2688B2CFD1ED400298AD1 /* QuranView.swift in Sources */,
 				A2D2688D2CFD1F1000298AD1 /* Extensions.swift in Sources */,
+				A228746C2CFFA52B009FD371 /* Amaal.swift in Sources */,
+				A22874682CFFA4F1009FD371 /* AmaalView.swift in Sources */,
+				A22874372CFE6CC0009FD371 /* TranslationView.swift in Sources */,
 				A22874222CFE62D1009FD371 /* QiblaView.swift in Sources */,
 				A228741D2CFE62B6009FD371 /* EventsView.swift in Sources */,
+				A228745F2CFFA037009FD371 /* Dua.swift in Sources */,
+				A22874272CFE636B009FD371 /* QuranModel.swift in Sources */,
+				A22874642CFFA1B7009FD371 /* DuaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +513,7 @@
 				DEVELOPMENT_TEAM = 3CS5B84X2T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Hyderi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -336,6 +543,7 @@
 				DEVELOPMENT_TEAM = 3CS5B84X2T;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Hyderi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

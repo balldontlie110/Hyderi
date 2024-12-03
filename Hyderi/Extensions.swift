@@ -22,4 +22,28 @@ extension View {
             .minimumScaleFactor(0.5)
             .multilineTextAlignment(alignment)
     }
+    
+    func onRotate(perform action: @escaping () -> Void) -> some View {
+        self
+            .onReceive(NotificationCenter.default.publisher(for: UIDevice.orientationDidChangeNotification)) { _ in
+                action()
+            }
+    }
+}
+
+extension JSONDecoder {
+    func decode<T: Decodable>(from file: String, to type: T.Type) -> T? {
+        guard let path = Bundle.main.path(forResource: file, ofType: "json") else { return nil }
+        
+        do {
+            let data = try Data(contentsOf: URL(filePath: path))
+            let result = try self.decode(T.self, from: data)
+            
+            return result
+        } catch {
+            print(error)
+            
+            return nil
+        }
+    }
 }
