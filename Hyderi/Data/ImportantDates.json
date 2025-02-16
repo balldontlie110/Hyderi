@@ -1,0 +1,632 @@
+[
+    {
+        "id": 1,
+        "day": 1,
+        "month": 1,
+        "title": "1st of Muharram",
+        "subtitle": "Start of Islamic Year",
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 2,
+        "day": 10,
+        "month": 1,
+        "title": "Day of Ashura",
+        "subtitle": "Martydom of Imam Hussain (as)",
+        "year": 61,
+        "yearType": "AH"
+    },
+    {
+        "id": 3,
+        "day": 25,
+        "month": 1,
+        "title": "Martydom of Imam Zainul Abideen (as)",
+        "subtitle": null,
+        "year": 95,
+        "yearType": "AH"
+    },
+    {
+        "id": 4,
+        "day": 2,
+        "month": 2,
+        "title": "Battle of Siffin",
+        "subtitle": "Imam Ali (as)",
+        "year": 37,
+        "yearType": "AH"
+    },
+    {
+        "id": 5,
+        "day": 7,
+        "month": 2,
+        "title": "Martydom of Imam Hasan (as)",
+        "subtitle": null,
+        "year": 50,
+        "yearType": "AH"
+    },
+    {
+        "id": 6,
+        "day": 7,
+        "month": 2,
+        "title": "Birth of Imam Musa Al-Kazim (as)",
+        "subtitle": null,
+        "year": 128,
+        "yearType": "AH"
+    },
+    {
+        "id": 7,
+        "day": 10,
+        "month": 2,
+        "title": "Battle of Nahrwan",
+        "subtitle": "Won by Imam Ali (as)",
+        "year": 38,
+        "yearType": "AH"
+    },
+    {
+        "id": 8,
+        "day": 13,
+        "month": 2,
+        "title": "Death of Bibi Sakina",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 9,
+        "day": 17,
+        "month": 2,
+        "title": "Martydom of Imam Ali Ridha (as)",
+        "subtitle": null,
+        "year": 203,
+        "yearType": "AH"
+    },
+    {
+        "id": 10,
+        "day": 20,
+        "month": 2,
+        "title": "Arbaeen",
+        "subtitle": "40 days after Ashura",
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 11,
+        "day": 28,
+        "month": 2,
+        "title": "Death of Prophet Muhammad (saw)",
+        "subtitle": null,
+        "year": 11,
+        "yearType": "AH"
+    },
+    {
+        "id": 12,
+        "day": 1,
+        "month": 3,
+        "title": "Hijrah of Prophet Muhammad (saw)",
+        "subtitle": "Journey from Makkah to Medina",
+        "year": 1,
+        "yearType": "AH"
+    },
+    {
+        "id": 13,
+        "day": 8,
+        "month": 3,
+        "title": "Martydom of Imam Hasan Al-Askari (as)",
+        "subtitle": null,
+        "year": 260,
+        "yearType": "AH"
+    },
+    {
+        "id": 14,
+        "day": 9,
+        "month": 3,
+        "title": "Eid e Zahra",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 15,
+        "day": 17,
+        "month": 3,
+        "title": "Birth of Prophet Muhammad (saw)",
+        "subtitle": null,
+        "year": 570,
+        "yearType": "CE"
+    },
+    {
+        "id": 16,
+        "day": 17,
+        "month": 3,
+        "title": "Birth of Imam Jafar Al-Sadiq (as)",
+        "subtitle": null,
+        "year": 83,
+        "yearType": "AH"
+    },
+    {
+        "id": 17,
+        "day": 15,
+        "month": 3,
+        "title": "Building of Quba Mosque",
+        "subtitle": "First Mosque ever built",
+        "year": 1,
+        "yearType": "AH"
+    },
+    {
+        "id": 18,
+        "day": 18,
+        "month": 3,
+        "title": "Building of Masjid an Nabawi",
+        "subtitle": "Prophet's (saw) Mosque",
+        "year": 1,
+        "yearType": "AH"
+    },
+    {
+        "id": 19,
+        "day": 26,
+        "month": 3,
+        "title": "Peace treaty of Imam Hasan (as)",
+        "subtitle": "Imam Hasan (as) and Mu'awiya",
+        "year": 42,
+        "yearType": "AH"
+    },
+    {
+        "id": 20,
+        "day": 8,
+        "month": 4,
+        "title": "Martydom of Bibi Fatima",
+        "subtitle": null,
+        "year": 11,
+        "yearType": "AH"
+    },
+    {
+        "id": 21,
+        "day": 8,
+        "month": 4,
+        "title": "Birth Imam Hasan Al-Askari (as)",
+        "subtitle": null,
+        "year": 232,
+        "yearType": "AH"
+    },
+    {
+        "id": 22,
+        "day": 5,
+        "month": 5,
+        "title": "Birth of Bibi Zainab",
+        "subtitle": null,
+        "year": 5,
+        "yearType": "AH"
+    },
+    {
+        "id": 24,
+        "day": 14,
+        "month": 5,
+        "title": "Death of Abdul Muttalib",
+        "subtitle": "Grandfather of Prophet Muhammad (saw)",
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 23,
+        "day": 15,
+        "month": 5,
+        "title": "Birth of Imam Zainul Abideen (as)",
+        "subtitle": null,
+        "year": 38,
+        "yearType": "AH"
+    },
+    {
+        "id": 25,
+        "day": 17,
+        "month": 5,
+        "title": "Battle of Jamal",
+        "subtitle": "Won by Imam Ali (as)",
+        "year": 36,
+        "yearType": "AH"
+    },
+    {
+        "id": 26,
+        "day": 10,
+        "month": 6,
+        "title": "Battle of Mu'tah",
+        "subtitle": null,
+        "year": 3,
+        "yearType": "AH"
+    },
+    {
+        "id": 27,
+        "day": 13,
+        "month": 6,
+        "title": "Death of Bibi Ummul Baneen",
+        "subtitle": null,
+        "year": 64,
+        "yearType": "AH"
+    },
+    {
+        "id": 28,
+        "day": 20,
+        "month": 6,
+        "title": "Birth of Bibi Fatima",
+        "subtitle": null,
+        "year": 5,
+        "yearType": "BH"
+    },
+    {
+        "id": 29,
+        "day": 21,
+        "month": 6,
+        "title": "Death of Bibi Umm Kulthum",
+        "subtitle": null,
+        "year": 61,
+        "yearType": "BH"
+    },
+    {
+        "id": 30,
+        "day": 1,
+        "month": 7,
+        "title": "Birth of Imam Muhammad Baqir (as)",
+        "subtitle": null,
+        "year": 57,
+        "yearType": "AH"
+    },
+    {
+        "id": 31,
+        "day": 3,
+        "month": 7,
+        "title": "Martydom of Imam Ali Naqi (as)",
+        "subtitle": null,
+        "year": 252,
+        "yearType": "AH"
+    },
+    {
+        "id": 32,
+        "day": 5,
+        "month": 7,
+        "title": "Birth of Imam Ali (as)",
+        "subtitle": null,
+        "year": 600,
+        "yearType": "CE"
+    },
+    {
+        "id": 33,
+        "day": 9,
+        "month": 7,
+        "title": "Birth of Baby Ali Asghar (as)",
+        "subtitle": null,
+        "year": 60,
+        "yearType": "AH"
+    },
+    {
+        "id": 34,
+        "day": 10,
+        "month": 7,
+        "title": "Birth of Imam Muhammad Taqi (as)",
+        "subtitle": null,
+        "year": 195,
+        "yearType": "AH"
+    },
+    {
+        "id": 35,
+        "day": 12,
+        "month": 7,
+        "title": "Death of Hazrat Abbas ibn Abdul Muttalib (as)",
+        "subtitle": null,
+        "year": 32,
+        "yearType": "AH"
+    },
+    {
+        "id": 36,
+        "day": 15,
+        "month": 7,
+        "title": "Death of Bibi Zainab",
+        "subtitle": null,
+        "year": 62,
+        "yearType": "AH"
+    },
+    {
+        "id": 37,
+        "day": 20,
+        "month": 7,
+        "title": "Birth of Bibi Sakina",
+        "subtitle": null,
+        "year": 57,
+        "yearType": "AH"
+    },
+    {
+        "id": 38,
+        "day": 24,
+        "month": 7,
+        "title": "Battle of Khaybar",
+        "subtitle": "Won by Prophet Muhammad (saw)",
+        "year": 7,
+        "yearType": "AH"
+    },
+    {
+        "id": 39,
+        "day": 25,
+        "month": 7,
+        "title": "Martydom of Imam Musa Al-Kazim (as)",
+        "subtitle": null,
+        "year": 183,
+        "yearType": "AH"
+    },
+    {
+        "id": 40,
+        "day": 26,
+        "month": 7,
+        "title": "Death of Hazrat Abu Talib (as)",
+        "subtitle": null,
+        "year": 3,
+        "yearType": "BH"
+    },
+    {
+        "id": 41,
+        "day": 3,
+        "month": 8,
+        "title": "Birth of Imam Hussain (as)",
+        "subtitle": null,
+        "year": 4,
+        "yearType": "AH"
+    },
+    {
+        "id": 42,
+        "day": 4,
+        "month": 8,
+        "title": "Birth of Hazrat Abbas (as)",
+        "subtitle": null,
+        "year": 26,
+        "yearType": "AH"
+    },
+    {
+        "id": 43,
+        "day": 5,
+        "month": 8,
+        "title": "Birth of Imam Zainul Abideen (as)",
+        "subtitle": null,
+        "year": 38,
+        "yearType": "AH"
+    },
+    {
+        "id": 44,
+        "day": 7,
+        "month": 8,
+        "title": "Birth of Hazrat Qasim (as)",
+        "subtitle": null,
+        "year": 48,
+        "yearType": "AH"
+    },
+    {
+        "id": 45,
+        "day": 11,
+        "month": 8,
+        "title": "Birth of Hazrat Ali Akbar (as)",
+        "subtitle": null,
+        "year": 44,
+        "yearType": "AH"
+    },
+    {
+        "id": 46,
+        "day": 15,
+        "month": 8,
+        "title": "Birth of Imam Mehdi (atfs)",
+        "subtitle": null,
+        "year": 255,
+        "yearType": "AH"
+    },
+    {
+        "id": 47,
+        "day": 10,
+        "month": 9,
+        "title": "Death of Bibi Khadija",
+        "subtitle": null,
+        "year": 3,
+        "yearType": "BH"
+    },
+    {
+        "id": 48,
+        "day": 15,
+        "month": 9,
+        "title": "Birth of Imam Hasan (as)",
+        "subtitle": null,
+        "year": 3,
+        "yearType": "AH"
+    },
+    {
+        "id": 49,
+        "day": 19,
+        "month": 9,
+        "title": "Possible Laylatul Qadr",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 50,
+        "day": 21,
+        "month": 9,
+        "title": "Possible Laylatul Qadr",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 51,
+        "day": 21,
+        "month": 9,
+        "title": "Possible Laylatul Qadr",
+        "subtitle": null,
+        "year": 40,
+        "yearType": "AH"
+    },
+    {
+        "id": 52,
+        "day": 23,
+        "month": 9,
+        "title": "Possible Laylatul Qadr",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 53,
+        "day": 1,
+        "month": 10,
+        "title": "Eid Al-Fitr",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 54,
+        "day": 6,
+        "month": 10,
+        "title": "Battle of Hunayn",
+        "subtitle": "Won by Prophet Muhammad (saw)",
+        "year": 8,
+        "yearType": "AH"
+    },
+    {
+        "id": 55,
+        "day": 7,
+        "month": 10,
+        "title": "Battle of Uhud",
+        "subtitle": "Won by Quraysh",
+        "year": 3,
+        "yearType": "AH"
+    },
+    {
+        "id": 56,
+        "day": 7,
+        "month": 10,
+        "title": "Martydom of Hazrat Hamza (as)",
+        "subtitle": null,
+        "year": 3,
+        "yearType": "AH"
+    },
+    {
+        "id": 57,
+        "day": 9,
+        "month": 10,
+        "title": "Battle of Ahzab/Khandaq",
+        "subtitle": null,
+        "year": 5,
+        "yearType": "AH"
+    },
+    {
+        "id": 58,
+        "day": 9,
+        "month": 10,
+        "title": "Beginning of Ghaibat e Kubra",
+        "subtitle": null,
+        "year": 329,
+        "yearType": "AH"
+    },
+    {
+        "id": 59,
+        "day": 25,
+        "month": 10,
+        "title": "Martydom of Imam Jafar Al-Sadiq (as)",
+        "subtitle": null,
+        "year": 148,
+        "yearType": "AH"
+    },
+    {
+        "id": 60,
+        "day": 29,
+        "month": 10,
+        "title": "Birth of Hazrat Abu Talib (as)",
+        "subtitle": null,
+        "year": 535,
+        "yearType": "CE"
+    },
+    {
+        "id": 61,
+        "day": 6,
+        "month": 11,
+        "title": "Treaty of Hudaibiya",
+        "subtitle": null,
+        "year": 6,
+        "yearType": "AH"
+    },
+    {
+        "id": 62,
+        "day": 11,
+        "month": 11,
+        "title": "Birth of Imam Ali Ridha (as)",
+        "subtitle": null,
+        "year": 148,
+        "yearType": "AH"
+    },
+    {
+        "id": 63,
+        "day": 23,
+        "month": 11,
+        "title": "Martydom of Imam Ali Ridha (as)",
+        "subtitle": null,
+        "year": 203,
+        "yearType": "AH"
+    },
+    {
+        "id": 64,
+        "day": 29,
+        "month": 11,
+        "title": "Martydom of Imam Muhammad Taqi (as)",
+        "subtitle": null,
+        "year": 220,
+        "yearType": "AH"
+    },
+    {
+        "id": 65,
+        "day": 7,
+        "month": 12,
+        "title": "Martydom of Imam Muhammad Baqir (as)",
+        "subtitle": null,
+        "year": 114,
+        "yearType": "AH"
+    },
+    {
+        "id": 66,
+        "day": 9,
+        "month": 12,
+        "title": "Day of Arafah",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 67,
+        "day": 10,
+        "month": 12,
+        "title": "Eid Al-Adha",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 68,
+        "day": 16,
+        "month": 12,
+        "title": "Birth of Imam Ali Naqi (as)",
+        "subtitle": null,
+        "year": 212,
+        "yearType": "AH"
+    },
+    {
+        "id": 69,
+        "day": 18,
+        "month": 12,
+        "title": "Eid e Ghadir",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    },
+    {
+        "id": 70,
+        "day": 24,
+        "month": 12,
+        "title": "Eid e Mubahila",
+        "subtitle": null,
+        "year": null,
+        "yearType": null
+    }
+]

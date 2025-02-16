@@ -9,8 +9,9 @@
     4. Minimum Scale Factor
     5. Multiline Text Alignment
     6. Line Spacing
-    7. Frame
-    8. Background
+    7. Other formatting
+    8. Frame
+    9. Background
 
 ## Struct Protocols
 

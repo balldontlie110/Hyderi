@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "url": "Abdurrahmaan_As-Sudais_192kbps",
+        "localAsset": "AlSudais",
+        "fullName": "Abdul Rahman Al-Sudais",
+        "name": "Al-Sudais"
+    },
+    {
+        "id": 2,
+        "url": "Abdul_Basit_Mujawwad_128kbps",
+        "localAsset": "AbdulSamad",
+        "fullName": "Abdul Basit Abdul Samad",
+        "name": "Abdul Samad"
+    },
+    {
+        "id": 3,
+        "url": "Abu_Bakr_Ash-Shaatree_128kbps",
+        "localAsset": "AlShatri",
+        "fullName": "Abu Bakr Al-Shatri",
+        "name": "Al-Shatri"
+    },
+    {
+        "id": 4,
+        "url": "Minshawy_Mujawwad_192kbps",
+        "localAsset": "AlMinshawi",
+        "fullName": "Muhammad Siddiq Al-Minshawi",
+        "name": "Al-Minshawi"
+    },
+    {
+        "id": 5,
+        "url": "Husary_128kbps",
+        "localAsset": "AlHussary",
+        "fullName": "Mahmoud Khalil Al-Hussary",
+        "name": "Al-Hussary"
+    },
+    {
+        "id": 6,
+        "url": "Saood_ash-Shuraym_128kbps",
+        "localAsset": "AlShuraim",
+        "fullName": "Saud Al-Shuraim",
+        "name": "Al-Shuraim"
+    },
+    {
+        "id": 7,
+        "url": "Mohammad_al_Tablaway_128kbps",
+        "localAsset": "Tablawi",
+        "fullName": "Mohamed Tablawi",
+        "name": "Tablawi"
+    },
+    {
+        "id": 8,
+        "url": "Hani_Rifai_192kbps",
+        "localAsset": "ArRifai",
+        "fullName": "Hani Ar-Rifai",
+        "name": "Ar-Rifai"
+    },
+    {
+        "id": 9,
+        "url": "Alafasy_64kbps",
+        "localAsset": "Alafasy",
+        "fullName": "Mishary Rashid Alafasy",
+        "name": "Alafasy"
+    }
+]

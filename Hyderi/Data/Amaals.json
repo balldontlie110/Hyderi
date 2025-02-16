@@ -14,28 +14,32 @@
                         "heading": "1x Surah Al-Fatihah (1):",
                         "surahId": 1,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     },
                     {
                         "id": "1-2",
                         "heading": "3x Surah Al-Ikhlas (112):",
                         "surahId": 112,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     },
                     {
                         "id": "1-3",
                         "heading": "1x Surah Al-Falaq (113):",
                         "surahId": 113,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     },
                     {
                         "id": "1-4",
                         "heading": "1x Surah An-Nas (114):",
                         "surahId": 114,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     }
                 ]
             },
@@ -48,6 +52,7 @@
                         "heading": null,
                         "surahId": null,
                         "url": null,
+                        "linkTitle": null,
                         "body": [
                             {
                                 "id": "2-1-1",
@@ -97,13 +102,14 @@
             },
             {
                 "id": 3,
-                "description": "After Salaatul Witr, recite the following istighfar 70 times",
+                "description": "After Salaatul Witr, recite the following istighfar 70 times:",
                 "details": [
                     {
                         "id": "3-1",
                         "heading": null,
                         "surahId": null,
                         "url": null,
+                        "linkTitle": null,
                         "body": [
                             {
                                 "id": "3-1-1",
@@ -124,6 +130,7 @@
                         "heading": null,
                         "surahId": null,
                         "url": null,
+                        "linkTitle": null,
                         "body": [
                             {
                                 "id": "4-1-1",
@@ -141,7 +148,7 @@
         "id": 2,
         "title": "Amaal e Ashura",
         "subtitle": "Day of 10th Muharram",
-        "description": "The day of Ashura is a day of mourning, commemorating Imam Hussain (as) and his companions' martydom\n\nDuring this day, focus on the tragedy that took place and avoid business matters, acts of joy and unnecessary discussions\n\nAlso, it is sunnah to fast from Fajr to Asr late afternoon as a way of remembering the thirst of the army of Imam Hussain (as)",
+        "description": "The day of Ashura is a day of mourning, commemorating Imam Hussain (as) and his companions' martydom\n\nDuring this day, focus on the tragedy that took place and avoid business matters, acts of joy and unnecessary discussions\n\nAlso, it is sunnah to fast from Fajr to Asr late afternoon as a way of remembering the thirst of of Imam Hussain (as) and his army",
         "sections": [
             {
                 "id": 1,
@@ -149,31 +156,35 @@
                 "details": [
                     {
                         "id": "1-1",
-                        "heading": "In the first rakat of the first salaat, recite Surah Al-Kafirun (109) after Surah Al-Fatihah (1):",
+                        "heading": "In the first rakat of the first salaat, recite Surah Al-Kafirun (109):",
                         "surahId": 109,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     },
                     {
                         "id": "1-2",
-                        "heading": "In the second rakat of the first salaat, recite Surah Al-Ikhlas (112) after Surah Al-Fatihah (1):",
+                        "heading": "In the second rakat of the first salaat, recite Surah Al-Ikhlas (112):",
                         "surahId": 112,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     },
                     {
                         "id": "1-3",
-                        "heading": "In the first rakat of the second salaat, recite Surah Al-Ahzab (33) or any other surah after Surah Al-Fatihah (1):",
+                        "heading": "In the first rakat of the second salaat, recite Surah Al-Ahzab (33) or any other surah:",
                         "surahId": 33,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     },
                     {
                         "id": "1-4",
-                        "heading": "In the second rakat of the second salaat, recite Surah Al-Munafiqun (63) or any other surah after Surah Al-Fatihah (1):",
+                        "heading": "In the second rakat of the second salaat, recite Surah Al-Munafiqun (63):",
                         "surahId": 63,
                         "url": null,
-                        "body": []
+                        "linkTitle": null,
+                        "body": null
                     }
                 ]
             },
@@ -186,6 +197,7 @@
                         "heading": "Recite the following as you are walking forward:",
                         "surahId": null,
                         "url": null,
+                        "linkTitle": null,
                         "body": [
                             {
                                 "id": "2-1-1",
@@ -200,6 +212,7 @@
                         "heading": "Recite the following as you are walking backward:",
                         "surahId": null,
                         "url": null,
+                        "linkTitle": null,
                         "body": [
                             {
                                 "id": "2-1-1",
@@ -230,6 +243,7 @@
                         "heading": "Salaam e Akhir:",
                         "surahId": null,
                         "url": "https://youtu.be/Fu3BZf163pU?si=QdqLYWz30LPvm2Iv",
+                        "linkTitle": "Salaam e Akhir by Asad Jahan",
                         "body": [
                             {
                                 "id": "5-1-1",

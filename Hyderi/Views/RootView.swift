@@ -6,34 +6,79 @@
 //
 
 import SwiftUI
+import WStack
 
 struct RootView: View {
+    @StateObject private var quranModel: QuranModel = QuranModel()
+    @StateObject private var calendarModel: CalendarModel = CalendarModel()
+    @StateObject private var prayerTimeModel: PrayerTimeModel = PrayerTimeModel()
+    
     @Namespace private var namespace
     
     private let navigationColumns: [GridItem] = [GridItem](repeating: GridItem(.flexible()), count: 3)
     
+    @State private var showSocials: Bool = false
+    @State private var showQuranTime: Bool = false
+    @State private var showSettings: Bool = false
+    
+    @FetchRequest(sortDescriptors: [NSSortDescriptor(keyPath: \QuranTime.date, ascending: true)], animation: .default)
+    private var quranTimes: FetchedResults<QuranTime>
+    
+    @FetchRequest(sortDescriptors: [NSSortDescriptor(keyPath: \PrayerDay.date, ascending: true)], animation: .default)
+    private var prayerDays: FetchedResults<PrayerDay>
+    
     var body: some View {
         NavigationStack {
             ScrollView {
-                LazyVGrid(columns: navigationColumns) {
-                    navigationButton(withIcon: Icon("book"), titled: "Quran", to: QuranView())
-                    navigationButton(withIcon: Icon("calendar"), titled: "Calendar", to: CalendarView())
-                    navigationButton(withIcon: Icon("list.bullet"), titled: "Events", to: EventsView())
+                LazyVStack(spacing: 10) {
+                    DateSection(islamicDay: calendarModel.islamicDay, islamicMonth: calendarModel.islamicMonth, islamicYear: calendarModel.islamicYear, date: Date())
                     
-                    navigationButton(withIcon: Icon("hand.raised", mirror: true), titled: "Du'as", to: IbadatView(ibadahType: .duas))
-                    navigationButton(withIcon: Icon("moon.dust"), titled: "Ziaraah", to: IbadatView(ibadahType: .ziaraah))
-                    navigationButton(withIcon: Icon("books.vertical"), titled: "Amaals", to: IbadatView(ibadahType: .amaals))
+                    PrayerTimesView(prayerTimes: prayerTimes)
                     
-                    navigationButton(withIcon: Icon("circle.dotted"), titled: "Tasbeeh", to: TasbeehView())
-                    navigationButton(withIcon: Icon("safari"), titled: "Qibla", to: QiblaView())
-                    navigationButton(withIcon: Icon("dollarsign.circle"), titled: "Donations", to: DonationsView())
+                    LazyVGrid(columns: navigationColumns) {
+                        navigationButton(withIcon: Icon("book"), titled: "Quran", to: QuranView())
+                        navigationButton(withIcon: Icon("calendar"), titled: "Calendar", to: CalendarView(calendarModel: calendarModel, prayerTimeModel: prayerTimeModel))
+                        navigationButton(withIcon: Icon("list.bullet"), titled: "Events", to: EventsView())
+                        
+                        navigationButton(withIcon: Icon("hand.raised", mirror: true), titled: "Du'as", to: IbadatView(quranModel: quranModel, ibadahType: .duas))
+                        navigationButton(withIcon: Icon("moon.dust"), titled: "Ziaraah", to: IbadatView(quranModel: quranModel, ibadahType: .ziaraah))
+                        navigationButton(withIcon: Icon("books.vertical"), titled: "Amaals", to: IbadatView(quranModel: quranModel, ibadahType: .amaals))
+                        
+                        navigationButton(withIcon: Icon("music.microphone"), titled: "Nasheeds", to: IbadatView(quranModel: quranModel, ibadahType: .nasheeds))
+                        navigationButton(withIcon: Icon("circle.dotted"), titled: "Tasbeeh", to: TasbeehView())
+                        navigationButton(withIcon: Icon("location.north"), titled: "Qibla", to: QiblaView())
+                        
+                        Spacer()
+                        
+                        navigationButton(withIcon: Icon("gift"), titled: "Donations", to: DonationsView())
+                        
+                        Spacer()
+                    }
                 }.padding()
             }
             .scrollIndicators(.hidden)
             .toolbar {
-                Toolbar()
+                Toolbar(showSocials: $showSocials, showQuranTime: $showQuranTime, showSettings: $showSettings)
             }
         }
+        .sheet(isPresented: $showSocials) {
+            SocialsView()
+        }
+        .sheet(isPresented: $showQuranTime) {
+            QuranTimeView()
+        }
+        .sheet(isPresented: $showSettings) {
+            SettingsView(quranModel: quranModel, prayerTimeModel: prayerTimeModel)
+        }
+        .onAppear {
+            QuranTimeModel.updateStreak(quranTimes: Array(quranTimes))
+        }
+        .environment(\.quranTimes, Array(quranTimes))
+        .environmentObject(quranModel)
+    }
+    
+    private var prayerTimes: [Prayer : Date] {
+        PrayerTimeModel.prayerTimes(on: Date(), from: prayerTimeModel.prayerTimes)
     }
     
     private func navigationButton(withIcon icon: Icon, titled title: String, to view: any View, id: UUID = UUID()) -> some View {
@@ -48,7 +93,7 @@ struct RootView: View {
                 
                 Text(title)
                     .font(.system(.headline, weight: .bold))
-                    .singleLine(withAlignment: .center)
+                    .singleLine()
             }
             .foregroundStyle(Color.primary)
             .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -69,7 +114,7 @@ struct RootView: View {
         }
         
         var body: some View {
-            HStack(spacing: 0) {
+            HStack(spacing: -5) {
                 if mirror {
                     Image(systemName: icon)
                         .scaleEffect(x: -1)
@@ -81,13 +126,21 @@ struct RootView: View {
     }
     
     private struct Toolbar: ToolbarContent {
+        @Binding var showSocials: Bool
+        @Binding var showQuranTime: Bool
+        @Binding var showSettings: Bool
+        
         var body: some ToolbarContent {
             ToolbarItem(placement: .topBarLeading) {
-                favorites
+                socials
             }
             
             ToolbarItem(placement: .topBarLeading) {
-                socials
+                quranTime
+            }
+            
+            ToolbarItem(placement: .topBarLeading) {
+                prayerStreak
             }
             
             ToolbarItem(placement: .topBarTrailing) {
@@ -95,27 +148,36 @@ struct RootView: View {
             }
         }
         
-        private var favorites: some View {
-            NavigationLink {
-                
-            } label: {
-                Image(systemName: "heart")
-                    .foregroundStyle(Color.primary)
-            }
-        }
-        
         private var socials: some View {
-            NavigationLink {
-                
+            Button {
+                showSocials.toggle()
             } label: {
                 Image(systemName: "globe")
                     .foregroundStyle(Color.primary)
             }
         }
         
-        private var settings: some View {
+        private var quranTime: some View {
+            Button {
+                showQuranTime.toggle()
+            } label: {
+                Image(systemName: "flame")
+                    .foregroundStyle(Color.primary)
+            }
+        }
+        
+        private var prayerStreak: some View {
             NavigationLink {
-                
+                PrayerStreakView()
+            } label: {
+                Image(systemName: "clock")
+                    .foregroundStyle(Color.primary)
+            }
+        }
+        
+        private var settings: some View {
+            Button {
+                showSettings.toggle()
             } label: {
                 Image(systemName: "gear")
                     .foregroundStyle(Color.primary)

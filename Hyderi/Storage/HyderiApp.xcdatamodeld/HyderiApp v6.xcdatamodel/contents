@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23173.10" systemVersion="24D5034f" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="QuranNote" representedClassName="QuranNote" syncable="YES">
+        <attribute name="dateCreated" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dateModified" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" attributeType="String"/>
+        <attribute name="note" attributeType="String"/>
+        <attribute name="surahId" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="title" attributeType="String"/>
+        <attribute name="verseIds" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData"/>
+        <relationship name="folder" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="QuranNotesFolder" inverseName="quranNotes" inverseEntity="QuranNotesFolder"/>
+    </entity>
+    <entity name="QuranNotesFolder" representedClassName="QuranNotesFolder" syncable="YES">
+        <attribute name="dateCreated" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dateModified" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" attributeType="String"/>
+        <attribute name="title" attributeType="String"/>
+        <relationship name="quranNotes" toMany="YES" deletionRule="Cascade" destinationEntity="QuranNote" inverseName="folder" inverseEntity="QuranNote"/>
+    </entity>
+    <entity name="QuranTime" representedClassName="QuranTime" syncable="YES">
+        <attribute name="date" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="time" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+</model>
